@@ -28,8 +28,16 @@
                     /* other */ '#ccc'
                     ],
                 'circle-radius': 5,
-                'circle-stroke-width': 1,
                 'circle-stroke-color': '#ffffff',
+                'circle-stroke-width': [
+                    'match',
+                    ['get', 'clustered'],
+                    True,
+                    1,
+                    False,
+                    0,
+                    /* other */ 0
+                    ],
                 'circle-opacity': 0.7
             }
         });
