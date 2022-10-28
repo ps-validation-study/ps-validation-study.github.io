@@ -76,6 +76,7 @@
             + "<div>"+"<strong>Label Type:</strong> " + label_type + "</div>"
             + "<div>"+"<strong>Severity:</strong> " + severity + "</div>"
             + "<div>"+"<strong>Tags:</strong> " + tag + "</div>"
+            + "<div>"+"<strong>Cluster:</strong> " + clustered + "</div>"
             + "<div>"+"<strong>Cluster ID:</strong> " + cluster + "</div>"
             + "<div>"+img+"</div>").addTo(map);
         });
