@@ -8,21 +8,12 @@
         center: [-122.33319,47.61290],
         zoom: 9
     });
-    var arr = null;
-    $.ajax({
-    'async': false,
-    'global': false,
-    'url': "/data/seattle_curb_ramp.json",
-    'dataType': "json",
-    'success': function (data) {
-        arr = data;
-    }
-});
+
 
     map.on('load', () => {
         map.addSource('places', {
             'type': 'geojson',
-            'data': arr
+            'data': 'https://raw.githubusercontent.com/ps-validation-study/ps-validation-study.github.io/source/data/seattle_curb_ramp.json'
         });
         // Add a layer showing the places.
         map.addLayer({
@@ -38,7 +29,11 @@
                     /* other */ '#ccc'
                     ],
                 'circle-radius': 5,
-                'circle-stroke-width': 1,
+                'circle-stroke-width': ['case',
+                ['==', ['get', 'clustered'], true],
+                2,
+                0,
+                ],
                 'circle-stroke-color': '#ffffff',
                 'circle-opacity': 0.7
             }
