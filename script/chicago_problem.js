@@ -61,6 +61,7 @@
             const img = "<img width = 270px src=" +"'" + url + "'" + "/>"
             const user = e.features[0].properties.username;
             const cluster = e.features[0].properties.cluster_id;
+            const clustered = e.features[0].properties.clustered;
   
             
 
