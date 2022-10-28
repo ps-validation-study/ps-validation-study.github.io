@@ -8,21 +8,11 @@
         center: [-87.77070,41.88406],
         zoom: 9
     });
-    var arr = null;
-    $.ajax({
-    'async': false,
-    'global': false,
-    'url': "https://raw.githubusercontent.com/crescendochu/validation-study-web/main/data/chicago_curb_ramp.json",
-    'dataType': "json",
-    'success': function (data) {
-        arr = data;
-    }
-});
 
     map.on('load', () => {
         map.addSource('places', {
             'type': 'geojson',
-            'data': arr
+            'data': "https://raw.githubusercontent.com/crescendochu/validation-study-web/main/data/chicago_curb_ramp.json"
         });
         // Add a layer showing the places.
         map.addLayer({
