@@ -29,15 +29,11 @@
                     ],
                 'circle-radius': 5,
                 'circle-stroke-color': '#ffffff',
-                'circle-stroke-width': [
-                    'match',
-                    ['get', 'clustered'],
-                    True,
-                    1,
-                    False,
-                    0,
-                    /* other */ 0
-                    ],
+                'circle-stroke-width': ['case',
+                ['==', ['get', 'clustered'], true],
+                2,
+                0,
+                ],
                 'circle-opacity': 0.7
             }
         });
@@ -62,6 +58,7 @@
             const img = "<img width = 270px src=" +"'" + url + "'" + "/>"
             const user = e.features[0].properties.username;
             const cluster = e.features[0].properties.cluster_id;
+            const clustered = e.features[0].properties.clustered;
   
             
 
@@ -79,6 +76,7 @@
             + "<div>"+"<strong>Label Type:</strong> " + label_type + "</div>"
             + "<div>"+"<strong>Severity:</strong> " + severity + "</div>"
             + "<div>"+"<strong>Tags:</strong> " + tag + "</div>"
+            + "<div>"+"<strong>Cluster:</strong> " + clustered + "</div>"
             + "<div>"+"<strong>Cluster ID:</strong> " + cluster + "</div>"
             + "<div>"+img+"</div>").addTo(map);
         });
