@@ -12,7 +12,7 @@
     map.on('load', () => {
         map.addSource('places', {
             'type': 'geojson',
-            'data': "https://raw.githubusercontent.com/crescendochu/validation-study-web/main/data/chicago_curb_ramp.json"
+            'data': "https://raw.githubusercontent.com/ps-validation-study/ps-validation-study.github.io/source/data/chicago_curb_ramp.json"
         });
         // Add a layer showing the places.
         map.addLayer({
