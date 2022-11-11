@@ -22,7 +22,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 65,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_99.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -53,7 +54,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 67,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_100.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +86,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 94,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_103.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -115,7 +118,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 92,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_105.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -146,7 +150,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 1,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_106.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -177,7 +182,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 8,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_113.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -208,7 +214,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 9,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_114.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -239,7 +246,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 11,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_118.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -270,7 +278,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 13,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_119.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -301,7 +310,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 2,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_120.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -332,7 +342,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 78,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_121.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -363,7 +374,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 4,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_122.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -394,7 +406,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 55,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_148.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -425,7 +438,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 51,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_151.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -456,7 +470,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 80,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_157.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -487,7 +502,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 85,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_158.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -518,7 +534,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 87,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_159.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -549,7 +566,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 83,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_160.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -580,7 +598,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 7,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_161.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -611,7 +630,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 6,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_162.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -642,7 +662,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 89,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_163.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -673,7 +694,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 71,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_164.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -704,7 +726,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 15,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_460.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -735,7 +758,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 16,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_462.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -766,7 +790,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 50,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_463.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -797,7 +822,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 18,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_464.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -828,7 +854,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 42,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_465.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -859,7 +886,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 37,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_466.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -890,7 +918,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 48,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_469.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -921,7 +950,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 133,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_471.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -952,7 +982,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 46,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_472.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -983,7 +1014,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 115,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_476.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1014,7 +1046,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 117,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_477.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1045,7 +1078,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 120,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_478.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1076,7 +1110,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 122,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_479.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1107,7 +1142,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 130,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_483.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1138,7 +1174,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 126,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_484.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1169,7 +1206,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 22,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_485.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1200,7 +1238,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 20,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_486.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1231,7 +1270,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 41,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_492.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1262,7 +1302,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 45,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_493.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1293,7 +1334,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 44,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_494.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1324,7 +1366,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 39,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_495.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1355,7 +1398,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 40,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_496.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1386,7 +1430,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 34,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_497.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1417,7 +1462,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 33,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_498.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1448,7 +1494,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 32,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_502.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1479,7 +1526,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 29,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_503.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1510,7 +1558,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 26,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_507.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1541,7 +1590,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 24,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_508.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1572,7 +1622,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 30,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_515.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1603,7 +1654,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 35,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_516.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1634,7 +1686,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 27,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_517.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1665,7 +1718,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 152,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_851.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1696,7 +1750,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 154,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_856.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1727,7 +1782,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 155,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_860.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1758,7 +1814,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 149,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_861.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1789,7 +1846,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 151,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_863.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1820,7 +1878,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 150,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_864.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1851,7 +1910,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 143,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_865.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1882,7 +1942,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 135,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_868.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1913,7 +1974,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 146,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_869.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1944,7 +2006,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 148,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_870.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -1975,7 +2038,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 145,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_871.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2006,7 +2070,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 140,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_872.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2037,7 +2102,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 139,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_873.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2068,7 +2134,8 @@
                 "Unnamed: 15": "cracks",
                 "Unnamed: 16": null,
                 "cluster_id": 138,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_874.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2099,7 +2166,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 141,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_876.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2130,7 +2198,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 137,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_877.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2161,7 +2230,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 129,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_878.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2192,7 +2262,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 132,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_880.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2223,7 +2294,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 128,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_881.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2254,7 +2326,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 125,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_882.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2285,7 +2358,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 124,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_883.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2316,7 +2390,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 119,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_886.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2347,7 +2422,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 114,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_888.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2378,7 +2454,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 113,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_889.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2409,7 +2486,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 112,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1053.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2440,7 +2518,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 111,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1056.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2471,7 +2550,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 110,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1057.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2502,7 +2582,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 109,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1058.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2533,7 +2614,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 108,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1059.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2564,7 +2646,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 103,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1060.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2595,7 +2678,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 101,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1066.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2626,7 +2710,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 104,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1067.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2657,7 +2742,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 100,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1074.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2688,7 +2774,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 98,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1075.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2719,7 +2806,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 99,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1076.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2750,7 +2838,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 97,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1077.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2781,7 +2870,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 106,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1078.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2812,7 +2902,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 96,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1079.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2843,7 +2934,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 63,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1080.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2874,7 +2966,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 70,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1434.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2905,7 +2998,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 69,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1435.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2936,7 +3030,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 91,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1436.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2967,7 +3062,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 82,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1443.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -2998,7 +3094,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 74,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1444.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3029,7 +3126,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 75,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1445.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3060,7 +3158,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 76,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1446.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3091,7 +3190,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 73,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1449.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3122,7 +3222,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 60,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1455.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3153,7 +3254,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 61,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1456.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3184,7 +3286,8 @@
                 "Unnamed: 15": " a chunk of sidewalk cracked away",
                 "Unnamed: 16": " or just wet",
                 "cluster_id": 62,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1457.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3215,7 +3318,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 58,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1458.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3246,7 +3350,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 57,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1459.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3277,7 +3382,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 53,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1474.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3308,7 +3414,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 155,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1480.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3339,7 +3446,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 154,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1481.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3370,7 +3478,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 153,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1482.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3401,7 +3510,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 151,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1485.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3432,7 +3542,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 150,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1486.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3463,7 +3574,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 149,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1487.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3494,7 +3606,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 148,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1490.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3525,7 +3638,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 147,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1491.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3556,7 +3670,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 145,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1492.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3587,7 +3702,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 144,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1493.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3618,7 +3734,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 142,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1494.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3649,7 +3766,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 140,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1495.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3680,7 +3798,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 139,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1496.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3711,7 +3830,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 138,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1497.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3742,7 +3862,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 137,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1498.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3773,7 +3894,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 136,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1499.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3804,7 +3926,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 134,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1500.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3835,7 +3958,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 132,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1501.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3866,7 +3990,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 131,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1502.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3897,7 +4022,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 129,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1503.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3928,7 +4054,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 128,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1504.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3959,7 +4086,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 127,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1505.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -3990,7 +4118,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 125,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1506.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4021,7 +4150,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 124,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1507.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4052,7 +4182,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 123,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1510.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4083,7 +4214,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 121,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1511.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4114,7 +4246,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 119,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1512.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4145,7 +4278,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 118,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1513.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4176,7 +4310,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 116,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1514.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4207,7 +4342,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 114,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1515.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4238,7 +4374,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 156,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1516.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4269,7 +4406,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 157,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1519.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4300,7 +4438,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 113,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1520.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4331,7 +4470,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 112,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1531.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4362,7 +4502,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 111,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1534.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4393,7 +4534,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 110,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1535.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4424,7 +4566,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 109,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1537.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4455,7 +4598,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 108,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1538.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4486,7 +4630,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 107,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1539.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4517,7 +4662,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 105,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1540.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4548,7 +4694,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 103,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1541.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4579,7 +4726,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 102,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1552.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4610,7 +4758,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 100,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1553.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4641,7 +4790,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 99,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1554.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4672,7 +4822,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 98,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1561.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4703,7 +4854,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 97,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1563.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4734,7 +4886,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 96,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1565.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4765,7 +4918,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 158,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1742.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4796,7 +4950,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 95,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1906.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4827,7 +4982,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 93,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1907.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4858,7 +5014,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 91,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1908.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4889,7 +5046,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 90,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1909.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4920,7 +5078,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 88,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1910.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4951,7 +5110,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 86,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1911.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -4982,7 +5142,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 84,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1915.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5013,7 +5174,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 82,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1920.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5044,7 +5206,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 81,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1921.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5075,7 +5238,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 79,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1922.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5106,7 +5270,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 77,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1923.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5137,7 +5302,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 75,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1924.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5168,7 +5334,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 74,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1925.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5199,7 +5366,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 73,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1929.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5230,7 +5398,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 72,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1935.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5261,7 +5430,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 70,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1936.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5292,7 +5462,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 69,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1938.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5323,7 +5494,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 68,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1955.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5354,7 +5526,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 66,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1956.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5385,7 +5558,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 64,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1957.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5416,7 +5590,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 159,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1958.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5447,7 +5622,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 160,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1959.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5478,7 +5654,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 161,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1960.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5509,7 +5686,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 62,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1961.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5540,7 +5718,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 61,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1962.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5571,7 +5750,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 60,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1963.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5602,7 +5782,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 59,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1964.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5633,7 +5814,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 57,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_1965.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5664,7 +5846,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 56,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1967.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5695,7 +5878,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 54,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1981.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5726,7 +5910,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 52,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_1982.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5757,7 +5942,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 50,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2116.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5788,7 +5974,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 49,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2130.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5819,7 +6006,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 47,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2131.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5850,7 +6038,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 45,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2132.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5881,7 +6070,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 44,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2133.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5912,7 +6102,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 43,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2134.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5943,7 +6134,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 41,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2135.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -5974,7 +6166,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 40,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2136.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6005,7 +6198,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 39,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2137.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6036,7 +6230,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 38,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2138.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6067,7 +6262,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 36,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2139.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6098,7 +6294,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 34,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2141.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6129,7 +6326,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 33,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2142.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6160,7 +6358,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 32,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2144.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6191,7 +6390,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 31,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2145.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6222,7 +6422,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 29,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2146.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6253,7 +6454,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 28,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2147.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6284,7 +6486,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 26,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2148.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6315,7 +6518,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 25,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2149.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6346,7 +6550,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 23,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2162.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6377,7 +6582,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 21,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2163.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6408,7 +6614,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 19,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2164.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6439,7 +6646,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 17,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2167.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6470,7 +6678,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 15,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2168.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6501,7 +6710,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 14,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2362.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6532,7 +6742,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 12,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2363.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6563,7 +6774,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 10,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2364.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6594,7 +6806,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 8,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2365.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6625,7 +6838,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 7,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2368.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6656,7 +6870,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 6,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2369.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6687,7 +6902,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 5,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2378.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6718,7 +6934,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 3,
-                "clustered": false
+                "clustered": false,
+                "img_url": "img/chicago_with_icons/label_id_2380.jpg"
             },
             "geometry": {
                 "type": "Point",
@@ -6749,7 +6966,8 @@
                 "Unnamed: 15": null,
                 "Unnamed: 16": null,
                 "cluster_id": 1,
-                "clustered": true
+                "clustered": true,
+                "img_url": "img/chicago_with_icons/label_id_2386.jpg"
             },
             "geometry": {
                 "type": "Point",
