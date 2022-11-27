@@ -4,6 +4,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 99,
                 "username": "Devon Snyder",
                 "label_id": 99,
                 "street_edge_id": 447,
@@ -18,12 +19,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 65,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_99.jpg"
+                "cluster_id": 63,
+                "img_url": "img/chicago_with_icons/label_id_99.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -36,6 +34,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 100,
                 "username": "Devon Snyder",
                 "label_id": 100,
                 "street_edge_id": 447,
@@ -50,12 +49,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 67,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_100.jpg"
+                "img_url": "img/chicago_with_icons/label_id_100.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -68,38 +64,7 @@
         {
             "type": "Feature",
             "properties": {
-                "username": "Devon Snyder",
-                "label_id": 103,
-                "street_edge_id": 447,
-                "neighborhood": "Skokie",
-                "label_type": "SurfaceProblem",
-                "lat": 42.0234642028809,
-                "lng": -87.7280044555664,
-                "gsv_panorama_id": "BMhU3MUjwcgFnO2ax-6TxQ",
-                "time_created": "2022-05-10 15:01:27.068-07",
-                "correct": "t",
-                "severity": 2,
-                "temporary": "f",
-                "tag_list": "cracks",
-                "description": "grass",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 94,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_103.jpg"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.7280044555664,
-                    42.0234642028809
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
+                "Unnamed: 0": 105,
                 "username": "Devon Snyder",
                 "label_id": 105,
                 "street_edge_id": 447,
@@ -112,14 +77,11 @@
                 "correct": "t",
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 92,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_105.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 88,
+                "img_url": "img/chicago_with_icons/label_id_105.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -132,6 +94,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 106,
                 "username": "Devon Snyder",
                 "label_id": 106,
                 "street_edge_id": 447,
@@ -144,14 +107,11 @@
                 "correct": "t",
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "cracks",
-                "description": "grass",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "grass,cracks",
+                "description": null,
                 "cluster_id": 1,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_106.jpg"
+                "img_url": "img/chicago_with_icons/label_id_106.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -164,6 +124,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 113,
                 "username": "Devon Snyder",
                 "label_id": 113,
                 "street_edge_id": 437,
@@ -178,12 +139,9 @@
                 "temporary": "t",
                 "tag_list": "construction",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 8,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_113.jpg"
+                "img_url": "img/chicago_with_icons/label_id_113.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -196,6 +154,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 114,
                 "username": "Devon Snyder",
                 "label_id": 114,
                 "street_edge_id": 447,
@@ -210,12 +169,9 @@
                 "temporary": "t",
                 "tag_list": "construction",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 9,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_114.jpg"
+                "img_url": "img/chicago_with_icons/label_id_114.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -228,6 +184,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 118,
                 "username": "Devon Snyder",
                 "label_id": 118,
                 "street_edge_id": 447,
@@ -242,12 +199,9 @@
                 "temporary": "f",
                 "tag_list": "bumpy",
                 "description": "plate",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 11,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_118.jpg"
+                "img_url": "img/chicago_with_icons/label_id_118.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -260,6 +214,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 119,
                 "username": "Devon Snyder",
                 "label_id": 119,
                 "street_edge_id": 437,
@@ -274,12 +229,9 @@
                 "temporary": "f",
                 "tag_list": "bumpy",
                 "description": "plate",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 13,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_119.jpg"
+                "img_url": "img/chicago_with_icons/label_id_119.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -292,6 +244,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 120,
                 "username": "Devon Snyder",
                 "label_id": 120,
                 "street_edge_id": 447,
@@ -306,12 +259,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 2,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_120.jpg"
+                "img_url": "img/chicago_with_icons/label_id_120.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -324,6 +274,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 121,
                 "username": "Devon Snyder",
                 "label_id": 121,
                 "street_edge_id": 447,
@@ -336,14 +287,11 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "uneven/slanted",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 78,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_121.jpg"
+                "tag_list": "cracks,uneven/slanted",
+                "description": null,
+                "cluster_id": 74,
+                "img_url": "img/chicago_with_icons/label_id_121.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -356,6 +304,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 122,
                 "username": "Devon Snyder",
                 "label_id": 122,
                 "street_edge_id": 447,
@@ -370,12 +319,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 4,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_122.jpg"
+                "img_url": "img/chicago_with_icons/label_id_122.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -388,6 +334,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 148,
                 "username": "Devon Snyder",
                 "label_id": 148,
                 "street_edge_id": 413,
@@ -402,12 +349,9 @@
                 "temporary": "f",
                 "tag_list": "pole",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 55,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_148.jpg"
+                "img_url": "img/chicago_with_icons/label_id_148.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -420,6 +364,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 151,
                 "username": "Devon Snyder",
                 "label_id": 151,
                 "street_edge_id": 413,
@@ -434,12 +379,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 51,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_151.jpg"
+                "img_url": "img/chicago_with_icons/label_id_151.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -452,6 +394,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 157,
                 "username": "Devon Snyder",
                 "label_id": 157,
                 "street_edge_id": 437,
@@ -466,12 +409,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 80,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_157.jpg"
+                "cluster_id": 76,
+                "img_url": "img/chicago_with_icons/label_id_157.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -484,6 +424,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 158,
                 "username": "Devon Snyder",
                 "label_id": 158,
                 "street_edge_id": 437,
@@ -498,12 +439,9 @@
                 "temporary": "f",
                 "tag_list": "bumpy",
                 "description": "plate",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 85,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_158.jpg"
+                "cluster_id": 81,
+                "img_url": "img/chicago_with_icons/label_id_158.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -516,6 +454,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 159,
                 "username": "Devon Snyder",
                 "label_id": 159,
                 "street_edge_id": 437,
@@ -530,12 +469,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 87,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_159.jpg"
+                "cluster_id": 83,
+                "img_url": "img/chicago_with_icons/label_id_159.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -548,6 +484,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 160,
                 "username": "Devon Snyder",
                 "label_id": 160,
                 "street_edge_id": 437,
@@ -562,12 +499,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 83,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_160.jpg"
+                "cluster_id": 79,
+                "img_url": "img/chicago_with_icons/label_id_160.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -580,6 +514,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 161,
                 "username": "Devon Snyder",
                 "label_id": 161,
                 "street_edge_id": 437,
@@ -594,12 +529,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 7,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_161.jpg"
+                "img_url": "img/chicago_with_icons/label_id_161.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -612,6 +544,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 162,
                 "username": "Devon Snyder",
                 "label_id": 162,
                 "street_edge_id": 437,
@@ -626,12 +559,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 6,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_162.jpg"
+                "img_url": "img/chicago_with_icons/label_id_162.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -644,6 +574,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 163,
                 "username": "Devon Snyder",
                 "label_id": 163,
                 "street_edge_id": 437,
@@ -658,12 +589,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 89,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_163.jpg"
+                "cluster_id": 85,
+                "img_url": "img/chicago_with_icons/label_id_163.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -676,6 +604,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 164,
                 "username": "Devon Snyder",
                 "label_id": 164,
                 "street_edge_id": 437,
@@ -690,12 +619,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 71,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_164.jpg"
+                "cluster_id": 90,
+                "img_url": "img/chicago_with_icons/label_id_164.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -708,6 +634,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 460,
                 "username": "Devon Snyder",
                 "label_id": 460,
                 "street_edge_id": 419,
@@ -722,12 +649,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": "not on the sidewalk but could still interfere with an individual's travel through intersection",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 15,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_460.jpg"
+                "img_url": "img/chicago_with_icons/label_id_460.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -740,6 +664,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 462,
                 "username": "Devon Snyder",
                 "label_id": 462,
                 "street_edge_id": 417,
@@ -754,12 +679,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 16,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_462.jpg"
+                "img_url": "img/chicago_with_icons/label_id_462.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -772,6 +694,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 463,
                 "username": "Devon Snyder",
                 "label_id": 463,
                 "street_edge_id": 417,
@@ -786,12 +709,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 50,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_463.jpg"
+                "img_url": "img/chicago_with_icons/label_id_463.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -804,6 +724,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 464,
                 "username": "Devon Snyder",
                 "label_id": 464,
                 "street_edge_id": 421,
@@ -818,12 +739,9 @@
                 "temporary": "f",
                 "tag_list": "narrow sidewalk",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 18,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_464.jpg"
+                "img_url": "img/chicago_with_icons/label_id_464.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -836,6 +754,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 465,
                 "username": "Devon Snyder",
                 "label_id": 465,
                 "street_edge_id": 421,
@@ -850,12 +769,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 42,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_465.jpg"
+                "img_url": "img/chicago_with_icons/label_id_465.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -868,6 +784,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 466,
                 "username": "Devon Snyder",
                 "label_id": 466,
                 "street_edge_id": 421,
@@ -881,13 +798,10 @@
                 "severity": 4,
                 "temporary": "f",
                 "tag_list": "construction",
-                "description": "traffic cones",
-                "Unnamed: 14": " unsure why they are placed there?",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "description": "traffic cones, unsure why they are placed there?",
                 "cluster_id": 37,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_466.jpg"
+                "img_url": "img/chicago_with_icons/label_id_466.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -900,6 +814,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 469,
                 "username": "Devon Snyder",
                 "label_id": 469,
                 "street_edge_id": 421,
@@ -914,12 +829,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 48,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_469.jpg"
+                "cluster_id": 30,
+                "img_url": "img/chicago_with_icons/label_id_469.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -932,6 +844,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 471,
                 "username": "Devon Snyder",
                 "label_id": 471,
                 "street_edge_id": 421,
@@ -944,14 +857,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "cracks",
-                "description": "height difference",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 133,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_471.jpg"
+                "tag_list": "cracks,height difference",
+                "description": null,
+                "cluster_id": 46,
+                "img_url": "img/chicago_with_icons/label_id_471.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -964,6 +874,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 472,
                 "username": "Devon Snyder",
                 "label_id": 472,
                 "street_edge_id": 421,
@@ -978,12 +889,9 @@
                 "temporary": "f",
                 "tag_list": "narrow sidewalk",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 46,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_472.jpg"
+                "cluster_id": 48,
+                "img_url": "img/chicago_with_icons/label_id_472.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -996,6 +904,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 476,
                 "username": "Devon Snyder",
                 "label_id": 476,
                 "street_edge_id": 421,
@@ -1010,12 +919,9 @@
                 "temporary": "f",
                 "tag_list": "narrow sidewalk",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 115,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_476.jpg"
+                "cluster_id": 35,
+                "img_url": "img/chicago_with_icons/label_id_476.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1028,6 +934,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 477,
                 "username": "Devon Snyder",
                 "label_id": 477,
                 "street_edge_id": 421,
@@ -1040,14 +947,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "cracks",
-                "description": "height difference",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 117,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_477.jpg"
+                "tag_list": "cracks,height difference",
+                "description": null,
+                "cluster_id": 112,
+                "img_url": "img/chicago_with_icons/label_id_477.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1060,6 +964,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 478,
                 "username": "Devon Snyder",
                 "label_id": 478,
                 "street_edge_id": 421,
@@ -1074,12 +979,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 120,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_478.jpg"
+                "cluster_id": 114,
+                "img_url": "img/chicago_with_icons/label_id_478.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1092,6 +994,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 479,
                 "username": "Devon Snyder",
                 "label_id": 479,
                 "street_edge_id": 421,
@@ -1106,12 +1009,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 122,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_479.jpg"
+                "cluster_id": 118,
+                "img_url": "img/chicago_with_icons/label_id_479.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1124,6 +1024,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 483,
                 "username": "Devon Snyder",
                 "label_id": 483,
                 "street_edge_id": 421,
@@ -1138,12 +1039,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 130,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_483.jpg"
+                "cluster_id": 125,
+                "img_url": "img/chicago_with_icons/label_id_483.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1156,6 +1054,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 484,
                 "username": "Devon Snyder",
                 "label_id": 484,
                 "street_edge_id": 421,
@@ -1170,12 +1069,9 @@
                 "temporary": "f",
                 "tag_list": "narrow sidewalk",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 126,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_484.jpg"
+                "cluster_id": 122,
+                "img_url": "img/chicago_with_icons/label_id_484.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1188,6 +1084,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 485,
                 "username": "Devon Snyder",
                 "label_id": 485,
                 "street_edge_id": 424,
@@ -1202,12 +1099,9 @@
                 "temporary": "f",
                 "tag_list": "bumpy",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 22,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_485.jpg"
+                "img_url": "img/chicago_with_icons/label_id_485.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1220,6 +1114,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 486,
                 "username": "Devon Snyder",
                 "label_id": 486,
                 "street_edge_id": 424,
@@ -1234,12 +1129,9 @@
                 "temporary": "f",
                 "tag_list": "bumpy",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 20,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_486.jpg"
+                "img_url": "img/chicago_with_icons/label_id_486.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1252,6 +1144,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 492,
                 "username": "Devon Snyder",
                 "label_id": 492,
                 "street_edge_id": 445,
@@ -1266,12 +1159,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 41,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_492.jpg"
+                "img_url": "img/chicago_with_icons/label_id_492.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1284,6 +1174,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 493,
                 "username": "Devon Snyder",
                 "label_id": 493,
                 "street_edge_id": 445,
@@ -1298,12 +1189,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 45,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_493.jpg"
+                "img_url": "img/chicago_with_icons/label_id_493.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1316,6 +1204,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 494,
                 "username": "Devon Snyder",
                 "label_id": 494,
                 "street_edge_id": 445,
@@ -1330,12 +1219,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 44,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_494.jpg"
+                "img_url": "img/chicago_with_icons/label_id_494.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1348,6 +1234,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 495,
                 "username": "Devon Snyder",
                 "label_id": 495,
                 "street_edge_id": 445,
@@ -1362,12 +1249,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 39,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_495.jpg"
+                "img_url": "img/chicago_with_icons/label_id_495.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1380,6 +1264,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 496,
                 "username": "Devon Snyder",
                 "label_id": 496,
                 "street_edge_id": 445,
@@ -1394,12 +1279,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 40,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_496.jpg"
+                "img_url": "img/chicago_with_icons/label_id_496.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1412,6 +1294,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 497,
                 "username": "Devon Snyder",
                 "label_id": 497,
                 "street_edge_id": 445,
@@ -1426,12 +1309,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 34,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_497.jpg"
+                "img_url": "img/chicago_with_icons/label_id_497.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1444,6 +1324,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 498,
                 "username": "Devon Snyder",
                 "label_id": 498,
                 "street_edge_id": 445,
@@ -1458,12 +1339,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 33,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_498.jpg"
+                "img_url": "img/chicago_with_icons/label_id_498.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1476,6 +1354,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 502,
                 "username": "Devon Snyder",
                 "label_id": 502,
                 "street_edge_id": 445,
@@ -1489,13 +1368,10 @@
                 "severity": 4,
                 "temporary": "t",
                 "tag_list": "trash/recycling can",
-                "description": "temporary",
-                "Unnamed: 14": " but makes sidewalk impassable unless pedestrian can move around the object",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "description": "temporary, but makes sidewalk impassable unless pedestrian can move around the object",
                 "cluster_id": 32,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_502.jpg"
+                "img_url": "img/chicago_with_icons/label_id_502.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1508,6 +1384,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 503,
                 "username": "Devon Snyder",
                 "label_id": 503,
                 "street_edge_id": 445,
@@ -1522,12 +1399,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 29,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_503.jpg"
+                "img_url": "img/chicago_with_icons/label_id_503.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1540,6 +1414,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 507,
                 "username": "Devon Snyder",
                 "label_id": 507,
                 "street_edge_id": 445,
@@ -1554,12 +1429,9 @@
                 "temporary": "f",
                 "tag_list": "pole",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 26,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_507.jpg"
+                "img_url": "img/chicago_with_icons/label_id_507.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1572,6 +1444,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 508,
                 "username": "Devon Snyder",
                 "label_id": 508,
                 "street_edge_id": 445,
@@ -1586,12 +1459,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 24,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_508.jpg"
+                "img_url": "img/chicago_with_icons/label_id_508.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1604,70 +1474,7 @@
         {
             "type": "Feature",
             "properties": {
-                "username": "Devon Snyder",
-                "label_id": 515,
-                "street_edge_id": 386,
-                "neighborhood": "Robbins",
-                "label_type": "SurfaceProblem",
-                "lat": 41.6441268920898,
-                "lng": -87.7012939453125,
-                "gsv_panorama_id": "IrDA_YBAZZd3evb6W1QRmQ",
-                "time_created": "2022-05-13 08:40:13.083-07",
-                "correct": "t",
-                "severity": 1,
-                "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 30,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_515.jpg"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.7012939453125,
-                    41.6441268920898
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "username": "Devon Snyder",
-                "label_id": 516,
-                "street_edge_id": 386,
-                "neighborhood": "Robbins",
-                "label_type": "SurfaceProblem",
-                "lat": 41.6441535949707,
-                "lng": -87.7013092041016,
-                "gsv_panorama_id": "IrDA_YBAZZd3evb6W1QRmQ",
-                "time_created": "2022-05-13 08:40:17.886-07",
-                "correct": "t",
-                "severity": 1,
-                "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 35,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_516.jpg"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.7013092041016,
-                    41.6441535949707
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
+                "Unnamed: 0": 517,
                 "username": "Devon Snyder",
                 "label_id": 517,
                 "street_edge_id": 386,
@@ -1682,12 +1489,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 27,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_517.jpg"
+                "img_url": "img/chicago_with_icons/label_id_517.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1700,6 +1504,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 851,
                 "username": "Devon Snyder",
                 "label_id": 851,
                 "street_edge_id": 381,
@@ -1714,12 +1519,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 152,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_851.jpg"
+                "cluster_id": 144,
+                "img_url": "img/chicago_with_icons/label_id_851.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1732,6 +1534,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 856,
                 "username": "Devon Snyder",
                 "label_id": 856,
                 "street_edge_id": 381,
@@ -1746,12 +1549,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 154,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_856.jpg"
+                "cluster_id": 146,
+                "img_url": "img/chicago_with_icons/label_id_856.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1764,6 +1564,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 860,
                 "username": "Devon Snyder",
                 "label_id": 860,
                 "street_edge_id": 381,
@@ -1776,14 +1577,11 @@
                 "correct": "t",
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "cracks",
-                "description": "grass",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 155,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_860.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 147,
+                "img_url": "img/chicago_with_icons/label_id_860.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1796,6 +1594,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 861,
                 "username": "Devon Snyder",
                 "label_id": 861,
                 "street_edge_id": 381,
@@ -1808,14 +1607,11 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 149,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_861.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 141,
+                "img_url": "img/chicago_with_icons/label_id_861.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1828,6 +1624,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 863,
                 "username": "Devon Snyder",
                 "label_id": 863,
                 "street_edge_id": 381,
@@ -1840,14 +1637,11 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 151,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_863.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 143,
+                "img_url": "img/chicago_with_icons/label_id_863.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1860,6 +1654,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 864,
                 "username": "Devon Snyder",
                 "label_id": 864,
                 "street_edge_id": 381,
@@ -1872,14 +1667,11 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "sand/gravel",
-                "description": "height difference",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 150,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_864.jpg"
+                "tag_list": "height difference,sand/gravel",
+                "description": null,
+                "cluster_id": 142,
+                "img_url": "img/chicago_with_icons/label_id_864.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -1892,6 +1684,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 865,
                 "username": "Devon Snyder",
                 "label_id": 865,
                 "street_edge_id": 381,
@@ -1904,14 +1697,11 @@
                 "correct": "t",
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 143,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_865.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 135,
+                "img_url": "img/chicago_with_icons/label_id_865.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1924,6 +1714,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 868,
                 "username": "Devon Snyder",
                 "label_id": 868,
                 "street_edge_id": 381,
@@ -1938,12 +1729,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 135,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_868.jpg"
+                "cluster_id": 127,
+                "img_url": "img/chicago_with_icons/label_id_868.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1956,6 +1744,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 869,
                 "username": "Devon Snyder",
                 "label_id": 869,
                 "street_edge_id": 381,
@@ -1970,12 +1759,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 146,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_869.jpg"
+                "cluster_id": 138,
+                "img_url": "img/chicago_with_icons/label_id_869.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -1988,6 +1774,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 870,
                 "username": "Devon Snyder",
                 "label_id": 870,
                 "street_edge_id": 381,
@@ -2002,12 +1789,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 148,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_870.jpg"
+                "cluster_id": 140,
+                "img_url": "img/chicago_with_icons/label_id_870.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2020,6 +1804,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 871,
                 "username": "Devon Snyder",
                 "label_id": 871,
                 "street_edge_id": 381,
@@ -2032,14 +1817,11 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "height difference",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 145,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_871.jpg"
+                "tag_list": "cracks,height difference",
+                "description": null,
+                "cluster_id": 137,
+                "img_url": "img/chicago_with_icons/label_id_871.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2052,6 +1834,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 872,
                 "username": "Devon Snyder",
                 "label_id": 872,
                 "street_edge_id": 381,
@@ -2064,14 +1847,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "vegetation",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 140,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_872.jpg"
+                "tag_list": "narrow,vegetation",
+                "description": null,
+                "cluster_id": 132,
+                "img_url": "img/chicago_with_icons/label_id_872.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2084,6 +1864,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 873,
                 "username": "Devon Snyder",
                 "label_id": 873,
                 "street_edge_id": 381,
@@ -2096,14 +1877,11 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "very broken",
-                "description": "narrow sidewalk",
-                "Unnamed: 14": "cracks",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 139,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_873.jpg"
+                "tag_list": "cracks,very broken,narrow sidewalk",
+                "description": null,
+                "cluster_id": 131,
+                "img_url": "img/chicago_with_icons/label_id_873.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2116,6 +1894,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 874,
                 "username": "Devon Snyder",
                 "label_id": 874,
                 "street_edge_id": 381,
@@ -2128,14 +1907,11 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "very broken",
-                "Unnamed: 14": "narrow sidewalk",
-                "Unnamed: 15": "cracks",
-                "Unnamed: 16": null,
-                "cluster_id": 138,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_874.jpg"
+                "tag_list": "very broken,cracks,narrow sidewalk,grass",
+                "description": null,
+                "cluster_id": 130,
+                "img_url": "img/chicago_with_icons/label_id_874.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2148,6 +1924,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 876,
                 "username": "Devon Snyder",
                 "label_id": 876,
                 "street_edge_id": 381,
@@ -2162,12 +1939,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 141,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_876.jpg"
+                "cluster_id": 133,
+                "img_url": "img/chicago_with_icons/label_id_876.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -2180,6 +1954,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 877,
                 "username": "Devon Snyder",
                 "label_id": 877,
                 "street_edge_id": 381,
@@ -2192,14 +1967,11 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "height difference",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 137,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_877.jpg"
+                "tag_list": "cracks,height difference",
+                "description": null,
+                "cluster_id": 129,
+                "img_url": "img/chicago_with_icons/label_id_877.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2212,6 +1984,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 878,
                 "username": "Devon Snyder",
                 "label_id": 878,
                 "street_edge_id": 381,
@@ -2226,12 +1999,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 129,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_878.jpg"
+                "cluster_id": 121,
+                "img_url": "img/chicago_with_icons/label_id_878.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2244,6 +2014,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 880,
                 "username": "Devon Snyder",
                 "label_id": 880,
                 "street_edge_id": 381,
@@ -2256,14 +2027,11 @@
                 "correct": "t",
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "vegetation",
-                "description": "narrow",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 132,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_880.jpg"
+                "tag_list": "narrow,vegetation",
+                "description": null,
+                "cluster_id": 124,
+                "img_url": "img/chicago_with_icons/label_id_880.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2276,6 +2044,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 881,
                 "username": "Devon Snyder",
                 "label_id": 881,
                 "street_edge_id": 381,
@@ -2288,14 +2057,11 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "cracks",
-                "description": "height difference",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 128,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_881.jpg"
+                "tag_list": "height difference,cracks",
+                "description": null,
+                "cluster_id": 120,
+                "img_url": "img/chicago_with_icons/label_id_881.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2308,6 +2074,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 882,
                 "username": "Devon Snyder",
                 "label_id": 882,
                 "street_edge_id": 381,
@@ -2320,14 +2087,11 @@
                 "correct": "t",
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 125,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_882.jpg"
+                "tag_list": "cracks,grass",
+                "description": null,
+                "cluster_id": 117,
+                "img_url": "img/chicago_with_icons/label_id_882.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2340,6 +2104,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 883,
                 "username": "Devon Snyder",
                 "label_id": 883,
                 "street_edge_id": 381,
@@ -2352,14 +2117,11 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 124,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_883.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 116,
+                "img_url": "img/chicago_with_icons/label_id_883.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2372,6 +2134,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 886,
                 "username": "Devon Snyder",
                 "label_id": 886,
                 "street_edge_id": 381,
@@ -2386,12 +2149,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 119,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_886.jpg"
+                "cluster_id": 111,
+                "img_url": "img/chicago_with_icons/label_id_886.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2404,6 +2164,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 888,
                 "username": "Devon Snyder",
                 "label_id": 888,
                 "street_edge_id": 381,
@@ -2418,12 +2179,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 114,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_888.jpg"
+                "cluster_id": 110,
+                "img_url": "img/chicago_with_icons/label_id_888.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2436,6 +2194,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 889,
                 "username": "Devon Snyder",
                 "label_id": 889,
                 "street_edge_id": 381,
@@ -2450,12 +2209,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 113,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_889.jpg"
+                "cluster_id": 109,
+                "img_url": "img/chicago_with_icons/label_id_889.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2468,6 +2224,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1053,
                 "username": "Devon Snyder",
                 "label_id": 1053,
                 "street_edge_id": 439,
@@ -2482,12 +2239,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 112,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1053.jpg"
+                "cluster_id": 108,
+                "img_url": "img/chicago_with_icons/label_id_1053.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2500,6 +2254,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1056,
                 "username": "Devon Snyder",
                 "label_id": 1056,
                 "street_edge_id": 439,
@@ -2514,12 +2269,9 @@
                 "temporary": "f",
                 "tag_list": "narrow sidewalk",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 111,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1056.jpg"
+                "cluster_id": 107,
+                "img_url": "img/chicago_with_icons/label_id_1056.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2532,6 +2284,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1057,
                 "username": "Devon Snyder",
                 "label_id": 1057,
                 "street_edge_id": 439,
@@ -2546,12 +2299,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 110,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1057.jpg"
+                "cluster_id": 106,
+                "img_url": "img/chicago_with_icons/label_id_1057.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2564,6 +2314,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1058,
                 "username": "Devon Snyder",
                 "label_id": 1058,
                 "street_edge_id": 439,
@@ -2578,12 +2329,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 109,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1058.jpg"
+                "cluster_id": 105,
+                "img_url": "img/chicago_with_icons/label_id_1058.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2596,6 +2344,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1059,
                 "username": "Devon Snyder",
                 "label_id": 1059,
                 "street_edge_id": 439,
@@ -2608,14 +2357,11 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "bumpy",
-                "description": "brick/cobblestone",
-                "Unnamed: 14": "narrow sidewalk",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 108,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1059.jpg"
+                "tag_list": "narrow sidewalk,bumpy,brick/cobblestone",
+                "description": null,
+                "cluster_id": 104,
+                "img_url": "img/chicago_with_icons/label_id_1059.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2628,6 +2374,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1060,
                 "username": "Devon Snyder",
                 "label_id": 1060,
                 "street_edge_id": 439,
@@ -2640,14 +2387,11 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "pole",
-                "description": "narrow",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 103,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1060.jpg"
+                "tag_list": "pole,narrow",
+                "description": null,
+                "cluster_id": 99,
+                "img_url": "img/chicago_with_icons/label_id_1060.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2660,6 +2404,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1066,
                 "username": "Devon Snyder",
                 "label_id": 1066,
                 "street_edge_id": 383,
@@ -2674,12 +2419,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 101,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1066.jpg"
+                "cluster_id": 97,
+                "img_url": "img/chicago_with_icons/label_id_1066.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -2692,38 +2434,7 @@
         {
             "type": "Feature",
             "properties": {
-                "username": "Devon Snyder",
-                "label_id": 1067,
-                "street_edge_id": 383,
-                "neighborhood": "Lincolnwood",
-                "label_type": "SurfaceProblem",
-                "lat": 42.0116500854492,
-                "lng": -87.7287826538086,
-                "gsv_panorama_id": "97DALXUeqckVcQ9hWIi2AQ",
-                "time_created": "2022-05-24 13:00:01.099-07",
-                "correct": "t",
-                "severity": 1,
-                "temporary": "f",
-                "tag_list": "brick/cobblestone",
-                "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 104,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1067.jpg"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.7287826538086,
-                    42.0116500854492
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
+                "Unnamed: 0": 1074,
                 "username": "Devon Snyder",
                 "label_id": 1074,
                 "street_edge_id": 402,
@@ -2736,14 +2447,11 @@
                 "correct": null,
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "pole",
-                "description": "narrow",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 100,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1074.jpg"
+                "tag_list": "narrow,pole",
+                "description": null,
+                "cluster_id": 96,
+                "img_url": "img/chicago_with_icons/label_id_1074.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2756,6 +2464,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1075,
                 "username": "Devon Snyder",
                 "label_id": 1075,
                 "street_edge_id": 402,
@@ -2768,14 +2477,11 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "pole",
-                "description": "narrow",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 98,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1075.jpg"
+                "tag_list": "narrow,pole",
+                "description": null,
+                "cluster_id": 94,
+                "img_url": "img/chicago_with_icons/label_id_1075.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2788,6 +2494,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1076,
                 "username": "Devon Snyder",
                 "label_id": 1076,
                 "street_edge_id": 402,
@@ -2802,12 +2509,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 99,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1076.jpg"
+                "cluster_id": 95,
+                "img_url": "img/chicago_with_icons/label_id_1076.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2820,6 +2524,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1077,
                 "username": "Devon Snyder",
                 "label_id": 1077,
                 "street_edge_id": 402,
@@ -2834,12 +2539,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 97,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1077.jpg"
+                "cluster_id": 93,
+                "img_url": "img/chicago_with_icons/label_id_1077.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2852,6 +2554,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1078,
                 "username": "Devon Snyder",
                 "label_id": 1078,
                 "street_edge_id": 402,
@@ -2866,12 +2569,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 106,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1078.jpg"
+                "cluster_id": 100,
+                "img_url": "img/chicago_with_icons/label_id_1078.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -2884,6 +2584,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1079,
                 "username": "Devon Snyder",
                 "label_id": 1079,
                 "street_edge_id": 402,
@@ -2896,14 +2597,11 @@
                 "correct": "t",
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "narrow sidewalk",
-                "description": "bumpy",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 96,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1079.jpg"
+                "tag_list": "bumpy,narrow sidewalk",
+                "description": null,
+                "cluster_id": 92,
+                "img_url": "img/chicago_with_icons/label_id_1079.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2916,6 +2614,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1080,
                 "username": "Devon Snyder",
                 "label_id": 1080,
                 "street_edge_id": 402,
@@ -2930,12 +2629,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 63,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1080.jpg"
+                "cluster_id": 102,
+                "img_url": "img/chicago_with_icons/label_id_1080.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -2948,6 +2644,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1434,
                 "username": "Devon Snyder",
                 "label_id": 1434,
                 "street_edge_id": 433,
@@ -2962,12 +2659,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 70,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1434.jpg"
+                "cluster_id": 66,
+                "img_url": "img/chicago_with_icons/label_id_1434.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -2980,6 +2674,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1435,
                 "username": "Devon Snyder",
                 "label_id": 1435,
                 "street_edge_id": 433,
@@ -2994,12 +2689,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 69,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1435.jpg"
+                "cluster_id": 65,
+                "img_url": "img/chicago_with_icons/label_id_1435.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3012,6 +2704,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1436,
                 "username": "Devon Snyder",
                 "label_id": 1436,
                 "street_edge_id": 434,
@@ -3024,14 +2717,11 @@
                 "correct": "t",
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "cracks",
-                "description": "height difference",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 91,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1436.jpg"
+                "tag_list": "cracks,height difference",
+                "description": null,
+                "cluster_id": 87,
+                "img_url": "img/chicago_with_icons/label_id_1436.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3044,6 +2734,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1443,
                 "username": "Devon Snyder",
                 "label_id": 1443,
                 "street_edge_id": 434,
@@ -3058,12 +2749,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 82,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1443.jpg"
+                "cluster_id": 78,
+                "img_url": "img/chicago_with_icons/label_id_1443.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3076,6 +2764,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1444,
                 "username": "Devon Snyder",
                 "label_id": 1444,
                 "street_edge_id": 377,
@@ -3088,14 +2777,11 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "cracks",
-                "description": "grass",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 74,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1444.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 70,
+                "img_url": "img/chicago_with_icons/label_id_1444.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3108,6 +2794,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1445,
                 "username": "Devon Snyder",
                 "label_id": 1445,
                 "street_edge_id": 377,
@@ -3122,12 +2809,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 75,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1445.jpg"
+                "cluster_id": 71,
+                "img_url": "img/chicago_with_icons/label_id_1445.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3140,6 +2824,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1446,
                 "username": "Devon Snyder",
                 "label_id": 1446,
                 "street_edge_id": 377,
@@ -3152,14 +2837,11 @@
                 "correct": "t",
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 76,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1446.jpg"
+                "tag_list": "cracks,grass",
+                "description": null,
+                "cluster_id": 72,
+                "img_url": "img/chicago_with_icons/label_id_1446.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -3172,6 +2854,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1449,
                 "username": "Devon Snyder",
                 "label_id": 1449,
                 "street_edge_id": 377,
@@ -3184,14 +2867,11 @@
                 "correct": "t",
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 73,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1449.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 69,
+                "img_url": "img/chicago_with_icons/label_id_1449.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3204,6 +2884,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1455,
                 "username": "Devon Snyder",
                 "label_id": 1455,
                 "street_edge_id": 427,
@@ -3218,12 +2899,9 @@
                 "temporary": "f",
                 "tag_list": "narrow sidewalk",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 60,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1455.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1455.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3236,6 +2914,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1456,
                 "username": "Devon Snyder",
                 "label_id": 1456,
                 "street_edge_id": 427,
@@ -3248,14 +2927,11 @@
                 "correct": null,
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "vegetation",
-                "Unnamed: 14": "tree",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "narrow,vegetation,tree",
+                "description": null,
                 "cluster_id": 61,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1456.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1456.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3268,6 +2944,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1457,
                 "username": "Devon Snyder",
                 "label_id": 1457,
                 "street_edge_id": 427,
@@ -3280,14 +2957,11 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "sand/gravel",
-                "description": "narrow sidewalk",
-                "Unnamed: 14": "Kind of difficult to tell if this is gravel/sand",
-                "Unnamed: 15": " a chunk of sidewalk cracked away",
-                "Unnamed: 16": " or just wet",
+                "tag_list": "sand/gravel,narrow sidewalk",
+                "description": "Kind of difficult to tell if this is gravel/sand, a chunk of sidewalk cracked away, or just wet",
                 "cluster_id": 62,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1457.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1457.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3300,6 +2974,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1458,
                 "username": "Devon Snyder",
                 "label_id": 1458,
                 "street_edge_id": 427,
@@ -3314,12 +2989,9 @@
                 "temporary": "f",
                 "tag_list": "narrow sidewalk",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 58,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1458.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1458.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -3332,6 +3004,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1459,
                 "username": "Devon Snyder",
                 "label_id": 1459,
                 "street_edge_id": 427,
@@ -3346,12 +3019,9 @@
                 "temporary": "t",
                 "tag_list": null,
                 "description": "vegetation",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 57,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1459.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1459.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3364,6 +3034,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1474,
                 "username": "Devon Snyder",
                 "label_id": 1474,
                 "street_edge_id": 428,
@@ -3378,12 +3049,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 53,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1474.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1474.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -3396,6 +3064,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1480,
                 "username": "mikey",
                 "label_id": 1480,
                 "street_edge_id": 381,
@@ -3408,14 +3077,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 155,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1480.jpg"
+                "tag_list": "cracks,grass",
+                "description": null,
+                "cluster_id": 147,
+                "img_url": "img/chicago_with_icons/label_id_1480.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3428,6 +3094,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1481,
                 "username": "mikey",
                 "label_id": 1481,
                 "street_edge_id": 381,
@@ -3440,14 +3107,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "uneven/slanted",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 154,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1481.jpg"
+                "tag_list": "uneven/slanted,grass",
+                "description": null,
+                "cluster_id": 146,
+                "img_url": "img/chicago_with_icons/label_id_1481.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3460,6 +3124,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1482,
                 "username": "mikey",
                 "label_id": 1482,
                 "street_edge_id": 381,
@@ -3474,12 +3139,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 153,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1482.jpg"
+                "cluster_id": 145,
+                "img_url": "img/chicago_with_icons/label_id_1482.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -3492,6 +3154,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1485,
                 "username": "mikey",
                 "label_id": 1485,
                 "street_edge_id": 381,
@@ -3506,12 +3169,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 151,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1485.jpg"
+                "cluster_id": 143,
+                "img_url": "img/chicago_with_icons/label_id_1485.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3524,6 +3184,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1486,
                 "username": "mikey",
                 "label_id": 1486,
                 "street_edge_id": 381,
@@ -3536,14 +3197,11 @@
                 "correct": null,
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "sand/gravel",
-                "description": "uneven/slanted",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 150,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1486.jpg"
+                "tag_list": "sand/gravel,uneven/slanted",
+                "description": null,
+                "cluster_id": 142,
+                "img_url": "img/chicago_with_icons/label_id_1486.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3556,6 +3214,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1487,
                 "username": "mikey",
                 "label_id": 1487,
                 "street_edge_id": 381,
@@ -3570,12 +3229,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 149,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1487.jpg"
+                "cluster_id": 141,
+                "img_url": "img/chicago_with_icons/label_id_1487.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3588,6 +3244,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1490,
                 "username": "mikey",
                 "label_id": 1490,
                 "street_edge_id": 381,
@@ -3600,14 +3257,11 @@
                 "correct": null,
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "uneven/slanted",
-                "description": "grass",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 148,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1490.jpg"
+                "tag_list": "grass,uneven/slanted",
+                "description": null,
+                "cluster_id": 140,
+                "img_url": "img/chicago_with_icons/label_id_1490.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3620,6 +3274,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1491,
                 "username": "mikey",
                 "label_id": 1491,
                 "street_edge_id": 381,
@@ -3634,12 +3289,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 147,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1491.jpg"
+                "cluster_id": 139,
+                "img_url": "img/chicago_with_icons/label_id_1491.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -3652,6 +3304,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1492,
                 "username": "mikey",
                 "label_id": 1492,
                 "street_edge_id": 381,
@@ -3664,14 +3317,11 @@
                 "correct": null,
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 145,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1492.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 137,
+                "img_url": "img/chicago_with_icons/label_id_1492.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3684,6 +3334,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1493,
                 "username": "mikey",
                 "label_id": 1493,
                 "street_edge_id": 381,
@@ -3698,12 +3349,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 144,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1493.jpg"
+                "cluster_id": 136,
+                "img_url": "img/chicago_with_icons/label_id_1493.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -3716,6 +3364,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1494,
                 "username": "mikey",
                 "label_id": 1494,
                 "street_edge_id": 381,
@@ -3730,12 +3379,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 142,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1494.jpg"
+                "cluster_id": 134,
+                "img_url": "img/chicago_with_icons/label_id_1494.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -3748,6 +3394,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1495,
                 "username": "mikey",
                 "label_id": 1495,
                 "street_edge_id": 381,
@@ -3762,12 +3409,9 @@
                 "temporary": "f",
                 "tag_list": "vegetation",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 140,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1495.jpg"
+                "cluster_id": 132,
+                "img_url": "img/chicago_with_icons/label_id_1495.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3780,6 +3424,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1496,
                 "username": "mikey",
                 "label_id": 1496,
                 "street_edge_id": 381,
@@ -3792,14 +3437,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "cracks",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 139,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1496.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 131,
+                "img_url": "img/chicago_with_icons/label_id_1496.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3812,6 +3454,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1497,
                 "username": "mikey",
                 "label_id": 1497,
                 "street_edge_id": 381,
@@ -3824,14 +3467,11 @@
                 "correct": null,
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "very broken",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 138,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1497.jpg"
+                "tag_list": "grass,very broken",
+                "description": null,
+                "cluster_id": 130,
+                "img_url": "img/chicago_with_icons/label_id_1497.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3844,6 +3484,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1498,
                 "username": "mikey",
                 "label_id": 1498,
                 "street_edge_id": 381,
@@ -3858,12 +3499,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 137,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1498.jpg"
+                "cluster_id": 129,
+                "img_url": "img/chicago_with_icons/label_id_1498.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3876,6 +3514,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1499,
                 "username": "mikey",
                 "label_id": 1499,
                 "street_edge_id": 381,
@@ -3890,12 +3529,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 136,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1499.jpg"
+                "cluster_id": 128,
+                "img_url": "img/chicago_with_icons/label_id_1499.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -3908,6 +3544,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1500,
                 "username": "mikey",
                 "label_id": 1500,
                 "street_edge_id": 381,
@@ -3920,14 +3557,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "uneven/slanted",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 134,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1500.jpg"
+                "tag_list": "grass,uneven/slanted",
+                "description": null,
+                "cluster_id": 126,
+                "img_url": "img/chicago_with_icons/label_id_1500.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -3940,6 +3574,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1501,
                 "username": "mikey",
                 "label_id": 1501,
                 "street_edge_id": 381,
@@ -3954,12 +3589,9 @@
                 "temporary": "f",
                 "tag_list": "vegetation",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 132,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1501.jpg"
+                "cluster_id": 124,
+                "img_url": "img/chicago_with_icons/label_id_1501.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -3972,6 +3604,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1502,
                 "username": "mikey",
                 "label_id": 1502,
                 "street_edge_id": 381,
@@ -3986,12 +3619,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 131,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1502.jpg"
+                "cluster_id": 123,
+                "img_url": "img/chicago_with_icons/label_id_1502.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4004,6 +3634,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1503,
                 "username": "mikey",
                 "label_id": 1503,
                 "street_edge_id": 381,
@@ -4018,12 +3649,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 129,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1503.jpg"
+                "cluster_id": 121,
+                "img_url": "img/chicago_with_icons/label_id_1503.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4036,6 +3664,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1504,
                 "username": "mikey",
                 "label_id": 1504,
                 "street_edge_id": 381,
@@ -4048,14 +3677,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "uneven/slanted",
-                "description": "grass",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 128,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1504.jpg"
+                "tag_list": "uneven/slanted,grass",
+                "description": null,
+                "cluster_id": 120,
+                "img_url": "img/chicago_with_icons/label_id_1504.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4068,6 +3694,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1505,
                 "username": "mikey",
                 "label_id": 1505,
                 "street_edge_id": 381,
@@ -4080,14 +3707,11 @@
                 "correct": null,
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "cracks",
-                "description": "grass",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 127,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1505.jpg"
+                "tag_list": "cracks,grass",
+                "description": null,
+                "cluster_id": 119,
+                "img_url": "img/chicago_with_icons/label_id_1505.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4100,6 +3724,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1506,
                 "username": "mikey",
                 "label_id": 1506,
                 "street_edge_id": 381,
@@ -4112,14 +3737,11 @@
                 "correct": null,
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "uneven/slanted",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 125,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1506.jpg"
+                "tag_list": "grass,uneven/slanted",
+                "description": null,
+                "cluster_id": 117,
+                "img_url": "img/chicago_with_icons/label_id_1506.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4132,6 +3754,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1507,
                 "username": "mikey",
                 "label_id": 1507,
                 "street_edge_id": 381,
@@ -4146,12 +3769,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 124,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1507.jpg"
+                "cluster_id": 116,
+                "img_url": "img/chicago_with_icons/label_id_1507.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4164,6 +3784,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1510,
                 "username": "mikey",
                 "label_id": 1510,
                 "street_edge_id": 381,
@@ -4178,12 +3799,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 123,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1510.jpg"
+                "cluster_id": 115,
+                "img_url": "img/chicago_with_icons/label_id_1510.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4196,6 +3814,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1511,
                 "username": "mikey",
                 "label_id": 1511,
                 "street_edge_id": 381,
@@ -4210,12 +3829,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 121,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1511.jpg"
+                "cluster_id": 113,
+                "img_url": "img/chicago_with_icons/label_id_1511.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4228,6 +3844,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1512,
                 "username": "mikey",
                 "label_id": 1512,
                 "street_edge_id": 381,
@@ -4242,12 +3859,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 119,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1512.jpg"
+                "cluster_id": 111,
+                "img_url": "img/chicago_with_icons/label_id_1512.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4260,6 +3874,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1513,
                 "username": "mikey",
                 "label_id": 1513,
                 "street_edge_id": 381,
@@ -4274,12 +3889,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 118,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1513.jpg"
+                "cluster_id": 148,
+                "img_url": "img/chicago_with_icons/label_id_1513.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4292,38 +3904,7 @@
         {
             "type": "Feature",
             "properties": {
-                "username": "mikey",
-                "label_id": 1514,
-                "street_edge_id": 381,
-                "neighborhood": "Riverdale",
-                "label_type": "SurfaceProblem",
-                "lat": 41.6444778442383,
-                "lng": -87.621955871582,
-                "gsv_panorama_id": "jd9LCdznpfML-_xedWUAPw",
-                "time_created": "2022-06-17 12:22:11.428-07",
-                "correct": null,
-                "severity": 1,
-                "temporary": "f",
-                "tag_list": "grass",
-                "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 116,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1514.jpg"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.621955871582,
-                    41.6444778442383
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
+                "Unnamed: 0": 1515,
                 "username": "mikey",
                 "label_id": 1515,
                 "street_edge_id": 381,
@@ -4338,12 +3919,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 114,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1515.jpg"
+                "cluster_id": 110,
+                "img_url": "img/chicago_with_icons/label_id_1515.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4356,6 +3934,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1516,
                 "username": "mikey",
                 "label_id": 1516,
                 "street_edge_id": 381,
@@ -4370,12 +3949,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 156,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1516.jpg"
+                "cluster_id": 149,
+                "img_url": "img/chicago_with_icons/label_id_1516.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4388,6 +3964,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1519,
                 "username": "mikey",
                 "label_id": 1519,
                 "street_edge_id": 381,
@@ -4402,12 +3979,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 157,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1519.jpg"
+                "cluster_id": 150,
+                "img_url": "img/chicago_with_icons/label_id_1519.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4420,6 +3994,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1520,
                 "username": "mikey",
                 "label_id": 1520,
                 "street_edge_id": 381,
@@ -4434,12 +4009,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 113,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1520.jpg"
+                "cluster_id": 109,
+                "img_url": "img/chicago_with_icons/label_id_1520.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4452,6 +4024,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1531,
                 "username": "mikey",
                 "label_id": 1531,
                 "street_edge_id": 439,
@@ -4466,12 +4039,9 @@
                 "temporary": "f",
                 "tag_list": "bumpy",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 112,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1531.jpg"
+                "cluster_id": 108,
+                "img_url": "img/chicago_with_icons/label_id_1531.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4484,6 +4054,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1534,
                 "username": "mikey",
                 "label_id": 1534,
                 "street_edge_id": 439,
@@ -4498,12 +4069,9 @@
                 "temporary": "f",
                 "tag_list": "narrow sidewalk",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 111,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1534.jpg"
+                "cluster_id": 107,
+                "img_url": "img/chicago_with_icons/label_id_1534.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4516,6 +4084,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1535,
                 "username": "mikey",
                 "label_id": 1535,
                 "street_edge_id": 439,
@@ -4530,12 +4099,9 @@
                 "temporary": "f",
                 "tag_list": "bumpy",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 110,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1535.jpg"
+                "cluster_id": 106,
+                "img_url": "img/chicago_with_icons/label_id_1535.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4548,6 +4114,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1537,
                 "username": "mikey",
                 "label_id": 1537,
                 "street_edge_id": 439,
@@ -4562,12 +4129,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 109,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1537.jpg"
+                "cluster_id": 105,
+                "img_url": "img/chicago_with_icons/label_id_1537.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4580,6 +4144,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1538,
                 "username": "mikey",
                 "label_id": 1538,
                 "street_edge_id": 439,
@@ -4594,12 +4159,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 108,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1538.jpg"
+                "cluster_id": 104,
+                "img_url": "img/chicago_with_icons/label_id_1538.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4612,6 +4174,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1539,
                 "username": "mikey",
                 "label_id": 1539,
                 "street_edge_id": 439,
@@ -4626,12 +4189,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 107,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1539.jpg"
+                "cluster_id": 103,
+                "img_url": "img/chicago_with_icons/label_id_1539.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4644,6 +4204,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1540,
                 "username": "mikey",
                 "label_id": 1540,
                 "street_edge_id": 439,
@@ -4658,12 +4219,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 105,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1540.jpg"
+                "cluster_id": 101,
+                "img_url": "img/chicago_with_icons/label_id_1540.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4676,6 +4234,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1541,
                 "username": "mikey",
                 "label_id": 1541,
                 "street_edge_id": 439,
@@ -4690,12 +4249,9 @@
                 "temporary": "f",
                 "tag_list": "pole",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 103,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1541.jpg"
+                "cluster_id": 99,
+                "img_url": "img/chicago_with_icons/label_id_1541.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4708,6 +4264,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1552,
                 "username": "mikey",
                 "label_id": 1552,
                 "street_edge_id": 402,
@@ -4722,12 +4279,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 102,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1552.jpg"
+                "cluster_id": 98,
+                "img_url": "img/chicago_with_icons/label_id_1552.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4740,6 +4294,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1553,
                 "username": "mikey",
                 "label_id": 1553,
                 "street_edge_id": 402,
@@ -4754,12 +4309,9 @@
                 "temporary": "f",
                 "tag_list": "pole",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 100,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1553.jpg"
+                "cluster_id": 96,
+                "img_url": "img/chicago_with_icons/label_id_1553.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4772,6 +4324,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1554,
                 "username": "mikey",
                 "label_id": 1554,
                 "street_edge_id": 402,
@@ -4786,12 +4339,9 @@
                 "temporary": "f",
                 "tag_list": "pole",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 99,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1554.jpg"
+                "cluster_id": 95,
+                "img_url": "img/chicago_with_icons/label_id_1554.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4804,6 +4354,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1561,
                 "username": "mikey",
                 "label_id": 1561,
                 "street_edge_id": 402,
@@ -4818,12 +4369,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 98,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1561.jpg"
+                "cluster_id": 94,
+                "img_url": "img/chicago_with_icons/label_id_1561.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4836,6 +4384,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1563,
                 "username": "mikey",
                 "label_id": 1563,
                 "street_edge_id": 402,
@@ -4850,12 +4399,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 97,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1563.jpg"
+                "cluster_id": 93,
+                "img_url": "img/chicago_with_icons/label_id_1563.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4868,6 +4414,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1565,
                 "username": "mikey",
                 "label_id": 1565,
                 "street_edge_id": 402,
@@ -4882,12 +4429,9 @@
                 "temporary": "f",
                 "tag_list": "brick/cobblestone",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 96,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1565.jpg"
+                "cluster_id": 92,
+                "img_url": "img/chicago_with_icons/label_id_1565.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -4900,6 +4444,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1742,
                 "username": "mikey",
                 "label_id": 1742,
                 "street_edge_id": 399,
@@ -4914,12 +4459,9 @@
                 "temporary": "f",
                 "tag_list": "vegetation",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 158,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1742.jpg"
+                "cluster_id": 151,
+                "img_url": "img/chicago_with_icons/label_id_1742.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4932,6 +4474,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1906,
                 "username": "mikey",
                 "label_id": 1906,
                 "street_edge_id": 434,
@@ -4946,12 +4489,9 @@
                 "temporary": "f",
                 "tag_list": "cracks",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 95,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1906.jpg"
+                "cluster_id": 91,
+                "img_url": "img/chicago_with_icons/label_id_1906.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4964,6 +4504,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1907,
                 "username": "mikey",
                 "label_id": 1907,
                 "street_edge_id": 434,
@@ -4978,12 +4519,9 @@
                 "temporary": "f",
                 "tag_list": "bumpy",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 93,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1907.jpg"
+                "cluster_id": 89,
+                "img_url": "img/chicago_with_icons/label_id_1907.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -4996,6 +4534,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1908,
                 "username": "mikey",
                 "label_id": 1908,
                 "street_edge_id": 434,
@@ -5010,12 +4549,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 91,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1908.jpg"
+                "cluster_id": 87,
+                "img_url": "img/chicago_with_icons/label_id_1908.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5028,6 +4564,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1909,
                 "username": "mikey",
                 "label_id": 1909,
                 "street_edge_id": 434,
@@ -5042,12 +4579,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 90,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1909.jpg"
+                "cluster_id": 86,
+                "img_url": "img/chicago_with_icons/label_id_1909.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5060,6 +4594,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1910,
                 "username": "mikey",
                 "label_id": 1910,
                 "street_edge_id": 434,
@@ -5074,12 +4609,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 88,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1910.jpg"
+                "cluster_id": 84,
+                "img_url": "img/chicago_with_icons/label_id_1910.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5092,6 +4624,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1911,
                 "username": "mikey",
                 "label_id": 1911,
                 "street_edge_id": 434,
@@ -5106,12 +4639,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 86,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1911.jpg"
+                "cluster_id": 82,
+                "img_url": "img/chicago_with_icons/label_id_1911.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5124,6 +4654,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1915,
                 "username": "mikey",
                 "label_id": 1915,
                 "street_edge_id": 434,
@@ -5138,12 +4669,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 84,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1915.jpg"
+                "cluster_id": 80,
+                "img_url": "img/chicago_with_icons/label_id_1915.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5156,6 +4684,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1920,
                 "username": "mikey",
                 "label_id": 1920,
                 "street_edge_id": 434,
@@ -5170,12 +4699,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 82,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1920.jpg"
+                "cluster_id": 78,
+                "img_url": "img/chicago_with_icons/label_id_1920.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5188,6 +4714,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1921,
                 "username": "mikey",
                 "label_id": 1921,
                 "street_edge_id": 434,
@@ -5202,12 +4729,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": "dirt",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 81,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1921.jpg"
+                "cluster_id": 77,
+                "img_url": "img/chicago_with_icons/label_id_1921.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5220,6 +4744,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1922,
                 "username": "mikey",
                 "label_id": 1922,
                 "street_edge_id": 434,
@@ -5234,12 +4759,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 79,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1922.jpg"
+                "cluster_id": 75,
+                "img_url": "img/chicago_with_icons/label_id_1922.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5252,6 +4774,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1923,
                 "username": "mikey",
                 "label_id": 1923,
                 "street_edge_id": 434,
@@ -5264,14 +4787,11 @@
                 "correct": null,
                 "severity": 1,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "uneven/slanted",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 77,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1923.jpg"
+                "tag_list": "grass,uneven/slanted",
+                "description": null,
+                "cluster_id": 73,
+                "img_url": "img/chicago_with_icons/label_id_1923.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5284,6 +4804,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1924,
                 "username": "mikey",
                 "label_id": 1924,
                 "street_edge_id": 377,
@@ -5296,14 +4817,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "cracks",
-                "description": "grass",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 75,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1924.jpg"
+                "tag_list": "grass,cracks",
+                "description": null,
+                "cluster_id": 71,
+                "img_url": "img/chicago_with_icons/label_id_1924.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5316,6 +4834,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1925,
                 "username": "mikey",
                 "label_id": 1925,
                 "street_edge_id": 377,
@@ -5330,12 +4849,9 @@
                 "temporary": "f",
                 "tag_list": "very broken",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 74,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1925.jpg"
+                "cluster_id": 70,
+                "img_url": "img/chicago_with_icons/label_id_1925.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5348,6 +4864,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1929,
                 "username": "mikey",
                 "label_id": 1929,
                 "street_edge_id": 377,
@@ -5360,14 +4877,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "uneven/slanted",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 73,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1929.jpg"
+                "tag_list": "grass,uneven/slanted",
+                "description": null,
+                "cluster_id": 69,
+                "img_url": "img/chicago_with_icons/label_id_1929.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5380,6 +4894,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1935,
                 "username": "mikey",
                 "label_id": 1935,
                 "street_edge_id": 433,
@@ -5394,12 +4909,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 72,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1935.jpg"
+                "cluster_id": 68,
+                "img_url": "img/chicago_with_icons/label_id_1935.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5412,6 +4924,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1936,
                 "username": "mikey",
                 "label_id": 1936,
                 "street_edge_id": 433,
@@ -5426,12 +4939,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 70,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1936.jpg"
+                "cluster_id": 66,
+                "img_url": "img/chicago_with_icons/label_id_1936.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5444,6 +4954,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1938,
                 "username": "mikey",
                 "label_id": 1938,
                 "street_edge_id": 433,
@@ -5458,12 +4969,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 69,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1938.jpg"
+                "cluster_id": 65,
+                "img_url": "img/chicago_with_icons/label_id_1938.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5476,6 +4984,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1955,
                 "username": "mikey",
                 "label_id": 1955,
                 "street_edge_id": 432,
@@ -5490,12 +4999,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 68,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1955.jpg"
+                "cluster_id": 64,
+                "img_url": "img/chicago_with_icons/label_id_1955.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5508,6 +5014,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1956,
                 "username": "mikey",
                 "label_id": 1956,
                 "street_edge_id": 432,
@@ -5522,12 +5029,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 66,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1956.jpg"
+                "cluster_id": 152,
+                "img_url": "img/chicago_with_icons/label_id_1956.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5540,6 +5044,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1957,
                 "username": "mikey",
                 "label_id": 1957,
                 "street_edge_id": 432,
@@ -5552,14 +5057,11 @@
                 "correct": null,
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "uneven/slanted",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 64,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1957.jpg"
+                "tag_list": "grass,uneven/slanted",
+                "description": null,
+                "cluster_id": 153,
+                "img_url": "img/chicago_with_icons/label_id_1957.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5572,6 +5074,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1958,
                 "username": "mikey",
                 "label_id": 1958,
                 "street_edge_id": 432,
@@ -5586,12 +5089,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 159,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1958.jpg"
+                "cluster_id": 154,
+                "img_url": "img/chicago_with_icons/label_id_1958.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5604,6 +5104,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1959,
                 "username": "mikey",
                 "label_id": 1959,
                 "street_edge_id": 432,
@@ -5618,12 +5119,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 160,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1959.jpg"
+                "cluster_id": 155,
+                "img_url": "img/chicago_with_icons/label_id_1959.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5636,6 +5134,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1960,
                 "username": "mikey",
                 "label_id": 1960,
                 "street_edge_id": 459,
@@ -5650,12 +5149,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 161,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1960.jpg"
+                "cluster_id": 156,
+                "img_url": "img/chicago_with_icons/label_id_1960.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5668,6 +5164,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1961,
                 "username": "mikey",
                 "label_id": 1961,
                 "street_edge_id": 427,
@@ -5682,12 +5179,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 62,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1961.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1961.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5700,6 +5194,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1962,
                 "username": "mikey",
                 "label_id": 1962,
                 "street_edge_id": 427,
@@ -5714,12 +5209,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 61,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1962.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1962.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5732,6 +5224,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1963,
                 "username": "mikey",
                 "label_id": 1963,
                 "street_edge_id": 427,
@@ -5746,12 +5239,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": "leaves",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 60,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1963.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1963.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5764,6 +5254,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1964,
                 "username": "mikey",
                 "label_id": 1964,
                 "street_edge_id": 427,
@@ -5778,12 +5269,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": "leaves",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 59,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1964.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1964.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5796,6 +5284,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1965,
                 "username": "mikey",
                 "label_id": 1965,
                 "street_edge_id": 427,
@@ -5810,12 +5299,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": "leaves",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 57,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_1965.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1965.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5828,6 +5314,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1967,
                 "username": "mikey",
                 "label_id": 1967,
                 "street_edge_id": 427,
@@ -5842,12 +5329,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": "leaves",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 56,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1967.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1967.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5860,6 +5344,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1981,
                 "username": "mikey",
                 "label_id": 1981,
                 "street_edge_id": 428,
@@ -5874,12 +5359,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 54,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1981.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1981.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5892,6 +5374,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1982,
                 "username": "mikey",
                 "label_id": 1982,
                 "street_edge_id": 428,
@@ -5906,12 +5389,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 52,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_1982.jpg"
+                "img_url": "img/chicago_with_icons/label_id_1982.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5924,6 +5404,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2116,
                 "username": "mikey",
                 "label_id": 2116,
                 "street_edge_id": 417,
@@ -5938,12 +5419,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 50,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2116.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2116.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -5956,6 +5434,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2130,
                 "username": "mikey",
                 "label_id": 2130,
                 "street_edge_id": 445,
@@ -5970,12 +5449,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 49,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2130.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2130.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -5988,6 +5464,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2131,
                 "username": "mikey",
                 "label_id": 2131,
                 "street_edge_id": 445,
@@ -6002,12 +5479,9 @@
                 "temporary": "f",
                 "tag_list": "vegetation",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 47,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2131.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2131.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6020,6 +5494,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2132,
                 "username": "mikey",
                 "label_id": 2132,
                 "street_edge_id": 445,
@@ -6034,12 +5509,9 @@
                 "temporary": "f",
                 "tag_list": "bumpy",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 45,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2132.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2132.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6052,6 +5524,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2133,
                 "username": "mikey",
                 "label_id": 2133,
                 "street_edge_id": 445,
@@ -6066,12 +5539,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 44,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2133.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2133.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6084,6 +5554,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2134,
                 "username": "mikey",
                 "label_id": 2134,
                 "street_edge_id": 445,
@@ -6098,12 +5569,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 43,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2134.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2134.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6116,6 +5584,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2135,
                 "username": "mikey",
                 "label_id": 2135,
                 "street_edge_id": 445,
@@ -6130,12 +5599,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 41,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2135.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2135.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6148,6 +5614,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2136,
                 "username": "mikey",
                 "label_id": 2136,
                 "street_edge_id": 445,
@@ -6162,12 +5629,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 40,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2136.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2136.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6180,6 +5644,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2137,
                 "username": "mikey",
                 "label_id": 2137,
                 "street_edge_id": 445,
@@ -6194,12 +5659,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 39,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2137.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2137.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6212,6 +5674,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2138,
                 "username": "mikey",
                 "label_id": 2138,
                 "street_edge_id": 445,
@@ -6226,12 +5689,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 38,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2138.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2138.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6244,6 +5704,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2139,
                 "username": "mikey",
                 "label_id": 2139,
                 "street_edge_id": 445,
@@ -6256,14 +5717,11 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "grass",
-                "description": "uneven/slanted",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "grass,uneven/slanted",
+                "description": null,
                 "cluster_id": 36,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2139.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2139.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6276,6 +5734,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2141,
                 "username": "mikey",
                 "label_id": 2141,
                 "street_edge_id": 445,
@@ -6290,12 +5749,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 34,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2141.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2141.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6308,6 +5764,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2142,
                 "username": "mikey",
                 "label_id": 2142,
                 "street_edge_id": 445,
@@ -6322,12 +5779,9 @@
                 "temporary": "f",
                 "tag_list": "vegetation",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 33,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2142.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2142.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6340,6 +5794,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2144,
                 "username": "mikey",
                 "label_id": 2144,
                 "street_edge_id": 445,
@@ -6354,12 +5809,9 @@
                 "temporary": "f",
                 "tag_list": "trash/recycling can",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 32,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2144.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2144.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6372,6 +5824,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2145,
                 "username": "mikey",
                 "label_id": 2145,
                 "street_edge_id": 445,
@@ -6386,12 +5839,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 31,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2145.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2145.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6404,6 +5854,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2146,
                 "username": "mikey",
                 "label_id": 2146,
                 "street_edge_id": 445,
@@ -6418,12 +5869,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 29,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2146.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2146.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6436,6 +5884,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2147,
                 "username": "mikey",
                 "label_id": 2147,
                 "street_edge_id": 445,
@@ -6450,12 +5899,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 28,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2147.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2147.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6468,6 +5914,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2148,
                 "username": "mikey",
                 "label_id": 2148,
                 "street_edge_id": 445,
@@ -6482,12 +5929,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": "pooled water",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 26,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2148.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2148.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6500,6 +5944,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2149,
                 "username": "mikey",
                 "label_id": 2149,
                 "street_edge_id": 445,
@@ -6514,12 +5959,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 25,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2149.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2149.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6532,6 +5974,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2162,
                 "username": "mikey",
                 "label_id": 2162,
                 "street_edge_id": 424,
@@ -6546,12 +5989,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 23,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2162.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2162.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6564,6 +6004,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2163,
                 "username": "mikey",
                 "label_id": 2163,
                 "street_edge_id": 424,
@@ -6578,12 +6019,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 21,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2163.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2163.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6596,6 +6034,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2164,
                 "username": "mikey",
                 "label_id": 2164,
                 "street_edge_id": 424,
@@ -6610,12 +6049,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 19,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2164.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2164.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6628,6 +6064,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2167,
                 "username": "mikey",
                 "label_id": 2167,
                 "street_edge_id": 419,
@@ -6642,12 +6079,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 17,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2167.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2167.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6660,6 +6094,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2168,
                 "username": "mikey",
                 "label_id": 2168,
                 "street_edge_id": 419,
@@ -6674,12 +6109,9 @@
                 "temporary": "t",
                 "tag_list": null,
                 "description": "trash",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 15,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2168.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2168.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6692,6 +6124,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2362,
                 "username": "mikey",
                 "label_id": 2362,
                 "street_edge_id": 437,
@@ -6706,12 +6139,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 14,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2362.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2362.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6724,6 +6154,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2363,
                 "username": "mikey",
                 "label_id": 2363,
                 "street_edge_id": 437,
@@ -6738,12 +6169,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 12,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2363.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2363.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6756,6 +6184,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2364,
                 "username": "mikey",
                 "label_id": 2364,
                 "street_edge_id": 437,
@@ -6770,12 +6199,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 10,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2364.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2364.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6788,6 +6214,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2365,
                 "username": "mikey",
                 "label_id": 2365,
                 "street_edge_id": 437,
@@ -6802,12 +6229,9 @@
                 "temporary": "f",
                 "tag_list": "construction",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 8,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2365.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2365.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6820,6 +6244,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2368,
                 "username": "mikey",
                 "label_id": 2368,
                 "street_edge_id": 437,
@@ -6834,12 +6259,9 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 7,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2368.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2368.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6852,6 +6274,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2369,
                 "username": "mikey",
                 "label_id": 2369,
                 "street_edge_id": 437,
@@ -6866,12 +6289,9 @@
                 "temporary": "f",
                 "tag_list": "uneven/slanted",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 6,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2369.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2369.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",
@@ -6884,6 +6304,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2378,
                 "username": "mikey",
                 "label_id": 2378,
                 "street_edge_id": 404,
@@ -6898,12 +6319,9 @@
                 "temporary": "f",
                 "tag_list": "bumpy",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 5,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2378.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2378.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6916,6 +6334,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2380,
                 "username": "mikey",
                 "label_id": 2380,
                 "street_edge_id": 404,
@@ -6930,12 +6349,9 @@
                 "temporary": "t",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 3,
-                "clustered": false,
-                "img_url": "img/chicago_with_icons/label_id_2380.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2380.jpg",
+                "clustered": false
             },
             "geometry": {
                 "type": "Point",
@@ -6948,6 +6364,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2386,
                 "username": "mikey",
                 "label_id": 2386,
                 "street_edge_id": 447,
@@ -6962,12 +6379,9 @@
                 "temporary": "f",
                 "tag_list": "grass",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 1,
-                "clustered": true,
-                "img_url": "img/chicago_with_icons/label_id_2386.jpg"
+                "img_url": "img/chicago_with_icons/label_id_2386.jpg",
+                "clustered": true
             },
             "geometry": {
                 "type": "Point",

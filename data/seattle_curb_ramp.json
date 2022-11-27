@@ -4,6 +4,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 19,
                 "username": "Devon Snyder",
                 "label_id": 19,
                 "street_edge_id": 482,
@@ -16,12 +17,9 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "not enough landing space",
-                "description": "narrow",
-                "Unnamed: 14": "surface problem",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 30,
+                "tag_list": "narrow,not enough landing space,surface problem",
+                "description": null,
+                "cluster_id": 34,
                 "img_url": "img/seattle_with_icons/label_id_19.jpg",
                 "clustered": false
             },
@@ -36,6 +34,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 21,
                 "username": "Devon Snyder",
                 "label_id": 21,
                 "street_edge_id": 482,
@@ -50,10 +49,7 @@
                 "temporary": "f",
                 "tag_list": "not enough landing space",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 29,
+                "cluster_id": 33,
                 "img_url": "img/seattle_with_icons/label_id_21.jpg",
                 "clustered": true
             },
@@ -68,6 +64,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 22,
                 "username": "Devon Snyder",
                 "label_id": 22,
                 "street_edge_id": 482,
@@ -80,12 +77,9 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "not enough landing space",
-                "description": "surface problem",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 28,
+                "tag_list": "surface problem,not enough landing space",
+                "description": null,
+                "cluster_id": 32,
                 "img_url": "img/seattle_with_icons/label_id_22.jpg",
                 "clustered": true
             },
@@ -100,6 +94,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 27,
                 "username": "Devon Snyder",
                 "label_id": 27,
                 "street_edge_id": 483,
@@ -114,10 +109,7 @@
                 "temporary": "f",
                 "tag_list": "not level with street",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 27,
+                "cluster_id": 31,
                 "img_url": "img/seattle_with_icons/label_id_27.jpg",
                 "clustered": true
             },
@@ -132,6 +124,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 41,
                 "username": "Devon Snyder",
                 "label_id": 41,
                 "street_edge_id": 486,
@@ -146,9 +139,6 @@
                 "temporary": "f",
                 "tag_list": "surface problem",
                 "description": "a bit far away even zoomed in but tried best to rate",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 41,
                 "img_url": "img/seattle_with_icons/label_id_41.jpg",
                 "clustered": true
@@ -164,6 +154,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 42,
                 "username": "Devon Snyder",
                 "label_id": 42,
                 "street_edge_id": 479,
@@ -176,12 +167,9 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "points into traffic",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 32,
+                "tag_list": "narrow,points into traffic",
+                "description": null,
+                "cluster_id": 36,
                 "img_url": "img/seattle_with_icons/label_id_42.jpg",
                 "clustered": false
             },
@@ -196,6 +184,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 50,
                 "username": "Devon Snyder",
                 "label_id": 50,
                 "street_edge_id": 479,
@@ -210,9 +199,6 @@
                 "temporary": "f",
                 "tag_list": "not level with street",
                 "description": "not level with street throughout entire curb ramp",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 40,
                 "img_url": "img/seattle_with_icons/label_id_50.jpg",
                 "clustered": true
@@ -228,6 +214,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 52,
                 "username": "Devon Snyder",
                 "label_id": 52,
                 "street_edge_id": 486,
@@ -242,10 +229,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 34,
+                "cluster_id": 38,
                 "img_url": "img/seattle_with_icons/label_id_52.jpg",
                 "clustered": false
             },
@@ -260,6 +244,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 199,
                 "username": "Devon Snyder",
                 "label_id": 199,
                 "street_edge_id": 208,
@@ -272,11 +257,8 @@
                 "correct": "t",
                 "severity": 5,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "narrow",
-                "Unnamed: 14": "points into traffic",
-                "Unnamed: 15": "does not line up with either crosswalk",
-                "Unnamed: 16": null,
+                "tag_list": "narrow,surface problem,points into traffic",
+                "description": "does not line up with either crosswalk",
                 "cluster_id": 60,
                 "img_url": "img/seattle_with_icons/label_id_199.jpg",
                 "clustered": true
@@ -292,6 +274,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 201,
                 "username": "Devon Snyder",
                 "label_id": 201,
                 "street_edge_id": 204,
@@ -306,9 +289,6 @@
                 "temporary": "f",
                 "tag_list": "steep",
                 "description": "this looks temporary?",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 61,
                 "img_url": "img/seattle_with_icons/label_id_201.jpg",
                 "clustered": true
@@ -324,6 +304,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 203,
                 "username": "Devon Snyder",
                 "label_id": 203,
                 "street_edge_id": 204,
@@ -338,9 +319,6 @@
                 "temporary": "f",
                 "tag_list": "not level with street",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 62,
                 "img_url": "img/seattle_with_icons/label_id_203.jpg",
                 "clustered": true
@@ -356,6 +334,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 211,
                 "username": "Devon Snyder",
                 "label_id": 211,
                 "street_edge_id": 190,
@@ -368,11 +347,8 @@
                 "correct": "t",
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "points into traffic",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "not in line with cross walk",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "points into traffic,missing tactile warning",
+                "description": "not in line with cross walk",
                 "cluster_id": 59,
                 "img_url": "img/seattle_with_icons/label_id_211.jpg",
                 "clustered": true
@@ -388,6 +364,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 213,
                 "username": "Devon Snyder",
                 "label_id": 213,
                 "street_edge_id": 190,
@@ -400,11 +377,8 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "not level with street",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "not level with street,surface problem",
+                "description": null,
                 "cluster_id": 63,
                 "img_url": "img/seattle_with_icons/label_id_213.jpg",
                 "clustered": true
@@ -420,6 +394,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 214,
                 "username": "Devon Snyder",
                 "label_id": 214,
                 "street_edge_id": 190,
@@ -432,11 +407,8 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "missing tactile warning",
-                "description": "steep",
-                "Unnamed: 14": "not sure if this is temporary and will be better constructed?",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "steep,missing tactile warning",
+                "description": "not sure if this is temporary and will be better constructed?",
                 "cluster_id": 64,
                 "img_url": "img/seattle_with_icons/label_id_214.jpg",
                 "clustered": true
@@ -452,6 +424,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 228,
                 "username": "Devon Snyder",
                 "label_id": 228,
                 "street_edge_id": 243,
@@ -466,9 +439,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 65,
                 "img_url": "img/seattle_with_icons/label_id_228.jpg",
                 "clustered": true
@@ -484,6 +454,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 229,
                 "username": "Devon Snyder",
                 "label_id": 229,
                 "street_edge_id": 243,
@@ -498,9 +469,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 66,
                 "img_url": "img/seattle_with_icons/label_id_229.jpg",
                 "clustered": true
@@ -516,6 +484,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 231,
                 "username": "Devon Snyder",
                 "label_id": 231,
                 "street_edge_id": 181,
@@ -530,9 +499,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 67,
                 "img_url": "img/seattle_with_icons/label_id_231.jpg",
                 "clustered": true
@@ -548,6 +514,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 232,
                 "username": "Devon Snyder",
                 "label_id": 232,
                 "street_edge_id": 242,
@@ -562,9 +529,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 72,
                 "img_url": "img/seattle_with_icons/label_id_232.jpg",
                 "clustered": true
@@ -580,6 +544,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 237,
                 "username": "Devon Snyder",
                 "label_id": 237,
                 "street_edge_id": 254,
@@ -593,10 +558,7 @@
                 "severity": 5,
                 "temporary": "f",
                 "tag_list": "points into traffic",
-                "description": "this is a nice curb ramp",
-                "Unnamed: 14": " but doesn't point to anything. Median in the roadway blocks access to other side",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "description": "this is a nice curb ramp, but doesn't point to anything. Median in the roadway blocks access to other side",
                 "cluster_id": 79,
                 "img_url": "img/seattle_with_icons/label_id_237.jpg",
                 "clustered": true
@@ -612,6 +574,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 238,
                 "username": "Devon Snyder",
                 "label_id": 238,
                 "street_edge_id": 184,
@@ -626,9 +589,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 78,
                 "img_url": "img/seattle_with_icons/label_id_238.jpg",
                 "clustered": true
@@ -644,6 +604,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 240,
                 "username": "Devon Snyder",
                 "label_id": 240,
                 "street_edge_id": 184,
@@ -658,9 +619,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 77,
                 "img_url": "img/seattle_with_icons/label_id_240.jpg",
                 "clustered": true
@@ -676,6 +634,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 246,
                 "username": "Devon Snyder",
                 "label_id": 246,
                 "street_edge_id": 244,
@@ -689,10 +648,7 @@
                 "severity": 5,
                 "temporary": "f",
                 "tag_list": "points into traffic",
-                "description": "this is a nice curb ramp",
-                "Unnamed: 14": " but doesn't point to anything. Median in the roadway blocks access to other side",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "description": "this is a nice curb ramp, but doesn't point to anything. Median in the roadway blocks access to other side",
                 "cluster_id": 76,
                 "img_url": "img/seattle_with_icons/label_id_246.jpg",
                 "clustered": true
@@ -708,6 +664,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 252,
                 "username": "Devon Snyder",
                 "label_id": 252,
                 "street_edge_id": 249,
@@ -722,9 +679,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": "looks like a decent curb ramp from this distance",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 70,
                 "img_url": "img/seattle_with_icons/label_id_252.jpg",
                 "clustered": false
@@ -740,6 +694,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 253,
                 "username": "Devon Snyder",
                 "label_id": 253,
                 "street_edge_id": 161,
@@ -754,9 +709,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 68,
                 "img_url": "img/seattle_with_icons/label_id_253.jpg",
                 "clustered": false
@@ -772,6 +724,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 256,
                 "username": "Devon Snyder",
                 "label_id": 256,
                 "street_edge_id": 161,
@@ -786,9 +739,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 73,
                 "img_url": "img/seattle_with_icons/label_id_256.jpg",
                 "clustered": false
@@ -804,6 +754,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 257,
                 "username": "Devon Snyder",
                 "label_id": 257,
                 "street_edge_id": 161,
@@ -818,9 +769,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 75,
                 "img_url": "img/seattle_with_icons/label_id_257.jpg",
                 "clustered": true
@@ -836,6 +784,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 269,
                 "username": "Devon Snyder",
                 "label_id": 269,
                 "street_edge_id": 184,
@@ -848,11 +797,8 @@
                 "correct": null,
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "missing tactile warning",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,surface problem",
+                "description": null,
                 "cluster_id": 45,
                 "img_url": "img/seattle_with_icons/label_id_269.jpg",
                 "clustered": false
@@ -868,6 +814,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 271,
                 "username": "Devon Snyder",
                 "label_id": 271,
                 "street_edge_id": 184,
@@ -880,12 +827,9 @@
                 "correct": null,
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "not level with street",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 11,
+                "tag_list": "not level with street,missing tactile warning,surface problem",
+                "description": null,
+                "cluster_id": 15,
                 "img_url": "img/seattle_with_icons/label_id_271.jpg",
                 "clustered": false
             },
@@ -900,6 +844,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 276,
                 "username": "Devon Snyder",
                 "label_id": 276,
                 "street_edge_id": 258,
@@ -912,11 +857,8 @@
                 "correct": "t",
                 "severity": 5,
                 "temporary": "f",
-                "tag_list": "missing tactile warning",
-                "description": "points into traffic",
-                "Unnamed: 14": "not level with street",
-                "Unnamed: 15": "narrow",
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,points into traffic,not level with street,narrow",
+                "description": null,
                 "cluster_id": 57,
                 "img_url": "img/seattle_with_icons/label_id_276.jpg",
                 "clustered": true
@@ -932,6 +874,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 278,
                 "username": "Devon Snyder",
                 "label_id": 278,
                 "street_edge_id": 205,
@@ -944,11 +887,8 @@
                 "correct": "t",
                 "severity": 5,
                 "temporary": "f",
-                "tag_list": "points into traffic",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "surface problem",
-                "Unnamed: 15": "not level with street",
-                "Unnamed: 16": "narrow",
+                "tag_list": "missing tactile warning,surface problem,narrow,not level with street,points into traffic",
+                "description": null,
                 "cluster_id": 58,
                 "img_url": "img/seattle_with_icons/label_id_278.jpg",
                 "clustered": true
@@ -964,6 +904,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 283,
                 "username": "Devon Snyder",
                 "label_id": 283,
                 "street_edge_id": 196,
@@ -976,11 +917,8 @@
                 "correct": "t",
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "not level with street",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "points into traffic",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,not level with street,points into traffic",
+                "description": null,
                 "cluster_id": 56,
                 "img_url": "img/seattle_with_icons/label_id_283.jpg",
                 "clustered": true
@@ -996,6 +934,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 284,
                 "username": "Devon Snyder",
                 "label_id": 284,
                 "street_edge_id": 204,
@@ -1008,11 +947,8 @@
                 "correct": "t",
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "not level with street",
-                "Unnamed: 14": "points into traffic",
-                "Unnamed: 15": "missing tactile warning",
-                "Unnamed: 16": null,
+                "tag_list": "not level with street,surface problem,points into traffic,missing tactile warning",
+                "description": null,
                 "cluster_id": 55,
                 "img_url": "img/seattle_with_icons/label_id_284.jpg",
                 "clustered": true
@@ -1028,6 +964,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 289,
                 "username": "Devon Snyder",
                 "label_id": 289,
                 "street_edge_id": 302,
@@ -1042,9 +979,6 @@
                 "temporary": "f",
                 "tag_list": "narrow",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 43,
                 "img_url": "img/seattle_with_icons/label_id_289.jpg",
                 "clustered": true
@@ -1060,6 +994,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 290,
                 "username": "Devon Snyder",
                 "label_id": 290,
                 "street_edge_id": 302,
@@ -1074,9 +1009,6 @@
                 "temporary": "f",
                 "tag_list": "narrow",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 44,
                 "img_url": "img/seattle_with_icons/label_id_290.jpg",
                 "clustered": true
@@ -1092,6 +1024,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 292,
                 "username": "Devon Snyder",
                 "label_id": 292,
                 "street_edge_id": 302,
@@ -1106,9 +1039,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 42,
                 "img_url": "img/seattle_with_icons/label_id_292.jpg",
                 "clustered": true
@@ -1124,6 +1054,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 360,
                 "username": "Devon Snyder",
                 "label_id": 360,
                 "street_edge_id": 296,
@@ -1136,11 +1067,8 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "not enough landing space",
-                "description": "not level with street",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "not enough landing space,not level with street",
+                "description": null,
                 "cluster_id": 47,
                 "img_url": "img/seattle_with_icons/label_id_360.jpg",
                 "clustered": true
@@ -1156,6 +1084,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 361,
                 "username": "Devon Snyder",
                 "label_id": 361,
                 "street_edge_id": 296,
@@ -1168,11 +1097,8 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "narrow",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "surface problem,narrow",
+                "description": null,
                 "cluster_id": 48,
                 "img_url": "img/seattle_with_icons/label_id_361.jpg",
                 "clustered": true
@@ -1188,6 +1114,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 362,
                 "username": "Devon Snyder",
                 "label_id": 362,
                 "street_edge_id": 296,
@@ -1200,11 +1127,8 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "narrow",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "narrow,surface problem",
+                "description": null,
                 "cluster_id": 49,
                 "img_url": "img/seattle_with_icons/label_id_362.jpg",
                 "clustered": true
@@ -1220,6 +1144,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 365,
                 "username": "Devon Snyder",
                 "label_id": 365,
                 "street_edge_id": 296,
@@ -1234,9 +1159,6 @@
                 "temporary": "f",
                 "tag_list": "not level with street",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 51,
                 "img_url": "img/seattle_with_icons/label_id_365.jpg",
                 "clustered": true
@@ -1252,6 +1174,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 366,
                 "username": "Devon Snyder",
                 "label_id": 366,
                 "street_edge_id": 296,
@@ -1266,9 +1189,6 @@
                 "temporary": "f",
                 "tag_list": "not level with street",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 50,
                 "img_url": "img/seattle_with_icons/label_id_366.jpg",
                 "clustered": true
@@ -1284,6 +1204,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 368,
                 "username": "Devon Snyder",
                 "label_id": 368,
                 "street_edge_id": 283,
@@ -1296,11 +1217,8 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "not level with street",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "not level with street,narrow",
+                "description": null,
                 "cluster_id": 52,
                 "img_url": "img/seattle_with_icons/label_id_368.jpg",
                 "clustered": true
@@ -1316,6 +1234,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 373,
                 "username": "Devon Snyder",
                 "label_id": 373,
                 "street_edge_id": 283,
@@ -1330,9 +1249,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 54,
                 "img_url": "img/seattle_with_icons/label_id_373.jpg",
                 "clustered": true
@@ -1348,6 +1264,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 375,
                 "username": "Devon Snyder",
                 "label_id": 375,
                 "street_edge_id": 283,
@@ -1362,9 +1279,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 53,
                 "img_url": "img/seattle_with_icons/label_id_375.jpg",
                 "clustered": true
@@ -1380,6 +1294,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 579,
                 "username": "Devon Snyder",
                 "label_id": 579,
                 "street_edge_id": 751,
@@ -1394,10 +1309,7 @@
                 "temporary": "f",
                 "tag_list": "points into traffic",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 10,
+                "cluster_id": 14,
                 "img_url": "img/seattle_with_icons/label_id_579.jpg",
                 "clustered": true
             },
@@ -1412,6 +1324,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 580,
                 "username": "Devon Snyder",
                 "label_id": 580,
                 "street_edge_id": 751,
@@ -1426,10 +1339,7 @@
                 "temporary": "f",
                 "tag_list": "points into traffic",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 9,
+                "cluster_id": 13,
                 "img_url": "img/seattle_with_icons/label_id_580.jpg",
                 "clustered": true
             },
@@ -1444,6 +1354,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 627,
                 "username": "Devon Snyder",
                 "label_id": 627,
                 "street_edge_id": 813,
@@ -1458,10 +1369,7 @@
                 "temporary": "f",
                 "tag_list": "points into traffic",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 8,
+                "cluster_id": 12,
                 "img_url": "img/seattle_with_icons/label_id_627.jpg",
                 "clustered": true
             },
@@ -1476,6 +1384,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 628,
                 "username": "Devon Snyder",
                 "label_id": 628,
                 "street_edge_id": 812,
@@ -1488,12 +1397,9 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "points into traffic",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 5,
+                "tag_list": "points into traffic,narrow",
+                "description": null,
+                "cluster_id": 9,
                 "img_url": "img/seattle_with_icons/label_id_628.jpg",
                 "clustered": true
             },
@@ -1508,6 +1414,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 629,
                 "username": "Devon Snyder",
                 "label_id": 629,
                 "street_edge_id": 814,
@@ -1520,12 +1427,9 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "points into traffic",
-                "description": "narrow",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 7,
+                "tag_list": "narrow,points into traffic",
+                "description": null,
+                "cluster_id": 11,
                 "img_url": "img/seattle_with_icons/label_id_629.jpg",
                 "clustered": true
             },
@@ -1540,6 +1444,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 630,
                 "username": "Devon Snyder",
                 "label_id": 630,
                 "street_edge_id": 812,
@@ -1554,10 +1459,7 @@
                 "temporary": "f",
                 "tag_list": "points into traffic",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 6,
+                "cluster_id": 10,
                 "img_url": "img/seattle_with_icons/label_id_630.jpg",
                 "clustered": true
             },
@@ -1572,6 +1474,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 643,
                 "username": "Devon Snyder",
                 "label_id": 643,
                 "street_edge_id": 811,
@@ -1584,12 +1487,9 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "points into traffic",
-                "description": "narrow",
-                "Unnamed: 14": "not level with street",
-                "Unnamed: 15": "surface problem",
-                "Unnamed: 16": "not sure why this is here?",
-                "cluster_id": 4,
+                "tag_list": "points into traffic,surface problem,not level with street,narrow",
+                "description": "not sure why this is here?",
+                "cluster_id": 8,
                 "img_url": "img/seattle_with_icons/label_id_643.jpg",
                 "clustered": true
             },
@@ -1604,6 +1504,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 644,
                 "username": "Devon Snyder",
                 "label_id": 644,
                 "street_edge_id": 810,
@@ -1616,12 +1517,9 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "not enough landing space",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "points into traffic",
-                "Unnamed: 15": "narrow",
-                "Unnamed: 16": null,
-                "cluster_id": 3,
+                "tag_list": "points into traffic,missing tactile warning,narrow,not enough landing space",
+                "description": null,
+                "cluster_id": 7,
                 "img_url": "img/seattle_with_icons/label_id_644.jpg",
                 "clustered": true
             },
@@ -1636,6 +1534,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 691,
                 "username": "Devon Snyder",
                 "label_id": 691,
                 "street_edge_id": 851,
@@ -1648,12 +1547,9 @@
                 "correct": "t",
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "points into traffic",
-                "description": "narrow",
-                "Unnamed: 14": "missing tactile warning",
-                "Unnamed: 15": "surface problem",
-                "Unnamed: 16": "not enough landing space",
-                "cluster_id": 1,
+                "tag_list": "narrow,missing tactile warning,points into traffic,not enough landing space,surface problem",
+                "description": null,
+                "cluster_id": 5,
                 "img_url": "img/seattle_with_icons/label_id_691.jpg",
                 "clustered": true
             },
@@ -1668,6 +1564,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 692,
                 "username": "Devon Snyder",
                 "label_id": 692,
                 "street_edge_id": 810,
@@ -1680,12 +1577,9 @@
                 "correct": "t",
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "surface problem",
-                "Unnamed: 14": "missing tactile warning",
-                "Unnamed: 15": "points into traffic",
-                "Unnamed: 16": null,
-                "cluster_id": 2,
+                "tag_list": "narrow,surface problem,missing tactile warning,points into traffic",
+                "description": null,
+                "cluster_id": 6,
                 "img_url": "img/seattle_with_icons/label_id_692.jpg",
                 "clustered": true
             },
@@ -1700,6 +1594,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 766,
                 "username": "Devon Snyder",
                 "label_id": 766,
                 "street_edge_id": 688,
@@ -1712,11 +1607,8 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "missing tactile warning",
-                "description": "surface problem",
-                "Unnamed: 14": "not level with street",
-                "Unnamed: 15": "narrow",
-                "Unnamed: 16": "points into traffic",
+                "tag_list": "missing tactile warning,not level with street,narrow,surface problem,points into traffic",
+                "description": null,
                 "cluster_id": 95,
                 "img_url": "img/seattle_with_icons/label_id_766.jpg",
                 "clustered": true
@@ -1732,6 +1624,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 769,
                 "username": "Devon Snyder",
                 "label_id": 769,
                 "street_edge_id": 697,
@@ -1744,11 +1637,8 @@
                 "correct": null,
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "surface problem",
-                "Unnamed: 15": "points into traffic",
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,narrow,points into traffic,surface problem",
+                "description": null,
                 "cluster_id": 94,
                 "img_url": "img/seattle_with_icons/label_id_769.jpg",
                 "clustered": true
@@ -1764,6 +1654,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 945,
                 "username": "Devon Snyder",
                 "label_id": 945,
                 "street_edge_id": 493,
@@ -1776,11 +1667,8 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "not enough landing space",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "not enough landing space,surface problem",
+                "description": null,
                 "cluster_id": 83,
                 "img_url": "img/seattle_with_icons/label_id_945.jpg",
                 "clustered": true
@@ -1796,6 +1684,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 946,
                 "username": "Devon Snyder",
                 "label_id": 946,
                 "street_edge_id": 493,
@@ -1810,9 +1699,6 @@
                 "temporary": "f",
                 "tag_list": "surface problem",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 82,
                 "img_url": "img/seattle_with_icons/label_id_946.jpg",
                 "clustered": true
@@ -1828,6 +1714,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 947,
                 "username": "Devon Snyder",
                 "label_id": 947,
                 "street_edge_id": 36,
@@ -1840,11 +1727,8 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "surface problem",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "surface problem,missing tactile warning,narrow",
+                "description": null,
                 "cluster_id": 80,
                 "img_url": "img/seattle_with_icons/label_id_947.jpg",
                 "clustered": true
@@ -1860,6 +1744,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 948,
                 "username": "Devon Snyder",
                 "label_id": 948,
                 "street_edge_id": 36,
@@ -1872,11 +1757,8 @@
                 "correct": null,
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "surface problem",
-                "Unnamed: 14": "missing tactile warning",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,narrow,surface problem",
+                "description": null,
                 "cluster_id": 84,
                 "img_url": "img/seattle_with_icons/label_id_948.jpg",
                 "clustered": true
@@ -1892,6 +1774,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 950,
                 "username": "Devon Snyder",
                 "label_id": 950,
                 "street_edge_id": 492,
@@ -1906,9 +1789,6 @@
                 "temporary": "t",
                 "tag_list": "surface problem",
                 "description": "temporary debris on curb ramp",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 85,
                 "img_url": "img/seattle_with_icons/label_id_950.jpg",
                 "clustered": true
@@ -1924,6 +1804,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 951,
                 "username": "Devon Snyder",
                 "label_id": 951,
                 "street_edge_id": 492,
@@ -1938,9 +1819,6 @@
                 "temporary": "f",
                 "tag_list": "surface problem",
                 "description": "Can't tell if there is a bit of the dip here right before the curb ramp",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 86,
                 "img_url": "img/seattle_with_icons/label_id_951.jpg",
                 "clustered": true
@@ -1956,6 +1834,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 952,
                 "username": "Devon Snyder",
                 "label_id": 952,
                 "street_edge_id": 37,
@@ -1968,11 +1847,8 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "points into traffic",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "points into traffic,surface problem",
+                "description": null,
                 "cluster_id": 81,
                 "img_url": "img/seattle_with_icons/label_id_952.jpg",
                 "clustered": true
@@ -1988,6 +1864,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 954,
                 "username": "Devon Snyder",
                 "label_id": 954,
                 "street_edge_id": 37,
@@ -2000,11 +1877,8 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "points into traffic",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "points into traffic,surface problem",
+                "description": null,
                 "cluster_id": 87,
                 "img_url": "img/seattle_with_icons/label_id_954.jpg",
                 "clustered": true
@@ -2020,6 +1894,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1008,
                 "username": "Devon Snyder",
                 "label_id": 1008,
                 "street_edge_id": 13,
@@ -2032,11 +1907,8 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "missing tactile warning",
-                "description": "points into traffic",
-                "Unnamed: 14": "surface problem",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,surface problem,points into traffic",
+                "description": null,
                 "cluster_id": 92,
                 "img_url": "img/seattle_with_icons/label_id_1008.jpg",
                 "clustered": true
@@ -2052,6 +1924,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1009,
                 "username": "Devon Snyder",
                 "label_id": 1009,
                 "street_edge_id": 13,
@@ -2064,11 +1937,8 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "missing tactile warning",
-                "description": "surface problem",
-                "Unnamed: 14": "points into traffic",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,points into traffic,surface problem",
+                "description": null,
                 "cluster_id": 93,
                 "img_url": "img/seattle_with_icons/label_id_1009.jpg",
                 "clustered": true
@@ -2084,6 +1954,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1019,
                 "username": "Devon Snyder",
                 "label_id": 1019,
                 "street_edge_id": 44,
@@ -2096,11 +1967,8 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "missing tactile warning",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,surface problem",
+                "description": null,
                 "cluster_id": 90,
                 "img_url": "img/seattle_with_icons/label_id_1019.jpg",
                 "clustered": true
@@ -2116,6 +1984,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1020,
                 "username": "Devon Snyder",
                 "label_id": 1020,
                 "street_edge_id": 61,
@@ -2128,11 +1997,8 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "points into traffic",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,points into traffic,surface problem",
+                "description": null,
                 "cluster_id": 89,
                 "img_url": "img/seattle_with_icons/label_id_1020.jpg",
                 "clustered": true
@@ -2148,6 +2014,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1021,
                 "username": "Devon Snyder",
                 "label_id": 1021,
                 "street_edge_id": 44,
@@ -2160,11 +2027,8 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "missing tactile warning",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,surface problem",
+                "description": null,
                 "cluster_id": 91,
                 "img_url": "img/seattle_with_icons/label_id_1021.jpg",
                 "clustered": true
@@ -2180,6 +2044,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1023,
                 "username": "Devon Snyder",
                 "label_id": 1023,
                 "street_edge_id": 61,
@@ -2192,11 +2057,8 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "points into traffic",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "surface problem",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,points into traffic,surface problem",
+                "description": null,
                 "cluster_id": 88,
                 "img_url": "img/seattle_with_icons/label_id_1023.jpg",
                 "clustered": true
@@ -2212,6 +2074,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1106,
                 "username": "Devon Snyder",
                 "label_id": 1106,
                 "street_edge_id": 626,
@@ -2224,12 +2087,9 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "points into traffic",
-                "description": "narrow",
-                "Unnamed: 14": "missing tactile warning",
-                "Unnamed: 15": "surface problem",
-                "Unnamed: 16": null,
-                "cluster_id": 26,
+                "tag_list": "points into traffic,surface problem,narrow,missing tactile warning",
+                "description": null,
+                "cluster_id": 30,
                 "img_url": "img/seattle_with_icons/label_id_1106.jpg",
                 "clustered": true
             },
@@ -2244,6 +2104,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1181,
                 "username": "Devon Snyder",
                 "label_id": 1181,
                 "street_edge_id": 600,
@@ -2256,12 +2117,9 @@
                 "correct": "t",
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "not enough landing space",
-                "description": "surface problem",
-                "Unnamed: 14": "missing tactile warning",
-                "Unnamed: 15": "narrow",
-                "Unnamed: 16": "steep",
-                "cluster_id": 25,
+                "tag_list": "not enough landing space,narrow,steep,missing tactile warning,surface problem",
+                "description": null,
+                "cluster_id": 29,
                 "img_url": "img/seattle_with_icons/label_id_1181.jpg",
                 "clustered": true
             },
@@ -2276,6 +2134,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1183,
                 "username": "Devon Snyder",
                 "label_id": 1183,
                 "street_edge_id": 600,
@@ -2288,12 +2147,9 @@
                 "correct": "t",
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "missing tactile warning",
-                "description": "points into traffic",
-                "Unnamed: 14": "not enough landing space",
-                "Unnamed: 15": "narrow",
-                "Unnamed: 16": "surface problem",
-                "cluster_id": 21,
+                "tag_list": "narrow,not enough landing space,surface problem,missing tactile warning,points into traffic",
+                "description": null,
+                "cluster_id": 25,
                 "img_url": "img/seattle_with_icons/label_id_1183.jpg",
                 "clustered": true
             },
@@ -2308,6 +2164,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1184,
                 "username": "Devon Snyder",
                 "label_id": 1184,
                 "street_edge_id": 601,
@@ -2320,12 +2177,9 @@
                 "correct": null,
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "points into traffic",
-                "description": "not enough landing space",
-                "Unnamed: 14": "missing tactile warning",
-                "Unnamed: 15": "narrow",
-                "Unnamed: 16": null,
-                "cluster_id": 22,
+                "tag_list": "missing tactile warning,points into traffic,not enough landing space,narrow",
+                "description": null,
+                "cluster_id": 26,
                 "img_url": "img/seattle_with_icons/label_id_1184.jpg",
                 "clustered": true
             },
@@ -2340,6 +2194,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1187,
                 "username": "Devon Snyder",
                 "label_id": 1187,
                 "street_edge_id": 600,
@@ -2354,10 +2209,7 @@
                 "temporary": "f",
                 "tag_list": "surface problem",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 24,
+                "cluster_id": 28,
                 "img_url": "img/seattle_with_icons/label_id_1187.jpg",
                 "clustered": true
             },
@@ -2372,6 +2224,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1188,
                 "username": "Devon Snyder",
                 "label_id": 1188,
                 "street_edge_id": 600,
@@ -2384,12 +2237,9 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "points into traffic",
-                "description": "surface problem",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 23,
+                "tag_list": "surface problem,points into traffic",
+                "description": null,
+                "cluster_id": 27,
                 "img_url": "img/seattle_with_icons/label_id_1188.jpg",
                 "clustered": true
             },
@@ -2404,6 +2254,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1333,
                 "username": "Devon Snyder",
                 "label_id": 1333,
                 "street_edge_id": 72,
@@ -2418,10 +2269,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 20,
+                "cluster_id": 24,
                 "img_url": "img/seattle_with_icons/label_id_1333.jpg",
                 "clustered": true
             },
@@ -2436,6 +2284,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1334,
                 "username": "Devon Snyder",
                 "label_id": 1334,
                 "street_edge_id": 72,
@@ -2450,10 +2299,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 19,
+                "cluster_id": 23,
                 "img_url": "img/seattle_with_icons/label_id_1334.jpg",
                 "clustered": true
             },
@@ -2468,6 +2314,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1337,
                 "username": "Devon Snyder",
                 "label_id": 1337,
                 "street_edge_id": 71,
@@ -2482,10 +2329,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 15,
+                "cluster_id": 19,
                 "img_url": "img/seattle_with_icons/label_id_1337.jpg",
                 "clustered": true
             },
@@ -2500,6 +2344,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1338,
                 "username": "Devon Snyder",
                 "label_id": 1338,
                 "street_edge_id": 71,
@@ -2514,10 +2359,7 @@
                 "temporary": "f",
                 "tag_list": "not enough landing space",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 16,
+                "cluster_id": 20,
                 "img_url": "img/seattle_with_icons/label_id_1338.jpg",
                 "clustered": true
             },
@@ -2532,6 +2374,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1341,
                 "username": "Devon Snyder",
                 "label_id": 1341,
                 "street_edge_id": 117,
@@ -2546,10 +2389,7 @@
                 "temporary": "f",
                 "tag_list": "not enough landing space",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 13,
+                "cluster_id": 17,
                 "img_url": "img/seattle_with_icons/label_id_1341.jpg",
                 "clustered": true
             },
@@ -2564,6 +2404,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1343,
                 "username": "Devon Snyder",
                 "label_id": 1343,
                 "street_edge_id": 71,
@@ -2576,12 +2417,9 @@
                 "correct": "t",
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "not level with street",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 14,
+                "tag_list": "narrow,not level with street",
+                "description": null,
+                "cluster_id": 18,
                 "img_url": "img/seattle_with_icons/label_id_1343.jpg",
                 "clustered": true
             },
@@ -2596,6 +2434,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1346,
                 "username": "Devon Snyder",
                 "label_id": 1346,
                 "street_edge_id": 71,
@@ -2610,10 +2449,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 17,
+                "cluster_id": 21,
                 "img_url": "img/seattle_with_icons/label_id_1346.jpg",
                 "clustered": true
             },
@@ -2628,6 +2464,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1347,
                 "username": "Devon Snyder",
                 "label_id": 1347,
                 "street_edge_id": 111,
@@ -2642,10 +2479,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 18,
+                "cluster_id": 22,
                 "img_url": "img/seattle_with_icons/label_id_1347.jpg",
                 "clustered": true
             },
@@ -2660,134 +2494,7 @@
         {
             "type": "Feature",
             "properties": {
-                "username": "Devon Snyder",
-                "label_id": 2528,
-                "street_edge_id": 487,
-                "neighborhood": "University District",
-                "label_type": "CurbRamp",
-                "lat": 47.6595230102539,
-                "lng": -122.319686889648,
-                "gsv_panorama_id": "jCGaqx_i5lllqbp3q1GWUw",
-                "time_created": "2022-11-09 08:03:27.714-08",
-                "correct": null,
-                "severity": 3,
-                "temporary": "f",
-                "tag_list": "missing tactile warning,points into traffic,narrow",
-                "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 38,
-                "img_url": "img/seattle_with_icons/label_id_2528.jpg",
-                "clustered": true
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.319686889648,
-                    47.6595230102539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "username": "Devon Snyder",
-                "label_id": 2529,
-                "street_edge_id": 488,
-                "neighborhood": "University District",
-                "label_type": "CurbRamp",
-                "lat": 47.6594009399414,
-                "lng": -122.319725036621,
-                "gsv_panorama_id": "z9UEjhLFWd_yO6TmMzABfA",
-                "time_created": "2022-11-09 08:04:02.134-08",
-                "correct": null,
-                "severity": 2,
-                "temporary": "f",
-                "tag_list": "points into traffic,missing tactile warning",
-                "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 37,
-                "img_url": "img/seattle_with_icons/label_id_2529.jpg",
-                "clustered": true
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.319725036621,
-                    47.6594009399414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "username": "Devon Snyder",
-                "label_id": 2530,
-                "street_edge_id": 476,
-                "neighborhood": "University District",
-                "label_type": "CurbRamp",
-                "lat": 47.6594543457031,
-                "lng": -122.319938659668,
-                "gsv_panorama_id": "ndtOrb8y8Cnt1HpvVXWNuQ",
-                "time_created": "2022-11-09 08:04:41.577-08",
-                "correct": null,
-                "severity": 2,
-                "temporary": "f",
-                "tag_list": "narrow,missing tactile warning",
-                "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 36,
-                "img_url": "img/seattle_with_icons/label_id_2530.jpg",
-                "clustered": true
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.319938659668,
-                    47.6594543457031
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "username": "Devon Snyder",
-                "label_id": 2532,
-                "street_edge_id": 489,
-                "neighborhood": "University District",
-                "label_type": "CurbRamp",
-                "lat": 47.6594963073731,
-                "lng": -122.319839477539,
-                "gsv_panorama_id": "jCGaqx_i5lllqbp3q1GWUw",
-                "time_created": "2022-11-09 08:07:11.519-08",
-                "correct": null,
-                "severity": 3,
-                "temporary": "f",
-                "tag_list": "points into traffic,narrow,missing tactile warning",
-                "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 39,
-                "img_url": "img/seattle_with_icons/label_id_2532.jpg",
-                "clustered": true
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.319839477539,
-                    47.6594963073731
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
+                "Unnamed: 0": 1640,
                 "username": "mikey",
                 "label_id": 1640,
                 "street_edge_id": 688,
@@ -2802,9 +2509,6 @@
                 "temporary": "f",
                 "tag_list": "points into traffic",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 95,
                 "img_url": "img/seattle_with_icons/label_id_1640.jpg",
                 "clustered": true
@@ -2820,6 +2524,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1641,
                 "username": "mikey",
                 "label_id": 1641,
                 "street_edge_id": 697,
@@ -2834,9 +2539,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 94,
                 "img_url": "img/seattle_with_icons/label_id_1641.jpg",
                 "clustered": true
@@ -2852,6 +2554,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1700,
                 "username": "mikey",
                 "label_id": 1700,
                 "street_edge_id": 13,
@@ -2866,9 +2569,6 @@
                 "temporary": "f",
                 "tag_list": "surface problem",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 93,
                 "img_url": "img/seattle_with_icons/label_id_1700.jpg",
                 "clustered": true
@@ -2884,6 +2584,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1701,
                 "username": "mikey",
                 "label_id": 1701,
                 "street_edge_id": 13,
@@ -2898,9 +2599,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 92,
                 "img_url": "img/seattle_with_icons/label_id_1701.jpg",
                 "clustered": true
@@ -2916,6 +2614,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1707,
                 "username": "mikey",
                 "label_id": 1707,
                 "street_edge_id": 44,
@@ -2930,9 +2629,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 91,
                 "img_url": "img/seattle_with_icons/label_id_1707.jpg",
                 "clustered": true
@@ -2948,6 +2644,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1708,
                 "username": "mikey",
                 "label_id": 1708,
                 "street_edge_id": 61,
@@ -2962,9 +2659,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 90,
                 "img_url": "img/seattle_with_icons/label_id_1708.jpg",
                 "clustered": true
@@ -2980,6 +2674,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1709,
                 "username": "mikey",
                 "label_id": 1709,
                 "street_edge_id": 61,
@@ -2994,9 +2689,6 @@
                 "temporary": "f",
                 "tag_list": "surface problem",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 89,
                 "img_url": "img/seattle_with_icons/label_id_1709.jpg",
                 "clustered": true
@@ -3012,6 +2704,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1710,
                 "username": "mikey",
                 "label_id": 1710,
                 "street_edge_id": 61,
@@ -3026,9 +2719,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 88,
                 "img_url": "img/seattle_with_icons/label_id_1710.jpg",
                 "clustered": true
@@ -3044,6 +2734,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1723,
                 "username": "mikey",
                 "label_id": 1723,
                 "street_edge_id": 37,
@@ -3058,9 +2749,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 87,
                 "img_url": "img/seattle_with_icons/label_id_1723.jpg",
                 "clustered": true
@@ -3076,6 +2764,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1724,
                 "username": "mikey",
                 "label_id": 1724,
                 "street_edge_id": 492,
@@ -3090,9 +2779,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 86,
                 "img_url": "img/seattle_with_icons/label_id_1724.jpg",
                 "clustered": true
@@ -3108,6 +2794,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1725,
                 "username": "mikey",
                 "label_id": 1725,
                 "street_edge_id": 492,
@@ -3122,9 +2809,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 85,
                 "img_url": "img/seattle_with_icons/label_id_1725.jpg",
                 "clustered": true
@@ -3140,6 +2824,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1726,
                 "username": "mikey",
                 "label_id": 1726,
                 "street_edge_id": 36,
@@ -3154,9 +2839,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 84,
                 "img_url": "img/seattle_with_icons/label_id_1726.jpg",
                 "clustered": true
@@ -3172,6 +2854,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1727,
                 "username": "mikey",
                 "label_id": 1727,
                 "street_edge_id": 493,
@@ -3186,9 +2869,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 83,
                 "img_url": "img/seattle_with_icons/label_id_1727.jpg",
                 "clustered": true
@@ -3204,6 +2884,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1728,
                 "username": "mikey",
                 "label_id": 1728,
                 "street_edge_id": 493,
@@ -3218,9 +2899,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 82,
                 "img_url": "img/seattle_with_icons/label_id_1728.jpg",
                 "clustered": true
@@ -3236,6 +2914,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1730,
                 "username": "mikey",
                 "label_id": 1730,
                 "street_edge_id": 37,
@@ -3250,9 +2929,6 @@
                 "temporary": "f",
                 "tag_list": "not enough landing space",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 81,
                 "img_url": "img/seattle_with_icons/label_id_1730.jpg",
                 "clustered": true
@@ -3268,6 +2944,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1732,
                 "username": "mikey",
                 "label_id": 1732,
                 "street_edge_id": 36,
@@ -3282,9 +2959,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 80,
                 "img_url": "img/seattle_with_icons/label_id_1732.jpg",
                 "clustered": true
@@ -3300,6 +2974,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1743,
                 "username": "mikey",
                 "label_id": 1743,
                 "street_edge_id": 254,
@@ -3314,9 +2989,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 79,
                 "img_url": "img/seattle_with_icons/label_id_1743.jpg",
                 "clustered": true
@@ -3332,6 +3004,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1745,
                 "username": "mikey",
                 "label_id": 1745,
                 "street_edge_id": 184,
@@ -3346,9 +3019,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 78,
                 "img_url": "img/seattle_with_icons/label_id_1745.jpg",
                 "clustered": true
@@ -3364,6 +3034,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1746,
                 "username": "mikey",
                 "label_id": 1746,
                 "street_edge_id": 184,
@@ -3378,9 +3049,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 77,
                 "img_url": "img/seattle_with_icons/label_id_1746.jpg",
                 "clustered": true
@@ -3396,6 +3064,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1749,
                 "username": "mikey",
                 "label_id": 1749,
                 "street_edge_id": 244,
@@ -3410,9 +3079,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 76,
                 "img_url": "img/seattle_with_icons/label_id_1749.jpg",
                 "clustered": true
@@ -3428,6 +3094,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1751,
                 "username": "mikey",
                 "label_id": 1751,
                 "street_edge_id": 161,
@@ -3442,9 +3109,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 75,
                 "img_url": "img/seattle_with_icons/label_id_1751.jpg",
                 "clustered": true
@@ -3460,6 +3124,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1752,
                 "username": "mikey",
                 "label_id": 1752,
                 "street_edge_id": 161,
@@ -3474,9 +3139,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 74,
                 "img_url": "img/seattle_with_icons/label_id_1752.jpg",
                 "clustered": false
@@ -3492,6 +3154,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1754,
                 "username": "mikey",
                 "label_id": 1754,
                 "street_edge_id": 242,
@@ -3506,9 +3169,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 72,
                 "img_url": "img/seattle_with_icons/label_id_1754.jpg",
                 "clustered": true
@@ -3524,6 +3184,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1755,
                 "username": "mikey",
                 "label_id": 1755,
                 "street_edge_id": 242,
@@ -3538,9 +3199,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 71,
                 "img_url": "img/seattle_with_icons/label_id_1755.jpg",
                 "clustered": false
@@ -3556,6 +3214,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1757,
                 "username": "mikey",
                 "label_id": 1757,
                 "street_edge_id": 182,
@@ -3570,9 +3229,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 69,
                 "img_url": "img/seattle_with_icons/label_id_1757.jpg",
                 "clustered": false
@@ -3588,6 +3244,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1758,
                 "username": "mikey",
                 "label_id": 1758,
                 "street_edge_id": 181,
@@ -3602,9 +3259,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 67,
                 "img_url": "img/seattle_with_icons/label_id_1758.jpg",
                 "clustered": true
@@ -3620,6 +3274,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1759,
                 "username": "mikey",
                 "label_id": 1759,
                 "street_edge_id": 243,
@@ -3634,9 +3289,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 66,
                 "img_url": "img/seattle_with_icons/label_id_1759.jpg",
                 "clustered": true
@@ -3652,6 +3304,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1760,
                 "username": "mikey",
                 "label_id": 1760,
                 "street_edge_id": 243,
@@ -3666,9 +3319,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 65,
                 "img_url": "img/seattle_with_icons/label_id_1760.jpg",
                 "clustered": true
@@ -3684,6 +3334,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1771,
                 "username": "mikey",
                 "label_id": 1771,
                 "street_edge_id": 190,
@@ -3698,9 +3349,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 64,
                 "img_url": "img/seattle_with_icons/label_id_1771.jpg",
                 "clustered": true
@@ -3716,6 +3364,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1806,
                 "username": "mikey",
                 "label_id": 1806,
                 "street_edge_id": 203,
@@ -3730,9 +3379,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 63,
                 "img_url": "img/seattle_with_icons/label_id_1806.jpg",
                 "clustered": true
@@ -3748,6 +3394,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1808,
                 "username": "mikey",
                 "label_id": 1808,
                 "street_edge_id": 204,
@@ -3762,9 +3409,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 62,
                 "img_url": "img/seattle_with_icons/label_id_1808.jpg",
                 "clustered": true
@@ -3780,6 +3424,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1809,
                 "username": "mikey",
                 "label_id": 1809,
                 "street_edge_id": 208,
@@ -3794,9 +3439,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 61,
                 "img_url": "img/seattle_with_icons/label_id_1809.jpg",
                 "clustered": true
@@ -3812,6 +3454,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1810,
                 "username": "mikey",
                 "label_id": 1810,
                 "street_edge_id": 208,
@@ -3824,11 +3467,8 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "points into traffic",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "surface problem,points into traffic",
+                "description": null,
                 "cluster_id": 60,
                 "img_url": "img/seattle_with_icons/label_id_1810.jpg",
                 "clustered": true
@@ -3844,6 +3484,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1816,
                 "username": "mikey",
                 "label_id": 1816,
                 "street_edge_id": 190,
@@ -3856,11 +3497,8 @@
                 "correct": null,
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "missing tactile warning",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "surface problem,missing tactile warning",
+                "description": null,
                 "cluster_id": 59,
                 "img_url": "img/seattle_with_icons/label_id_1816.jpg",
                 "clustered": true
@@ -3876,6 +3514,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1823,
                 "username": "mikey",
                 "label_id": 1823,
                 "street_edge_id": 258,
@@ -3888,11 +3527,8 @@
                 "correct": null,
                 "severity": 3,
                 "temporary": "f",
-                "tag_list": "points into traffic",
-                "description": "missing tactile warning",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "points into traffic,missing tactile warning",
+                "description": null,
                 "cluster_id": 58,
                 "img_url": "img/seattle_with_icons/label_id_1823.jpg",
                 "clustered": true
@@ -3908,6 +3544,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1825,
                 "username": "mikey",
                 "label_id": 1825,
                 "street_edge_id": 258,
@@ -3922,9 +3559,6 @@
                 "temporary": "f",
                 "tag_list": "missing tactile warning",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 57,
                 "img_url": "img/seattle_with_icons/label_id_1825.jpg",
                 "clustered": true
@@ -3940,6 +3574,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1827,
                 "username": "mikey",
                 "label_id": 1827,
                 "street_edge_id": 196,
@@ -3954,9 +3589,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 56,
                 "img_url": "img/seattle_with_icons/label_id_1827.jpg",
                 "clustered": true
@@ -3972,6 +3604,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1828,
                 "username": "mikey",
                 "label_id": 1828,
                 "street_edge_id": 204,
@@ -3986,9 +3619,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 55,
                 "img_url": "img/seattle_with_icons/label_id_1828.jpg",
                 "clustered": true
@@ -4004,6 +3634,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1829,
                 "username": "mikey",
                 "label_id": 1829,
                 "street_edge_id": 283,
@@ -4018,9 +3649,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 54,
                 "img_url": "img/seattle_with_icons/label_id_1829.jpg",
                 "clustered": true
@@ -4036,6 +3664,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1830,
                 "username": "mikey",
                 "label_id": 1830,
                 "street_edge_id": 283,
@@ -4050,9 +3679,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 53,
                 "img_url": "img/seattle_with_icons/label_id_1830.jpg",
                 "clustered": true
@@ -4068,6 +3694,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1832,
                 "username": "mikey",
                 "label_id": 1832,
                 "street_edge_id": 283,
@@ -4082,9 +3709,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 52,
                 "img_url": "img/seattle_with_icons/label_id_1832.jpg",
                 "clustered": true
@@ -4100,6 +3724,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1833,
                 "username": "mikey",
                 "label_id": 1833,
                 "street_edge_id": 296,
@@ -4114,9 +3739,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 51,
                 "img_url": "img/seattle_with_icons/label_id_1833.jpg",
                 "clustered": true
@@ -4132,6 +3754,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1834,
                 "username": "mikey",
                 "label_id": 1834,
                 "street_edge_id": 296,
@@ -4146,9 +3769,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 50,
                 "img_url": "img/seattle_with_icons/label_id_1834.jpg",
                 "clustered": true
@@ -4164,6 +3784,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1835,
                 "username": "mikey",
                 "label_id": 1835,
                 "street_edge_id": 296,
@@ -4178,9 +3799,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 49,
                 "img_url": "img/seattle_with_icons/label_id_1835.jpg",
                 "clustered": true
@@ -4196,6 +3814,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1836,
                 "username": "mikey",
                 "label_id": 1836,
                 "street_edge_id": 296,
@@ -4210,9 +3829,6 @@
                 "temporary": "f",
                 "tag_list": "surface problem",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 48,
                 "img_url": "img/seattle_with_icons/label_id_1836.jpg",
                 "clustered": true
@@ -4228,6 +3844,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1837,
                 "username": "mikey",
                 "label_id": 1837,
                 "street_edge_id": 296,
@@ -4242,9 +3859,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 47,
                 "img_url": "img/seattle_with_icons/label_id_1837.jpg",
                 "clustered": true
@@ -4260,6 +3874,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1859,
                 "username": "mikey",
                 "label_id": 1859,
                 "street_edge_id": 271,
@@ -4274,9 +3889,6 @@
                 "temporary": "f",
                 "tag_list": "surface problem",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 46,
                 "img_url": "img/seattle_with_icons/label_id_1859.jpg",
                 "clustered": false
@@ -4292,6 +3904,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1862,
                 "username": "mikey",
                 "label_id": 1862,
                 "street_edge_id": 271,
@@ -4306,9 +3919,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 44,
                 "img_url": "img/seattle_with_icons/label_id_1862.jpg",
                 "clustered": true
@@ -4324,6 +3934,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1863,
                 "username": "mikey",
                 "label_id": 1863,
                 "street_edge_id": 302,
@@ -4338,9 +3949,6 @@
                 "temporary": "f",
                 "tag_list": "surface problem",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 43,
                 "img_url": "img/seattle_with_icons/label_id_1863.jpg",
                 "clustered": true
@@ -4356,6 +3964,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1864,
                 "username": "mikey",
                 "label_id": 1864,
                 "street_edge_id": 302,
@@ -4370,9 +3979,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 42,
                 "img_url": "img/seattle_with_icons/label_id_1864.jpg",
                 "clustered": true
@@ -4388,6 +3994,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1869,
                 "username": "mikey",
                 "label_id": 1869,
                 "street_edge_id": 479,
@@ -4402,9 +4009,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 41,
                 "img_url": "img/seattle_with_icons/label_id_1869.jpg",
                 "clustered": true
@@ -4420,6 +4024,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1870,
                 "username": "mikey",
                 "label_id": 1870,
                 "street_edge_id": 479,
@@ -4434,9 +4039,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 40,
                 "img_url": "img/seattle_with_icons/label_id_1870.jpg",
                 "clustered": true
@@ -4452,6 +4054,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1887,
                 "username": "mikey",
                 "label_id": 1887,
                 "street_edge_id": 489,
@@ -4466,10 +4069,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 39,
+                "cluster_id": 1,
                 "img_url": "img/seattle_with_icons/label_id_1887.jpg",
                 "clustered": true
             },
@@ -4484,6 +4084,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1888,
                 "username": "mikey",
                 "label_id": 1888,
                 "street_edge_id": 487,
@@ -4498,10 +4099,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 38,
+                "cluster_id": 4,
                 "img_url": "img/seattle_with_icons/label_id_1888.jpg",
                 "clustered": true
             },
@@ -4516,6 +4114,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1889,
                 "username": "mikey",
                 "label_id": 1889,
                 "street_edge_id": 488,
@@ -4530,10 +4129,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 37,
+                "cluster_id": 3,
                 "img_url": "img/seattle_with_icons/label_id_1889.jpg",
                 "clustered": true
             },
@@ -4548,6 +4144,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1890,
                 "username": "mikey",
                 "label_id": 1890,
                 "street_edge_id": 476,
@@ -4562,10 +4159,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 36,
+                "cluster_id": 2,
                 "img_url": "img/seattle_with_icons/label_id_1890.jpg",
                 "clustered": true
             },
@@ -4580,6 +4174,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1896,
                 "username": "mikey",
                 "label_id": 1896,
                 "street_edge_id": 480,
@@ -4594,10 +4189,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 35,
+                "cluster_id": 39,
                 "img_url": "img/seattle_with_icons/label_id_1896.jpg",
                 "clustered": false
             },
@@ -4612,6 +4204,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1899,
                 "username": "mikey",
                 "label_id": 1899,
                 "street_edge_id": 480,
@@ -4626,10 +4219,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 33,
+                "cluster_id": 37,
                 "img_url": "img/seattle_with_icons/label_id_1899.jpg",
                 "clustered": false
             },
@@ -4644,6 +4234,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1900,
                 "username": "mikey",
                 "label_id": 1900,
                 "street_edge_id": 482,
@@ -4658,10 +4249,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 31,
+                "cluster_id": 35,
                 "img_url": "img/seattle_with_icons/label_id_1900.jpg",
                 "clustered": false
             },
@@ -4676,6 +4264,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1902,
                 "username": "mikey",
                 "label_id": 1902,
                 "street_edge_id": 482,
@@ -4690,10 +4279,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 29,
+                "cluster_id": 33,
                 "img_url": "img/seattle_with_icons/label_id_1902.jpg",
                 "clustered": true
             },
@@ -4708,6 +4294,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1903,
                 "username": "mikey",
                 "label_id": 1903,
                 "street_edge_id": 482,
@@ -4722,10 +4309,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 28,
+                "cluster_id": 32,
                 "img_url": "img/seattle_with_icons/label_id_1903.jpg",
                 "clustered": true
             },
@@ -4740,6 +4324,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1904,
                 "username": "mikey",
                 "label_id": 1904,
                 "street_edge_id": 483,
@@ -4754,10 +4339,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 27,
+                "cluster_id": 31,
                 "img_url": "img/seattle_with_icons/label_id_1904.jpg",
                 "clustered": true
             },
@@ -4772,6 +4354,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1989,
                 "username": "mikey",
                 "label_id": 1989,
                 "street_edge_id": 613,
@@ -4784,11 +4367,8 @@
                 "correct": null,
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "missing tactile warning",
-                "description": "surface problem",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,surface problem",
+                "description": null,
                 "cluster_id": 96,
                 "img_url": "img/seattle_with_icons/label_id_1989.jpg",
                 "clustered": false
@@ -4804,6 +4384,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1991,
                 "username": "mikey",
                 "label_id": 1991,
                 "street_edge_id": 616,
@@ -4816,11 +4397,8 @@
                 "correct": null,
                 "severity": 5,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "narrow",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "surface problem,missing tactile warning,narrow",
+                "description": null,
                 "cluster_id": 97,
                 "img_url": "img/seattle_with_icons/label_id_1991.jpg",
                 "clustered": false
@@ -4836,6 +4414,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1992,
                 "username": "mikey",
                 "label_id": 1992,
                 "street_edge_id": 617,
@@ -4848,11 +4427,8 @@
                 "correct": null,
                 "severity": 5,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "surface problem",
-                "Unnamed: 14": "missing tactile warning",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "missing tactile warning,narrow,surface problem",
+                "description": null,
                 "cluster_id": 98,
                 "img_url": "img/seattle_with_icons/label_id_1992.jpg",
                 "clustered": false
@@ -4868,6 +4444,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1993,
                 "username": "mikey",
                 "label_id": 1993,
                 "street_edge_id": 617,
@@ -4880,11 +4457,8 @@
                 "correct": null,
                 "severity": 4,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "narrow",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "surface problem,missing tactile warning,narrow",
+                "description": null,
                 "cluster_id": 99,
                 "img_url": "img/seattle_with_icons/label_id_1993.jpg",
                 "clustered": false
@@ -4900,6 +4474,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 1994,
                 "username": "mikey",
                 "label_id": 1994,
                 "street_edge_id": 613,
@@ -4912,11 +4487,8 @@
                 "correct": null,
                 "severity": 5,
                 "temporary": "f",
-                "tag_list": "narrow",
-                "description": "surface problem",
-                "Unnamed: 14": "missing tactile warning",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "narrow,surface problem,missing tactile warning",
+                "description": null,
                 "cluster_id": 100,
                 "img_url": "img/seattle_with_icons/label_id_1994.jpg",
                 "clustered": false
@@ -4932,6 +4504,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2020,
                 "username": "mikey",
                 "label_id": 2020,
                 "street_edge_id": 626,
@@ -4944,12 +4517,9 @@
                 "correct": null,
                 "severity": 2,
                 "temporary": "f",
-                "tag_list": "missing tactile warning",
-                "description": "surface problem",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 26,
+                "tag_list": "missing tactile warning,surface problem",
+                "description": null,
+                "cluster_id": 30,
                 "img_url": "img/seattle_with_icons/label_id_2020.jpg",
                 "clustered": true
             },
@@ -4964,6 +4534,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2110,
                 "username": "mikey",
                 "label_id": 2110,
                 "street_edge_id": 600,
@@ -4978,10 +4549,7 @@
                 "temporary": "f",
                 "tag_list": "not enough landing space",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 25,
+                "cluster_id": 29,
                 "img_url": "img/seattle_with_icons/label_id_2110.jpg",
                 "clustered": true
             },
@@ -4996,6 +4564,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2111,
                 "username": "mikey",
                 "label_id": 2111,
                 "street_edge_id": 600,
@@ -5010,10 +4579,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 24,
+                "cluster_id": 28,
                 "img_url": "img/seattle_with_icons/label_id_2111.jpg",
                 "clustered": true
             },
@@ -5028,6 +4594,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2112,
                 "username": "mikey",
                 "label_id": 2112,
                 "street_edge_id": 601,
@@ -5042,10 +4609,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 23,
+                "cluster_id": 27,
                 "img_url": "img/seattle_with_icons/label_id_2112.jpg",
                 "clustered": true
             },
@@ -5060,6 +4624,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2113,
                 "username": "mikey",
                 "label_id": 2113,
                 "street_edge_id": 601,
@@ -5074,10 +4639,7 @@
                 "temporary": "f",
                 "tag_list": "not enough landing space",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 22,
+                "cluster_id": 26,
                 "img_url": "img/seattle_with_icons/label_id_2113.jpg",
                 "clustered": true
             },
@@ -5092,6 +4654,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2115,
                 "username": "mikey",
                 "label_id": 2115,
                 "street_edge_id": 600,
@@ -5106,10 +4669,7 @@
                 "temporary": "f",
                 "tag_list": "not enough landing space",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 21,
+                "cluster_id": 25,
                 "img_url": "img/seattle_with_icons/label_id_2115.jpg",
                 "clustered": true
             },
@@ -5124,6 +4684,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2170,
                 "username": "mikey",
                 "label_id": 2170,
                 "street_edge_id": 72,
@@ -5138,10 +4699,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 20,
+                "cluster_id": 24,
                 "img_url": "img/seattle_with_icons/label_id_2170.jpg",
                 "clustered": true
             },
@@ -5156,6 +4714,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2171,
                 "username": "mikey",
                 "label_id": 2171,
                 "street_edge_id": 72,
@@ -5170,10 +4729,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 19,
+                "cluster_id": 23,
                 "img_url": "img/seattle_with_icons/label_id_2171.jpg",
                 "clustered": true
             },
@@ -5188,6 +4744,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2172,
                 "username": "mikey",
                 "label_id": 2172,
                 "street_edge_id": 72,
@@ -5202,10 +4759,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 18,
+                "cluster_id": 22,
                 "img_url": "img/seattle_with_icons/label_id_2172.jpg",
                 "clustered": true
             },
@@ -5220,6 +4774,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2174,
                 "username": "mikey",
                 "label_id": 2174,
                 "street_edge_id": 71,
@@ -5234,10 +4789,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 17,
+                "cluster_id": 21,
                 "img_url": "img/seattle_with_icons/label_id_2174.jpg",
                 "clustered": true
             },
@@ -5252,6 +4804,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2175,
                 "username": "mikey",
                 "label_id": 2175,
                 "street_edge_id": 71,
@@ -5266,10 +4819,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 16,
+                "cluster_id": 20,
                 "img_url": "img/seattle_with_icons/label_id_2175.jpg",
                 "clustered": true
             },
@@ -5284,6 +4834,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2177,
                 "username": "mikey",
                 "label_id": 2177,
                 "street_edge_id": 71,
@@ -5298,10 +4849,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 15,
+                "cluster_id": 19,
                 "img_url": "img/seattle_with_icons/label_id_2177.jpg",
                 "clustered": true
             },
@@ -5316,6 +4864,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2178,
                 "username": "mikey",
                 "label_id": 2178,
                 "street_edge_id": 71,
@@ -5330,10 +4879,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 14,
+                "cluster_id": 18,
                 "img_url": "img/seattle_with_icons/label_id_2178.jpg",
                 "clustered": true
             },
@@ -5348,6 +4894,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2180,
                 "username": "mikey",
                 "label_id": 2180,
                 "street_edge_id": 72,
@@ -5362,10 +4909,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 13,
+                "cluster_id": 17,
                 "img_url": "img/seattle_with_icons/label_id_2180.jpg",
                 "clustered": true
             },
@@ -5380,6 +4924,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2198,
                 "username": "mikey",
                 "label_id": 2198,
                 "street_edge_id": 72,
@@ -5394,9 +4939,6 @@
                 "temporary": "f",
                 "tag_list": "missing tactile warning",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 101,
                 "img_url": "img/seattle_with_icons/label_id_2198.jpg",
                 "clustered": false
@@ -5412,6 +4954,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2200,
                 "username": "mikey",
                 "label_id": 2200,
                 "street_edge_id": 498,
@@ -5426,9 +4969,6 @@
                 "temporary": "f",
                 "tag_list": "missing tactile warning",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 102,
                 "img_url": "img/seattle_with_icons/label_id_2200.jpg",
                 "clustered": false
@@ -5444,6 +4984,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2202,
                 "username": "mikey",
                 "label_id": 2202,
                 "street_edge_id": 72,
@@ -5458,10 +4999,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": "made of gravel",
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 12,
+                "cluster_id": 16,
                 "img_url": "img/seattle_with_icons/label_id_2202.jpg",
                 "clustered": false
             },
@@ -5476,6 +5014,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2268,
                 "username": "mikey",
                 "label_id": 2268,
                 "street_edge_id": 510,
@@ -5490,9 +5029,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 103,
                 "img_url": "img/seattle_with_icons/label_id_2268.jpg",
                 "clustered": false
@@ -5508,6 +5044,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2269,
                 "username": "mikey",
                 "label_id": 2269,
                 "street_edge_id": 510,
@@ -5522,9 +5059,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 104,
                 "img_url": "img/seattle_with_icons/label_id_2269.jpg",
                 "clustered": false
@@ -5540,6 +5074,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2270,
                 "username": "mikey",
                 "label_id": 2270,
                 "street_edge_id": 531,
@@ -5554,9 +5089,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 105,
                 "img_url": "img/seattle_with_icons/label_id_2270.jpg",
                 "clustered": false
@@ -5572,6 +5104,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2271,
                 "username": "mikey",
                 "label_id": 2271,
                 "street_edge_id": 531,
@@ -5586,9 +5119,6 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
                 "cluster_id": 106,
                 "img_url": "img/seattle_with_icons/label_id_2271.jpg",
                 "clustered": false
@@ -5604,6 +5134,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2418,
                 "username": "mikey",
                 "label_id": 2418,
                 "street_edge_id": 751,
@@ -5618,10 +5149,7 @@
                 "temporary": "f",
                 "tag_list": "points into traffic",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 10,
+                "cluster_id": 14,
                 "img_url": "img/seattle_with_icons/label_id_2418.jpg",
                 "clustered": true
             },
@@ -5636,6 +5164,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2419,
                 "username": "mikey",
                 "label_id": 2419,
                 "street_edge_id": 751,
@@ -5650,10 +5179,7 @@
                 "temporary": "f",
                 "tag_list": "points into traffic",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 9,
+                "cluster_id": 13,
                 "img_url": "img/seattle_with_icons/label_id_2419.jpg",
                 "clustered": true
             },
@@ -5668,6 +5194,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2443,
                 "username": "mikey",
                 "label_id": 2443,
                 "street_edge_id": 813,
@@ -5682,10 +5209,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 8,
+                "cluster_id": 12,
                 "img_url": "img/seattle_with_icons/label_id_2443.jpg",
                 "clustered": true
             },
@@ -5700,6 +5224,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2444,
                 "username": "mikey",
                 "label_id": 2444,
                 "street_edge_id": 814,
@@ -5714,10 +5239,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 7,
+                "cluster_id": 11,
                 "img_url": "img/seattle_with_icons/label_id_2444.jpg",
                 "clustered": true
             },
@@ -5732,6 +5254,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2445,
                 "username": "mikey",
                 "label_id": 2445,
                 "street_edge_id": 812,
@@ -5746,10 +5269,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 6,
+                "cluster_id": 10,
                 "img_url": "img/seattle_with_icons/label_id_2445.jpg",
                 "clustered": true
             },
@@ -5764,6 +5284,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2446,
                 "username": "mikey",
                 "label_id": 2446,
                 "street_edge_id": 812,
@@ -5778,10 +5299,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 5,
+                "cluster_id": 9,
                 "img_url": "img/seattle_with_icons/label_id_2446.jpg",
                 "clustered": true
             },
@@ -5796,6 +5314,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2453,
                 "username": "mikey",
                 "label_id": 2453,
                 "street_edge_id": 811,
@@ -5810,10 +5329,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 4,
+                "cluster_id": 8,
                 "img_url": "img/seattle_with_icons/label_id_2453.jpg",
                 "clustered": true
             },
@@ -5828,6 +5344,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2456,
                 "username": "mikey",
                 "label_id": 2456,
                 "street_edge_id": 811,
@@ -5840,11 +5357,8 @@
                 "correct": null,
                 "severity": 5,
                 "temporary": "f",
-                "tag_list": "surface problem",
-                "description": "missing tactile warning",
-                "Unnamed: 14": "driveway can be used",
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
+                "tag_list": "surface problem,missing tactile warning",
+                "description": "driveway can be used",
                 "cluster_id": 107,
                 "img_url": "img/seattle_with_icons/label_id_2456.jpg",
                 "clustered": false
@@ -5860,6 +5374,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2457,
                 "username": "mikey",
                 "label_id": 2457,
                 "street_edge_id": 810,
@@ -5874,10 +5389,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 3,
+                "cluster_id": 7,
                 "img_url": "img/seattle_with_icons/label_id_2457.jpg",
                 "clustered": true
             },
@@ -5892,6 +5404,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2488,
                 "username": "mikey",
                 "label_id": 2488,
                 "street_edge_id": 810,
@@ -5906,10 +5419,7 @@
                 "temporary": "f",
                 "tag_list": null,
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 2,
+                "cluster_id": 6,
                 "img_url": "img/seattle_with_icons/label_id_2488.jpg",
                 "clustered": true
             },
@@ -5924,6 +5434,7 @@
         {
             "type": "Feature",
             "properties": {
+                "Unnamed: 0": 2489,
                 "username": "mikey",
                 "label_id": 2489,
                 "street_edge_id": 810,
@@ -5938,10 +5449,7 @@
                 "temporary": "f",
                 "tag_list": "surface problem",
                 "description": null,
-                "Unnamed: 14": null,
-                "Unnamed: 15": null,
-                "Unnamed: 16": null,
-                "cluster_id": 1,
+                "cluster_id": 5,
                 "img_url": "img/seattle_with_icons/label_id_2489.jpg",
                 "clustered": true
             },
@@ -5950,6 +5458,126 @@
                 "coordinates": [
                     -122.267959594727,
                     47.6720924377441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2528,
+                "username": "Devon Snyder",
+                "label_id": 2528,
+                "street_edge_id": 487,
+                "neighborhood": "University District",
+                "label_type": "CurbRamp",
+                "lat": 47.6595230102539,
+                "lng": -122.319686889648,
+                "gsv_panorama_id": "jCGaqx_i5lllqbp3q1GWUw",
+                "time_created": "2022-11-09 08:03:27.714-08",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "missing tactile warning,points into traffic,narrow",
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/seattle_with_icons/label_id_2528.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319686889648,
+                    47.6595230102539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2529,
+                "username": "Devon Snyder",
+                "label_id": 2529,
+                "street_edge_id": 488,
+                "neighborhood": "University District",
+                "label_type": "CurbRamp",
+                "lat": 47.6594009399414,
+                "lng": -122.319725036621,
+                "gsv_panorama_id": "z9UEjhLFWd_yO6TmMzABfA",
+                "time_created": "2022-11-09 08:04:02.134-08",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "points into traffic,missing tactile warning",
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/seattle_with_icons/label_id_2529.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319725036621,
+                    47.6594009399414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2530,
+                "username": "Devon Snyder",
+                "label_id": 2530,
+                "street_edge_id": 476,
+                "neighborhood": "University District",
+                "label_type": "CurbRamp",
+                "lat": 47.6594543457031,
+                "lng": -122.319938659668,
+                "gsv_panorama_id": "ndtOrb8y8Cnt1HpvVXWNuQ",
+                "time_created": "2022-11-09 08:04:41.577-08",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "narrow,missing tactile warning",
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/seattle_with_icons/label_id_2530.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319938659668,
+                    47.6594543457031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2532,
+                "username": "Devon Snyder",
+                "label_id": 2532,
+                "street_edge_id": 489,
+                "neighborhood": "University District",
+                "label_type": "CurbRamp",
+                "lat": 47.6594963073731,
+                "lng": -122.319839477539,
+                "gsv_panorama_id": "jCGaqx_i5lllqbp3q1GWUw",
+                "time_created": "2022-11-09 08:07:11.519-08",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "points into traffic,narrow,missing tactile warning",
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/seattle_with_icons/label_id_2532.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319839477539,
+                    47.6594963073731
                 ]
             }
         }
