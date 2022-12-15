@@ -1,0 +1,4835 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 226,
+                "username": "Devon Snyder",
+                "label_id": 226,
+                "street_edge_id": 243,
+                "neighborhood": "International District",
+                "label_type": "NoSidewalk",
+                "lat": 47.601001739502,
+                "lng": -122.335220336914,
+                "gsv_panorama_id": "elIi0Q0khZq587iJWROCaQ",
+                "time_created": "2022-05-11 09:04:05.179-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "t",
+                "tag_list": null,
+                "description": "construction",
+                "cluster_id": 61,
+                "img_url": "img/chicago_with_icons/label_id_226.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335220336914,
+                    47.601001739502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 248,
+                "username": "Devon Snyder",
+                "label_id": 248,
+                "street_edge_id": 182,
+                "neighborhood": "International District",
+                "label_type": "NoSidewalk",
+                "lat": 47.6008453369141,
+                "lng": -122.335861206055,
+                "gsv_panorama_id": "26SL656wwKAlCUncgY1Idg",
+                "time_created": "2022-05-11 09:15:15.794-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "t",
+                "tag_list": null,
+                "description": "construction, alternative route available",
+                "cluster_id": 62,
+                "img_url": "img/chicago_with_icons/label_id_248.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335861206055,
+                    47.6008453369141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 249,
+                "username": "Devon Snyder",
+                "label_id": 249,
+                "street_edge_id": 249,
+                "neighborhood": "International District",
+                "label_type": "NoSidewalk",
+                "lat": 47.6006813049316,
+                "lng": -122.335952758789,
+                "gsv_panorama_id": "CzQAnKygyu-2QlEOsq-a1Q",
+                "time_created": "2022-05-11 09:15:40.975-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "t",
+                "tag_list": null,
+                "description": "construction, alternative route available",
+                "cluster_id": 63,
+                "img_url": "img/chicago_with_icons/label_id_249.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335952758789,
+                    47.6006813049316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 694,
+                "username": "Devon Snyder",
+                "label_id": 694,
+                "street_edge_id": 715,
+                "neighborhood": "Windermere",
+                "label_type": "NoSidewalk",
+                "lat": 47.672233581543,
+                "lng": -122.268180847168,
+                "gsv_panorama_id": "65FQ-Ikjf8gSpzEoqndvoQ",
+                "time_created": "2022-05-13 10:11:02.091-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk",
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/chicago_with_icons/label_id_694.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.268180847168,
+                    47.672233581543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1214,
+                "username": "Devon Snyder",
+                "label_id": 1214,
+                "street_edge_id": 136,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5537376403809,
+                "lng": -122.361618041992,
+                "gsv_panorama_id": "Z-nc2QMpJZSUQ-aDZSmqsA",
+                "time_created": "2022-05-25 09:34:51.712-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 20,
+                "img_url": "img/chicago_with_icons/label_id_1214.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361618041992,
+                    47.5537376403809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1215,
+                "username": "Devon Snyder",
+                "label_id": 1215,
+                "street_edge_id": 136,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5537605285645,
+                "lng": -122.361915588379,
+                "gsv_panorama_id": "Z-nc2QMpJZSUQ-aDZSmqsA",
+                "time_created": "2022-05-25 09:35:11.995-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 19,
+                "img_url": "img/chicago_with_icons/label_id_1215.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361915588379,
+                    47.5537605285645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1216,
+                "username": "Devon Snyder",
+                "label_id": 1216,
+                "street_edge_id": 136,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5536689758301,
+                "lng": -122.36190032959,
+                "gsv_panorama_id": "Z-nc2QMpJZSUQ-aDZSmqsA",
+                "time_created": "2022-05-25 09:35:23.913-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 64,
+                "img_url": "img/chicago_with_icons/label_id_1216.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36190032959,
+                    47.5536689758301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1217,
+                "username": "Devon Snyder",
+                "label_id": 1217,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5535926818848,
+                "lng": -122.361694335938,
+                "gsv_panorama_id": "dl4TaOwEVjGuFxz3_BICoA",
+                "time_created": "2022-05-25 09:35:50.365-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,shared pedestrian/car space",
+                "description": null,
+                "cluster_id": 21,
+                "img_url": "img/chicago_with_icons/label_id_1217.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361694335938,
+                    47.5535926818848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1218,
+                "username": "Devon Snyder",
+                "label_id": 1218,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5535659790039,
+                "lng": -122.36181640625,
+                "gsv_panorama_id": "dl4TaOwEVjGuFxz3_BICoA",
+                "time_created": "2022-05-25 09:35:56.425-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 22,
+                "img_url": "img/chicago_with_icons/label_id_1218.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36181640625,
+                    47.5535659790039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1219,
+                "username": "Devon Snyder",
+                "label_id": 1219,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5534629821777,
+                "lng": -122.361686706543,
+                "gsv_panorama_id": "ZUK7mh5hHKvQtBWcmjS0hw",
+                "time_created": "2022-05-25 09:36:05.682-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 24,
+                "img_url": "img/chicago_with_icons/label_id_1219.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361686706543,
+                    47.5534629821777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1220,
+                "username": "Devon Snyder",
+                "label_id": 1220,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5534439086914,
+                "lng": -122.361808776855,
+                "gsv_panorama_id": "ZUK7mh5hHKvQtBWcmjS0hw",
+                "time_created": "2022-05-25 09:36:16.541-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 65,
+                "img_url": "img/chicago_with_icons/label_id_1220.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361808776855,
+                    47.5534439086914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1221,
+                "username": "Devon Snyder",
+                "label_id": 1221,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5534057617188,
+                "lng": -122.361831665039,
+                "gsv_panorama_id": "KPLR6cJTYt1Ykw5D7n9zgg",
+                "time_created": "2022-05-25 09:36:25.716-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 23,
+                "img_url": "img/chicago_with_icons/label_id_1221.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361831665039,
+                    47.5534057617188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1222,
+                "username": "Devon Snyder",
+                "label_id": 1222,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5533905029297,
+                "lng": -122.361709594727,
+                "gsv_panorama_id": "KPLR6cJTYt1Ykw5D7n9zgg",
+                "time_created": "2022-05-25 09:36:32.253-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,shared pedestrian/car space",
+                "description": null,
+                "cluster_id": 66,
+                "img_url": "img/chicago_with_icons/label_id_1222.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361709594727,
+                    47.5533905029297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1223,
+                "username": "Devon Snyder",
+                "label_id": 1223,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5533409118652,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "YX3HWkuHQHMiKX1NrVa1hA",
+                "time_created": "2022-05-25 09:37:01.412-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 67,
+                "img_url": "img/chicago_with_icons/label_id_1223.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.5533409118652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1224,
+                "username": "Devon Snyder",
+                "label_id": 1224,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5533676147461,
+                "lng": -122.361709594727,
+                "gsv_panorama_id": "YX3HWkuHQHMiKX1NrVa1hA",
+                "time_created": "2022-05-25 09:37:06.885-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 68,
+                "img_url": "img/chicago_with_icons/label_id_1224.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361709594727,
+                    47.5533676147461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1225,
+                "username": "Devon Snyder",
+                "label_id": 1225,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5532455444336,
+                "lng": -122.361709594727,
+                "gsv_panorama_id": "BVBE9oood7_1VynWx0yipg",
+                "time_created": "2022-05-25 09:37:22.716-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 25,
+                "img_url": "img/chicago_with_icons/label_id_1225.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361709594727,
+                    47.5532455444336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1226,
+                "username": "Devon Snyder",
+                "label_id": 1226,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5532722473145,
+                "lng": -122.361846923828,
+                "gsv_panorama_id": "BVBE9oood7_1VynWx0yipg",
+                "time_created": "2022-05-25 09:37:28.148-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 26,
+                "img_url": "img/chicago_with_icons/label_id_1226.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361846923828,
+                    47.5532722473145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1227,
+                "username": "Devon Snyder",
+                "label_id": 1227,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5531616210938,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "OKnIb5SAjMiqZsTTu6mOdg",
+                "time_created": "2022-05-25 09:37:37.3-07",
+                "correct": "t",
+                "severity": 4,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 69,
+                "img_url": "img/chicago_with_icons/label_id_1227.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.5531616210938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1228,
+                "username": "Devon Snyder",
+                "label_id": 1228,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5531768798828,
+                "lng": -122.361701965332,
+                "gsv_panorama_id": "OKnIb5SAjMiqZsTTu6mOdg",
+                "time_created": "2022-05-25 09:37:43.193-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,shared pedestrian/car space",
+                "description": null,
+                "cluster_id": 70,
+                "img_url": "img/chicago_with_icons/label_id_1228.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361701965332,
+                    47.5531768798828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1229,
+                "username": "Devon Snyder",
+                "label_id": 1229,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5530662536621,
+                "lng": -122.361701965332,
+                "gsv_panorama_id": "WpdL_uPAV5yu3AkOwNkUqw",
+                "time_created": "2022-05-25 09:37:52.004-07",
+                "correct": "t",
+                "severity": 4,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,shared pedestrian/car space",
+                "description": null,
+                "cluster_id": 28,
+                "img_url": "img/chicago_with_icons/label_id_1229.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361701965332,
+                    47.5530662536621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1230,
+                "username": "Devon Snyder",
+                "label_id": 1230,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5530662536621,
+                "lng": -122.36181640625,
+                "gsv_panorama_id": "WpdL_uPAV5yu3AkOwNkUqw",
+                "time_created": "2022-05-25 09:38:13.918-07",
+                "correct": null,
+                "severity": 4,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,shared pedestrian/car space",
+                "description": null,
+                "cluster_id": 27,
+                "img_url": "img/chicago_with_icons/label_id_1230.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36181640625,
+                    47.5530662536621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1231,
+                "username": "Devon Snyder",
+                "label_id": 1231,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.552978515625,
+                "lng": -122.361831665039,
+                "gsv_panorama_id": "xsjJjahcjmkmzntTz2cdOA",
+                "time_created": "2022-05-25 09:39:14.02-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 71,
+                "img_url": "img/chicago_with_icons/label_id_1231.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361831665039,
+                    47.552978515625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1232,
+                "username": "Devon Snyder",
+                "label_id": 1232,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5529479980469,
+                "lng": -122.361709594727,
+                "gsv_panorama_id": "xsjJjahcjmkmzntTz2cdOA",
+                "time_created": "2022-05-25 09:39:20.31-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 72,
+                "img_url": "img/chicago_with_icons/label_id_1232.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361709594727,
+                    47.5529479980469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1233,
+                "username": "Devon Snyder",
+                "label_id": 1233,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5528831481934,
+                "lng": -122.361724853516,
+                "gsv_panorama_id": "5v1Jzba9P89gjot3U1AuuA",
+                "time_created": "2022-05-25 09:39:32.517-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 30,
+                "img_url": "img/chicago_with_icons/label_id_1233.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361724853516,
+                    47.5528831481934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1234,
+                "username": "Devon Snyder",
+                "label_id": 1234,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5529022216797,
+                "lng": -122.361824035645,
+                "gsv_panorama_id": "5v1Jzba9P89gjot3U1AuuA",
+                "time_created": "2022-05-25 09:39:36.959-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 29,
+                "img_url": "img/chicago_with_icons/label_id_1234.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361824035645,
+                    47.5529022216797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1235,
+                "username": "Devon Snyder",
+                "label_id": 1235,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5528106689453,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "ul17Bys1WT_CfZYgGQ6NVA",
+                "time_created": "2022-05-25 09:39:44.116-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 73,
+                "img_url": "img/chicago_with_icons/label_id_1235.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.5528106689453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1236,
+                "username": "Devon Snyder",
+                "label_id": 1236,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.552791595459,
+                "lng": -122.361717224121,
+                "gsv_panorama_id": "ul17Bys1WT_CfZYgGQ6NVA",
+                "time_created": "2022-05-25 09:39:50.644-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 74,
+                "img_url": "img/chicago_with_icons/label_id_1236.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361717224121,
+                    47.552791595459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1237,
+                "username": "Devon Snyder",
+                "label_id": 1237,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5527191162109,
+                "lng": -122.361824035645,
+                "gsv_panorama_id": "QSBIg3MspOs6YPOT5Z3phA",
+                "time_created": "2022-05-25 09:39:57.428-07",
+                "correct": null,
+                "severity": 4,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,shared pedestrian/car space",
+                "description": null,
+                "cluster_id": 31,
+                "img_url": "img/chicago_with_icons/label_id_1237.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361824035645,
+                    47.5527191162109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1238,
+                "username": "Devon Snyder",
+                "label_id": 1238,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5527114868164,
+                "lng": -122.361717224121,
+                "gsv_panorama_id": "QSBIg3MspOs6YPOT5Z3phA",
+                "time_created": "2022-05-25 09:40:06.534-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 32,
+                "img_url": "img/chicago_with_icons/label_id_1238.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361717224121,
+                    47.5527114868164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1239,
+                "username": "Devon Snyder",
+                "label_id": 1239,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5526237487793,
+                "lng": -122.361717224121,
+                "gsv_panorama_id": "T9XdGIi89WFhZe9zPo1MUg",
+                "time_created": "2022-05-25 09:40:16.404-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 75,
+                "img_url": "img/chicago_with_icons/label_id_1239.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361717224121,
+                    47.5526237487793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1240,
+                "username": "Devon Snyder",
+                "label_id": 1240,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5526390075684,
+                "lng": -122.361831665039,
+                "gsv_panorama_id": "T9XdGIi89WFhZe9zPo1MUg",
+                "time_created": "2022-05-25 09:40:20.431-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,shared pedestrian/car space",
+                "description": null,
+                "cluster_id": 76,
+                "img_url": "img/chicago_with_icons/label_id_1240.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361831665039,
+                    47.5526390075684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1241,
+                "username": "Devon Snyder",
+                "label_id": 1241,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5525398254395,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "IWrn0c-bH6Kw7MLl9p3ulA",
+                "time_created": "2022-05-25 09:40:27.971-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,shared pedestrian/car space",
+                "description": null,
+                "cluster_id": 34,
+                "img_url": "img/chicago_with_icons/label_id_1241.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.5525398254395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1242,
+                "username": "Devon Snyder",
+                "label_id": 1242,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5525321960449,
+                "lng": -122.361709594727,
+                "gsv_panorama_id": "IWrn0c-bH6Kw7MLl9p3ulA",
+                "time_created": "2022-05-25 09:40:33.568-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 33,
+                "img_url": "img/chicago_with_icons/label_id_1242.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361709594727,
+                    47.5525321960449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1243,
+                "username": "Devon Snyder",
+                "label_id": 1243,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5524368286133,
+                "lng": -122.361717224121,
+                "gsv_panorama_id": "PDrBdhu3vOgW8dmNK-5fXg",
+                "time_created": "2022-05-25 09:41:22.809-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks,shared pedestrian/car space",
+                "description": null,
+                "cluster_id": 77,
+                "img_url": "img/chicago_with_icons/label_id_1243.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361717224121,
+                    47.5524368286133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1244,
+                "username": "Devon Snyder",
+                "label_id": 1244,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5524024963379,
+                "lng": -122.361824035645,
+                "gsv_panorama_id": "PDrBdhu3vOgW8dmNK-5fXg",
+                "time_created": "2022-05-25 09:41:43.735-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 78,
+                "img_url": "img/chicago_with_icons/label_id_1244.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361824035645,
+                    47.5524024963379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1245,
+                "username": "Devon Snyder",
+                "label_id": 1245,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5523071289063,
+                "lng": -122.361717224121,
+                "gsv_panorama_id": "DGQ31pa2kIr1Y54Af9S3lQ",
+                "time_created": "2022-05-25 09:41:49.853-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 35,
+                "img_url": "img/chicago_with_icons/label_id_1245.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361717224121,
+                    47.5523071289063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1246,
+                "username": "Devon Snyder",
+                "label_id": 1246,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5523338317871,
+                "lng": -122.361831665039,
+                "gsv_panorama_id": "DGQ31pa2kIr1Y54Af9S3lQ",
+                "time_created": "2022-05-25 09:41:56.277-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 36,
+                "img_url": "img/chicago_with_icons/label_id_1246.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361831665039,
+                    47.5523338317871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1247,
+                "username": "Devon Snyder",
+                "label_id": 1247,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5522155761719,
+                "lng": -122.361717224121,
+                "gsv_panorama_id": "j5t0l8Y_G9dNk_B5dUru1Q",
+                "time_created": "2022-05-25 09:42:03.936-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 79,
+                "img_url": "img/chicago_with_icons/label_id_1247.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361717224121,
+                    47.5522155761719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1248,
+                "username": "Devon Snyder",
+                "label_id": 1248,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5522270202637,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "j5t0l8Y_G9dNk_B5dUru1Q",
+                "time_created": "2022-05-25 09:42:09.761-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,shared pedestrian/car space",
+                "description": null,
+                "cluster_id": 80,
+                "img_url": "img/chicago_with_icons/label_id_1248.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.5522270202637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1249,
+                "username": "Devon Snyder",
+                "label_id": 1249,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.552131652832,
+                "lng": -122.361747741699,
+                "gsv_panorama_id": "R5uAfnpuOp2jaozdNLjb_A",
+                "time_created": "2022-05-25 09:42:41.758-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "shared pedestrian/car space,street has no sidewalks",
+                "description": null,
+                "cluster_id": 81,
+                "img_url": "img/chicago_with_icons/label_id_1249.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361747741699,
+                    47.552131652832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1250,
+                "username": "Devon Snyder",
+                "label_id": 1250,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5521125793457,
+                "lng": -122.361831665039,
+                "gsv_panorama_id": "R5uAfnpuOp2jaozdNLjb_A",
+                "time_created": "2022-05-25 09:42:46.004-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 38,
+                "img_url": "img/chicago_with_icons/label_id_1250.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361831665039,
+                    47.5521125793457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1251,
+                "username": "Devon Snyder",
+                "label_id": 1251,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5520324707031,
+                "lng": -122.361831665039,
+                "gsv_panorama_id": "RJQRZJYKQ94pLJzWdvWr7Q",
+                "time_created": "2022-05-25 09:42:52.007-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 82,
+                "img_url": "img/chicago_with_icons/label_id_1251.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361831665039,
+                    47.5520324707031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1252,
+                "username": "Devon Snyder",
+                "label_id": 1252,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5520210266113,
+                "lng": -122.36173248291,
+                "gsv_panorama_id": "RJQRZJYKQ94pLJzWdvWr7Q",
+                "time_created": "2022-05-25 09:42:55.729-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 37,
+                "img_url": "img/chicago_with_icons/label_id_1252.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36173248291,
+                    47.5520210266113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1253,
+                "username": "Devon Snyder",
+                "label_id": 1253,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5519409179688,
+                "lng": -122.36173248291,
+                "gsv_panorama_id": "Y0h7M8TtAsObhElwA_Jaqw",
+                "time_created": "2022-05-25 09:43:01.427-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 40,
+                "img_url": "img/chicago_with_icons/label_id_1253.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36173248291,
+                    47.5519409179688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1254,
+                "username": "Devon Snyder",
+                "label_id": 1254,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5519676208496,
+                "lng": -122.361824035645,
+                "gsv_panorama_id": "Y0h7M8TtAsObhElwA_Jaqw",
+                "time_created": "2022-05-25 09:43:05.306-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 39,
+                "img_url": "img/chicago_with_icons/label_id_1254.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361824035645,
+                    47.5519676208496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1256,
+                "username": "Devon Snyder",
+                "label_id": 1256,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5518264770508,
+                "lng": -122.361724853516,
+                "gsv_panorama_id": "8Dopek3kgD6kIQn72O39eQ",
+                "time_created": "2022-05-25 09:43:27.878-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 41,
+                "img_url": "img/chicago_with_icons/label_id_1256.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361724853516,
+                    47.5518264770508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1257,
+                "username": "Devon Snyder",
+                "label_id": 1257,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.551830291748,
+                "lng": -122.361740112305,
+                "gsv_panorama_id": "Q25_ygi3MDSbrDWcqvt8nA",
+                "time_created": "2022-05-25 09:43:33.513-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 83,
+                "img_url": "img/chicago_with_icons/label_id_1257.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361740112305,
+                    47.551830291748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1258,
+                "username": "Devon Snyder",
+                "label_id": 1258,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5517463684082,
+                "lng": -122.361846923828,
+                "gsv_panorama_id": "FEW0aRXZQgr4GTIKcFUSiQ",
+                "time_created": "2022-05-25 09:43:40.992-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 42,
+                "img_url": "img/chicago_with_icons/label_id_1258.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361846923828,
+                    47.5517463684082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1259,
+                "username": "Devon Snyder",
+                "label_id": 1259,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5517807006836,
+                "lng": -122.361671447754,
+                "gsv_panorama_id": "FEW0aRXZQgr4GTIKcFUSiQ",
+                "time_created": "2022-05-25 09:43:58.577-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 84,
+                "img_url": "img/chicago_with_icons/label_id_1259.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361671447754,
+                    47.5517807006836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1260,
+                "username": "Devon Snyder",
+                "label_id": 1260,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5516929626465,
+                "lng": -122.361709594727,
+                "gsv_panorama_id": "LngNS-FlpU1h7Ed4mTGO6g",
+                "time_created": "2022-05-25 09:44:04.656-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 85,
+                "img_url": "img/chicago_with_icons/label_id_1260.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361709594727,
+                    47.5516929626465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1261,
+                "username": "Devon Snyder",
+                "label_id": 1261,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5516548156738,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "LngNS-FlpU1h7Ed4mTGO6g",
+                "time_created": "2022-05-25 09:44:09.894-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 43,
+                "img_url": "img/chicago_with_icons/label_id_1261.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.5516548156738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1262,
+                "username": "Devon Snyder",
+                "label_id": 1262,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5516052246094,
+                "lng": -122.361862182617,
+                "gsv_panorama_id": "l3143JitdNe9Ea8_nx5LMA",
+                "time_created": "2022-05-25 09:44:14.864-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 86,
+                "img_url": "img/chicago_with_icons/label_id_1262.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361862182617,
+                    47.5516052246094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1263,
+                "username": "Devon Snyder",
+                "label_id": 1263,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5515785217285,
+                "lng": -122.361701965332,
+                "gsv_panorama_id": "l3143JitdNe9Ea8_nx5LMA",
+                "time_created": "2022-05-25 09:44:19.086-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 44,
+                "img_url": "img/chicago_with_icons/label_id_1263.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361701965332,
+                    47.5515785217285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1265,
+                "username": "Devon Snyder",
+                "label_id": 1265,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5514793395996,
+                "lng": -122.361709594727,
+                "gsv_panorama_id": "reJ2JMqqcNFXnmlTEUqODA",
+                "time_created": "2022-05-25 09:44:28.304-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 45,
+                "img_url": "img/chicago_with_icons/label_id_1265.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361709594727,
+                    47.5514793395996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1266,
+                "username": "Devon Snyder",
+                "label_id": 1266,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5513763427734,
+                "lng": -122.361701965332,
+                "gsv_panorama_id": "hJykPk2gXInuvzAqPeXO8w",
+                "time_created": "2022-05-25 09:44:33.514-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 87,
+                "img_url": "img/chicago_with_icons/label_id_1266.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361701965332,
+                    47.5513763427734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1267,
+                "username": "Devon Snyder",
+                "label_id": 1267,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5513725280762,
+                "lng": -122.361862182617,
+                "gsv_panorama_id": "hJykPk2gXInuvzAqPeXO8w",
+                "time_created": "2022-05-25 09:44:37.199-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 88,
+                "img_url": "img/chicago_with_icons/label_id_1267.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361862182617,
+                    47.5513725280762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1268,
+                "username": "Devon Snyder",
+                "label_id": 1268,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5514678955078,
+                "lng": -122.361854553223,
+                "gsv_panorama_id": "reJ2JMqqcNFXnmlTEUqODA",
+                "time_created": "2022-05-25 09:44:46.142-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 46,
+                "img_url": "img/chicago_with_icons/label_id_1268.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361854553223,
+                    47.5514678955078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1269,
+                "username": "Devon Snyder",
+                "label_id": 1269,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5512962341309,
+                "lng": -122.361854553223,
+                "gsv_panorama_id": "4nQAcpgHh0VuFKBWwYGyJg",
+                "time_created": "2022-05-25 09:46:09.118-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 47,
+                "img_url": "img/chicago_with_icons/label_id_1269.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361854553223,
+                    47.5512962341309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1270,
+                "username": "Devon Snyder",
+                "label_id": 1270,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.55126953125,
+                "lng": -122.361724853516,
+                "gsv_panorama_id": "4nQAcpgHh0VuFKBWwYGyJg",
+                "time_created": "2022-05-25 09:46:24.821-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 48,
+                "img_url": "img/chicago_with_icons/label_id_1270.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361724853516,
+                    47.55126953125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1271,
+                "username": "Devon Snyder",
+                "label_id": 1271,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5512161254883,
+                "lng": -122.361854553223,
+                "gsv_panorama_id": "ih5_WmIpHz8QWhmAzOrdqA",
+                "time_created": "2022-05-25 09:46:34.768-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 89,
+                "img_url": "img/chicago_with_icons/label_id_1271.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361854553223,
+                    47.5512161254883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1272,
+                "username": "Devon Snyder",
+                "label_id": 1272,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5512199401855,
+                "lng": -122.361717224121,
+                "gsv_panorama_id": "ih5_WmIpHz8QWhmAzOrdqA",
+                "time_created": "2022-05-25 09:46:39.836-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 90,
+                "img_url": "img/chicago_with_icons/label_id_1272.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361717224121,
+                    47.5512199401855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1273,
+                "username": "Devon Snyder",
+                "label_id": 1273,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5511093139648,
+                "lng": -122.361854553223,
+                "gsv_panorama_id": "H9hdXFnLaLhI7GJ3539mRw",
+                "time_created": "2022-05-25 09:46:45.476-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 91,
+                "img_url": "img/chicago_with_icons/label_id_1273.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361854553223,
+                    47.5511093139648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1274,
+                "username": "Devon Snyder",
+                "label_id": 1274,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5511245727539,
+                "lng": -122.361709594727,
+                "gsv_panorama_id": "H9hdXFnLaLhI7GJ3539mRw",
+                "time_created": "2022-05-25 09:46:49.715-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 49,
+                "img_url": "img/chicago_with_icons/label_id_1274.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361709594727,
+                    47.5511245727539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1275,
+                "username": "Devon Snyder",
+                "label_id": 1275,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5510482788086,
+                "lng": -122.361717224121,
+                "gsv_panorama_id": "9zKelm5KB6L6_WGcUGmAPA",
+                "time_created": "2022-05-25 09:46:54.588-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 92,
+                "img_url": "img/chicago_with_icons/label_id_1275.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361717224121,
+                    47.5510482788086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1276,
+                "username": "Devon Snyder",
+                "label_id": 1276,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5510978698731,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "9zKelm5KB6L6_WGcUGmAPA",
+                "time_created": "2022-05-25 09:46:59.974-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 50,
+                "img_url": "img/chicago_with_icons/label_id_1276.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.5510978698731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1277,
+                "username": "Devon Snyder",
+                "label_id": 1277,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.550952911377,
+                "lng": -122.361854553223,
+                "gsv_panorama_id": "U9mHUFK0RDmhAwg_QqE3dQ",
+                "time_created": "2022-05-25 09:47:05.594-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 93,
+                "img_url": "img/chicago_with_icons/label_id_1277.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361854553223,
+                    47.550952911377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1278,
+                "username": "Devon Snyder",
+                "label_id": 1278,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5509719848633,
+                "lng": -122.361701965332,
+                "gsv_panorama_id": "U9mHUFK0RDmhAwg_QqE3dQ",
+                "time_created": "2022-05-25 09:47:09.91-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 94,
+                "img_url": "img/chicago_with_icons/label_id_1278.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361701965332,
+                    47.5509719848633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1279,
+                "username": "Devon Snyder",
+                "label_id": 1279,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5508842468262,
+                "lng": -122.361694335938,
+                "gsv_panorama_id": "h-qBOXXVt5-x66o43I5AYw",
+                "time_created": "2022-05-25 09:47:15.059-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 52,
+                "img_url": "img/chicago_with_icons/label_id_1279.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361694335938,
+                    47.5508842468262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1280,
+                "username": "Devon Snyder",
+                "label_id": 1280,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.550895690918,
+                "lng": -122.361846923828,
+                "gsv_panorama_id": "h-qBOXXVt5-x66o43I5AYw",
+                "time_created": "2022-05-25 09:47:19.556-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 51,
+                "img_url": "img/chicago_with_icons/label_id_1280.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361846923828,
+                    47.550895690918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1281,
+                "username": "Devon Snyder",
+                "label_id": 1281,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5507965087891,
+                "lng": -122.361846923828,
+                "gsv_panorama_id": "iWS19-m_1a0EhY2-GCxCLw",
+                "time_created": "2022-05-25 09:47:25.122-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 95,
+                "img_url": "img/chicago_with_icons/label_id_1281.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361846923828,
+                    47.5507965087891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1282,
+                "username": "Devon Snyder",
+                "label_id": 1282,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5508270263672,
+                "lng": -122.361694335938,
+                "gsv_panorama_id": "iWS19-m_1a0EhY2-GCxCLw",
+                "time_created": "2022-05-25 09:47:31.024-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 96,
+                "img_url": "img/chicago_with_icons/label_id_1282.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361694335938,
+                    47.5508270263672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1283,
+                "username": "Devon Snyder",
+                "label_id": 1283,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5506744384766,
+                "lng": -122.361846923828,
+                "gsv_panorama_id": "MdpmWq_gqcPUtLDJy7tyIQ",
+                "time_created": "2022-05-25 09:49:07.929-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 54,
+                "img_url": "img/chicago_with_icons/label_id_1283.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361846923828,
+                    47.5506744384766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1284,
+                "username": "Devon Snyder",
+                "label_id": 1284,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5507774353027,
+                "lng": -122.361694335938,
+                "gsv_panorama_id": "MdpmWq_gqcPUtLDJy7tyIQ",
+                "time_created": "2022-05-25 09:49:14.917-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 53,
+                "img_url": "img/chicago_with_icons/label_id_1284.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361694335938,
+                    47.5507774353027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1285,
+                "username": "Devon Snyder",
+                "label_id": 1285,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.550594329834,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "fba8mQ9DnigO1at7LNGVpA",
+                "time_created": "2022-05-25 09:49:22.665-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 56,
+                "img_url": "img/chicago_with_icons/label_id_1285.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.550594329834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1286,
+                "username": "Devon Snyder",
+                "label_id": 1286,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.550609588623,
+                "lng": -122.361694335938,
+                "gsv_panorama_id": "fba8mQ9DnigO1at7LNGVpA",
+                "time_created": "2022-05-25 09:49:27.559-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 97,
+                "img_url": "img/chicago_with_icons/label_id_1286.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361694335938,
+                    47.550609588623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1287,
+                "username": "Devon Snyder",
+                "label_id": 1287,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5504913330078,
+                "lng": -122.361831665039,
+                "gsv_panorama_id": "O7HAML_UYebyR7Zb-bGweA",
+                "time_created": "2022-05-25 09:49:33.023-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 98,
+                "img_url": "img/chicago_with_icons/label_id_1287.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361831665039,
+                    47.5504913330078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1288,
+                "username": "Devon Snyder",
+                "label_id": 1288,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5505599975586,
+                "lng": -122.361671447754,
+                "gsv_panorama_id": "O7HAML_UYebyR7Zb-bGweA",
+                "time_created": "2022-05-25 09:49:38.815-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 55,
+                "img_url": "img/chicago_with_icons/label_id_1288.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361671447754,
+                    47.5505599975586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1289,
+                "username": "Devon Snyder",
+                "label_id": 1289,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5504035949707,
+                "lng": -122.361824035645,
+                "gsv_panorama_id": "P-Ah4ZHdxNTw9uzVLrkIBw",
+                "time_created": "2022-05-25 09:49:45.629-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 58,
+                "img_url": "img/chicago_with_icons/label_id_1289.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361824035645,
+                    47.5504035949707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1290,
+                "username": "Devon Snyder",
+                "label_id": 1290,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5504760742188,
+                "lng": -122.361686706543,
+                "gsv_panorama_id": "P-Ah4ZHdxNTw9uzVLrkIBw",
+                "time_created": "2022-05-25 09:49:52.728-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 99,
+                "img_url": "img/chicago_with_icons/label_id_1290.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361686706543,
+                    47.5504760742188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1291,
+                "username": "Devon Snyder",
+                "label_id": 1291,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5503234863281,
+                "lng": -122.361831665039,
+                "gsv_panorama_id": "aSalTJwUlRQ3f7sKDO0Uaw",
+                "time_created": "2022-05-25 09:50:00.051-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 100,
+                "img_url": "img/chicago_with_icons/label_id_1291.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361831665039,
+                    47.5503234863281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1292,
+                "username": "Devon Snyder",
+                "label_id": 1292,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5503234863281,
+                "lng": -122.361663818359,
+                "gsv_panorama_id": "aSalTJwUlRQ3f7sKDO0Uaw",
+                "time_created": "2022-05-25 09:50:04.679-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 57,
+                "img_url": "img/chicago_with_icons/label_id_1292.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361663818359,
+                    47.5503234863281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1293,
+                "username": "Devon Snyder",
+                "label_id": 1293,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.550235748291,
+                "lng": -122.361824035645,
+                "gsv_panorama_id": "OBhbmYiHxwDuiBddMa963A",
+                "time_created": "2022-05-25 09:50:12.556-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 59,
+                "img_url": "img/chicago_with_icons/label_id_1293.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361824035645,
+                    47.550235748291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1294,
+                "username": "Devon Snyder",
+                "label_id": 1294,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5502510070801,
+                "lng": -122.361663818359,
+                "gsv_panorama_id": "OBhbmYiHxwDuiBddMa963A",
+                "time_created": "2022-05-25 09:50:17.762-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 60,
+                "img_url": "img/chicago_with_icons/label_id_1294.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361663818359,
+                    47.5502510070801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1295,
+                "username": "Devon Snyder",
+                "label_id": 1295,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.550235748291,
+                "lng": -122.361633300781,
+                "gsv_panorama_id": "p0TRo497sFRHuPEfqMBX-w",
+                "time_created": "2022-05-25 09:50:33.395-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 101,
+                "img_url": "img/chicago_with_icons/label_id_1295.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361633300781,
+                    47.550235748291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1296,
+                "username": "Devon Snyder",
+                "label_id": 1296,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5502166748047,
+                "lng": -122.361862182617,
+                "gsv_panorama_id": "p0TRo497sFRHuPEfqMBX-w",
+                "time_created": "2022-05-25 09:50:43.597-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 102,
+                "img_url": "img/chicago_with_icons/label_id_1296.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361862182617,
+                    47.5502166748047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1308,
+                "username": "Devon Snyder",
+                "label_id": 1308,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5501976013184,
+                "lng": -122.361877441406,
+                "gsv_panorama_id": "85du5p_hKoeRo4xILAviwQ",
+                "time_created": "2022-05-25 09:53:25.4-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "ends abruptly,street has a sidewalk,gravel/dirt road",
+                "description": null,
+                "cluster_id": 103,
+                "img_url": "img/chicago_with_icons/label_id_1308.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361877441406,
+                    47.5501976013184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1368,
+                "username": "Devon Snyder",
+                "label_id": 1368,
+                "street_edge_id": 506,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6949996948242,
+                "lng": -122.349876403809,
+                "gsv_panorama_id": "foUP8VU7YLbbOz_tglDHvQ",
+                "time_created": "2022-05-25 13:42:39.97-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "ends abruptly,street has no sidewalks",
+                "description": null,
+                "cluster_id": 9,
+                "img_url": "img/chicago_with_icons/label_id_1368.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349876403809,
+                    47.6949996948242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1369,
+                "username": "Devon Snyder",
+                "label_id": 1369,
+                "street_edge_id": 506,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.694881439209,
+                "lng": -122.349876403809,
+                "gsv_panorama_id": "foUP8VU7YLbbOz_tglDHvQ",
+                "time_created": "2022-05-25 13:42:56.869-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,ends abruptly",
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/chicago_with_icons/label_id_1369.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349876403809,
+                    47.694881439209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1370,
+                "username": "Devon Snyder",
+                "label_id": 1370,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.694995880127,
+                "lng": -122.350051879883,
+                "gsv_panorama_id": "foUP8VU7YLbbOz_tglDHvQ",
+                "time_created": "2022-05-25 13:43:09.279-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 10,
+                "img_url": "img/chicago_with_icons/label_id_1370.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350051879883,
+                    47.694995880127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1371,
+                "username": "Devon Snyder",
+                "label_id": 1371,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6950759887695,
+                "lng": -122.349899291992,
+                "gsv_panorama_id": "foUP8VU7YLbbOz_tglDHvQ",
+                "time_created": "2022-05-25 13:43:23.765-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/chicago_with_icons/label_id_1371.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349899291992,
+                    47.6950759887695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1372,
+                "username": "Devon Snyder",
+                "label_id": 1372,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6951751708984,
+                "lng": -122.349899291992,
+                "gsv_panorama_id": "zjtuIutG--DHTq4NXXTE6A",
+                "time_created": "2022-05-25 13:43:33.611-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/chicago_with_icons/label_id_1372.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349899291992,
+                    47.6951751708984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1373,
+                "username": "Devon Snyder",
+                "label_id": 1373,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.695125579834,
+                "lng": -122.350059509277,
+                "gsv_panorama_id": "zjtuIutG--DHTq4NXXTE6A",
+                "time_created": "2022-05-25 13:43:41.226-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 12,
+                "img_url": "img/chicago_with_icons/label_id_1373.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350059509277,
+                    47.695125579834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1374,
+                "username": "Devon Snyder",
+                "label_id": 1374,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.695255279541,
+                "lng": -122.350051879883,
+                "gsv_panorama_id": "lk3RlPuLs93S6qzLf433OQ",
+                "time_created": "2022-05-25 13:43:48.33-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 14,
+                "img_url": "img/chicago_with_icons/label_id_1374.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350051879883,
+                    47.695255279541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1375,
+                "username": "Devon Snyder",
+                "label_id": 1375,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6952743530273,
+                "lng": -122.349914550781,
+                "gsv_panorama_id": "lk3RlPuLs93S6qzLf433OQ",
+                "time_created": "2022-05-25 13:43:53.766-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 13,
+                "img_url": "img/chicago_with_icons/label_id_1375.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349914550781,
+                    47.6952743530273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1376,
+                "username": "Devon Snyder",
+                "label_id": 1376,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6953239440918,
+                "lng": -122.349922180176,
+                "gsv_panorama_id": "FmVLPgwhF19-SYifDaVo3A",
+                "time_created": "2022-05-25 13:44:00.575-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/chicago_with_icons/label_id_1376.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349922180176,
+                    47.6953239440918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1377,
+                "username": "Devon Snyder",
+                "label_id": 1377,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6953239440918,
+                "lng": -122.350044250488,
+                "gsv_panorama_id": "FmVLPgwhF19-SYifDaVo3A",
+                "time_created": "2022-05-25 13:44:07.565-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 104,
+                "img_url": "img/chicago_with_icons/label_id_1377.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350044250488,
+                    47.6953239440918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1378,
+                "username": "Devon Snyder",
+                "label_id": 1378,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6954307556152,
+                "lng": -122.349914550781,
+                "gsv_panorama_id": "344NwpWZx5HCed06JJ7PTg",
+                "time_created": "2022-05-25 13:44:14.044-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 16,
+                "img_url": "img/chicago_with_icons/label_id_1378.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349914550781,
+                    47.6954307556152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1379,
+                "username": "Devon Snyder",
+                "label_id": 1379,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6954116821289,
+                "lng": -122.350059509277,
+                "gsv_panorama_id": "344NwpWZx5HCed06JJ7PTg",
+                "time_created": "2022-05-25 13:44:20.757-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 105,
+                "img_url": "img/chicago_with_icons/label_id_1379.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350059509277,
+                    47.6954116821289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1380,
+                "username": "Devon Snyder",
+                "label_id": 1380,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6955070495606,
+                "lng": -122.349914550781,
+                "gsv_panorama_id": "8mwUnPVxqS_MU_VwsR5NdQ",
+                "time_created": "2022-05-25 13:44:41.776-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/chicago_with_icons/label_id_1380.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349914550781,
+                    47.6955070495606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1381,
+                "username": "Devon Snyder",
+                "label_id": 1381,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6955070495606,
+                "lng": -122.350067138672,
+                "gsv_panorama_id": "8mwUnPVxqS_MU_VwsR5NdQ",
+                "time_created": "2022-05-25 13:44:47.282-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 15,
+                "img_url": "img/chicago_with_icons/label_id_1381.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350067138672,
+                    47.6955070495606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1382,
+                "username": "Devon Snyder",
+                "label_id": 1382,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6955757141113,
+                "lng": -122.349922180176,
+                "gsv_panorama_id": "bmq9-gNpzKyTOhR1OLI5kA",
+                "time_created": "2022-05-25 13:45:06.149-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 106,
+                "img_url": "img/chicago_with_icons/label_id_1382.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349922180176,
+                    47.6955757141113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1383,
+                "username": "Devon Snyder",
+                "label_id": 1383,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.695556640625,
+                "lng": -122.350044250488,
+                "gsv_panorama_id": "bmq9-gNpzKyTOhR1OLI5kA",
+                "time_created": "2022-05-25 13:45:15.011-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,gravel/dirt road",
+                "description": null,
+                "cluster_id": 107,
+                "img_url": "img/chicago_with_icons/label_id_1383.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350044250488,
+                    47.695556640625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1384,
+                "username": "Devon Snyder",
+                "label_id": 1384,
+                "street_edge_id": 576,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6956558227539,
+                "lng": -122.350059509277,
+                "gsv_panorama_id": "QnpgTIBae9bbrrRq23SkDA",
+                "time_created": "2022-05-25 13:45:24.068-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "gravel/dirt road,street has no sidewalks",
+                "description": null,
+                "cluster_id": 18,
+                "img_url": "img/chicago_with_icons/label_id_1384.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350059509277,
+                    47.6956558227539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1385,
+                "username": "Devon Snyder",
+                "label_id": 1385,
+                "street_edge_id": 505,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6955871582031,
+                "lng": -122.34984588623,
+                "gsv_panorama_id": "QnpgTIBae9bbrrRq23SkDA",
+                "time_created": "2022-05-25 13:45:33.253-07",
+                "correct": "t",
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk,ends abruptly",
+                "description": null,
+                "cluster_id": 17,
+                "img_url": "img/chicago_with_icons/label_id_1385.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.34984588623,
+                    47.6955871582031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2203,
+                "username": "mikey",
+                "label_id": 2203,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5502281188965,
+                "lng": -122.361679077148,
+                "gsv_panorama_id": "85du5p_hKoeRo4xILAviwQ",
+                "time_created": "2022-06-30 14:29:12.179-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 60,
+                "img_url": "img/chicago_with_icons/label_id_2203.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361679077148,
+                    47.5502281188965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2204,
+                "username": "mikey",
+                "label_id": 2204,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5502166748047,
+                "lng": -122.361831665039,
+                "gsv_panorama_id": "85du5p_hKoeRo4xILAviwQ",
+                "time_created": "2022-06-30 14:29:15.285-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 59,
+                "img_url": "img/chicago_with_icons/label_id_2204.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361831665039,
+                    47.5502166748047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2205,
+                "username": "mikey",
+                "label_id": 2205,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5503692626953,
+                "lng": -122.361854553223,
+                "gsv_panorama_id": "OBhbmYiHxwDuiBddMa963A",
+                "time_created": "2022-06-30 14:29:26.594-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 58,
+                "img_url": "img/chicago_with_icons/label_id_2205.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361854553223,
+                    47.5503692626953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2206,
+                "username": "mikey",
+                "label_id": 2206,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5503540039063,
+                "lng": -122.361663818359,
+                "gsv_panorama_id": "OBhbmYiHxwDuiBddMa963A",
+                "time_created": "2022-06-30 14:29:28.26-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 57,
+                "img_url": "img/chicago_with_icons/label_id_2206.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361663818359,
+                    47.5503540039063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2207,
+                "username": "mikey",
+                "label_id": 2207,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5505523681641,
+                "lng": -122.361877441406,
+                "gsv_panorama_id": "P-Ah4ZHdxNTw9uzVLrkIBw",
+                "time_created": "2022-06-30 14:29:37.015-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 56,
+                "img_url": "img/chicago_with_icons/label_id_2207.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361877441406,
+                    47.5505523681641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2208,
+                "username": "mikey",
+                "label_id": 2208,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5505447387695,
+                "lng": -122.361671447754,
+                "gsv_panorama_id": "P-Ah4ZHdxNTw9uzVLrkIBw",
+                "time_created": "2022-06-30 14:29:38.603-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 55,
+                "img_url": "img/chicago_with_icons/label_id_2208.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361671447754,
+                    47.5505447387695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2209,
+                "username": "mikey",
+                "label_id": 2209,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5507316589355,
+                "lng": -122.361907958984,
+                "gsv_panorama_id": "fba8mQ9DnigO1at7LNGVpA",
+                "time_created": "2022-06-30 14:29:43.305-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 54,
+                "img_url": "img/chicago_with_icons/label_id_2209.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361907958984,
+                    47.5507316589355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2210,
+                "username": "mikey",
+                "label_id": 2210,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5507278442383,
+                "lng": -122.361679077148,
+                "gsv_panorama_id": "fba8mQ9DnigO1at7LNGVpA",
+                "time_created": "2022-06-30 14:29:45.246-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 53,
+                "img_url": "img/chicago_with_icons/label_id_2210.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361679077148,
+                    47.5507278442383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2211,
+                "username": "mikey",
+                "label_id": 2211,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5509185791016,
+                "lng": -122.361679077148,
+                "gsv_panorama_id": "iWS19-m_1a0EhY2-GCxCLw",
+                "time_created": "2022-06-30 14:29:49.318-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 52,
+                "img_url": "img/chicago_with_icons/label_id_2211.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361679077148,
+                    47.5509185791016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2212,
+                "username": "mikey",
+                "label_id": 2212,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5509185791016,
+                "lng": -122.36190032959,
+                "gsv_panorama_id": "iWS19-m_1a0EhY2-GCxCLw",
+                "time_created": "2022-06-30 14:29:50.935-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 51,
+                "img_url": "img/chicago_with_icons/label_id_2212.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36190032959,
+                    47.5509185791016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2213,
+                "username": "mikey",
+                "label_id": 2213,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5510864257813,
+                "lng": -122.361869812012,
+                "gsv_panorama_id": "U9mHUFK0RDmhAwg_QqE3dQ",
+                "time_created": "2022-06-30 14:29:57.896-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 50,
+                "img_url": "img/chicago_with_icons/label_id_2213.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361869812012,
+                    47.5510864257813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2214,
+                "username": "mikey",
+                "label_id": 2214,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5510902404785,
+                "lng": -122.361686706543,
+                "gsv_panorama_id": "U9mHUFK0RDmhAwg_QqE3dQ",
+                "time_created": "2022-06-30 14:29:59.641-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 49,
+                "img_url": "img/chicago_with_icons/label_id_2214.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361686706543,
+                    47.5510902404785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2215,
+                "username": "mikey",
+                "label_id": 2215,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5512809753418,
+                "lng": -122.361671447754,
+                "gsv_panorama_id": "H9hdXFnLaLhI7GJ3539mRw",
+                "time_created": "2022-06-30 14:30:03.526-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 48,
+                "img_url": "img/chicago_with_icons/label_id_2215.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361671447754,
+                    47.5512809753418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2216,
+                "username": "mikey",
+                "label_id": 2216,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5512771606445,
+                "lng": -122.361869812012,
+                "gsv_panorama_id": "H9hdXFnLaLhI7GJ3539mRw",
+                "time_created": "2022-06-30 14:30:05.122-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 47,
+                "img_url": "img/chicago_with_icons/label_id_2216.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361869812012,
+                    47.5512771606445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2217,
+                "username": "mikey",
+                "label_id": 2217,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5514526367188,
+                "lng": -122.361862182617,
+                "gsv_panorama_id": "4nQAcpgHh0VuFKBWwYGyJg",
+                "time_created": "2022-06-30 14:30:09.079-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 46,
+                "img_url": "img/chicago_with_icons/label_id_2217.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361862182617,
+                    47.5514526367188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2218,
+                "username": "mikey",
+                "label_id": 2218,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5514526367188,
+                "lng": -122.361671447754,
+                "gsv_panorama_id": "4nQAcpgHh0VuFKBWwYGyJg",
+                "time_created": "2022-06-30 14:30:10.871-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 45,
+                "img_url": "img/chicago_with_icons/label_id_2218.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361671447754,
+                    47.5514526367188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2219,
+                "username": "mikey",
+                "label_id": 2219,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5516357421875,
+                "lng": -122.361663818359,
+                "gsv_panorama_id": "reJ2JMqqcNFXnmlTEUqODA",
+                "time_created": "2022-06-30 14:30:15.18-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 44,
+                "img_url": "img/chicago_with_icons/label_id_2219.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361663818359,
+                    47.5516357421875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2220,
+                "username": "mikey",
+                "label_id": 2220,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5516395568848,
+                "lng": -122.361862182617,
+                "gsv_panorama_id": "reJ2JMqqcNFXnmlTEUqODA",
+                "time_created": "2022-06-30 14:30:17.01-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 43,
+                "img_url": "img/chicago_with_icons/label_id_2220.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361862182617,
+                    47.5516395568848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2221,
+                "username": "mikey",
+                "label_id": 2221,
+                "street_edge_id": 82,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5518226623535,
+                "lng": -122.361877441406,
+                "gsv_panorama_id": "LngNS-FlpU1h7Ed4mTGO6g",
+                "time_created": "2022-06-30 14:30:21.202-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 42,
+                "img_url": "img/chicago_with_icons/label_id_2221.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361877441406,
+                    47.5518226623535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2222,
+                "username": "mikey",
+                "label_id": 2222,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5518493652344,
+                "lng": -122.361640930176,
+                "gsv_panorama_id": "LngNS-FlpU1h7Ed4mTGO6g",
+                "time_created": "2022-06-30 14:30:22.96-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 41,
+                "img_url": "img/chicago_with_icons/label_id_2222.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361640930176,
+                    47.5518493652344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2223,
+                "username": "mikey",
+                "label_id": 2223,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5519638061523,
+                "lng": -122.361679077148,
+                "gsv_panorama_id": "Q25_ygi3MDSbrDWcqvt8nA",
+                "time_created": "2022-06-30 14:30:31.378-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 40,
+                "img_url": "img/chicago_with_icons/label_id_2223.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361679077148,
+                    47.5519638061523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2224,
+                "username": "mikey",
+                "label_id": 2224,
+                "street_edge_id": 82,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5519905090332,
+                "lng": -122.361869812012,
+                "gsv_panorama_id": "Q25_ygi3MDSbrDWcqvt8nA",
+                "time_created": "2022-06-30 14:30:35.495-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 39,
+                "img_url": "img/chicago_with_icons/label_id_2224.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361869812012,
+                    47.5519905090332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2225,
+                "username": "mikey",
+                "label_id": 2225,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5520858764648,
+                "lng": -122.361862182617,
+                "gsv_panorama_id": "Y0h7M8TtAsObhElwA_Jaqw",
+                "time_created": "2022-06-30 14:30:43.286-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 38,
+                "img_url": "img/chicago_with_icons/label_id_2225.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361862182617,
+                    47.5520858764648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2226,
+                "username": "mikey",
+                "label_id": 2226,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5520782470703,
+                "lng": -122.361671447754,
+                "gsv_panorama_id": "Y0h7M8TtAsObhElwA_Jaqw",
+                "time_created": "2022-06-30 14:30:44.939-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 37,
+                "img_url": "img/chicago_with_icons/label_id_2226.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361671447754,
+                    47.5520782470703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2227,
+                "username": "mikey",
+                "label_id": 2227,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5522918701172,
+                "lng": -122.361854553223,
+                "gsv_panorama_id": "R5uAfnpuOp2jaozdNLjb_A",
+                "time_created": "2022-06-30 14:30:49.693-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 36,
+                "img_url": "img/chicago_with_icons/label_id_2227.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361854553223,
+                    47.5522918701172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2228,
+                "username": "mikey",
+                "label_id": 2228,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5522727966309,
+                "lng": -122.361694335938,
+                "gsv_panorama_id": "R5uAfnpuOp2jaozdNLjb_A",
+                "time_created": "2022-06-30 14:30:51.223-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 35,
+                "img_url": "img/chicago_with_icons/label_id_2228.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361694335938,
+                    47.5522727966309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2229,
+                "username": "mikey",
+                "label_id": 2229,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5524787902832,
+                "lng": -122.361862182617,
+                "gsv_panorama_id": "DGQ31pa2kIr1Y54Af9S3lQ",
+                "time_created": "2022-06-30 14:31:00.477-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 34,
+                "img_url": "img/chicago_with_icons/label_id_2229.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361862182617,
+                    47.5524787902832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2230,
+                "username": "mikey",
+                "label_id": 2230,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5524940490723,
+                "lng": -122.361640930176,
+                "gsv_panorama_id": "DGQ31pa2kIr1Y54Af9S3lQ",
+                "time_created": "2022-06-30 14:31:01.967-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 33,
+                "img_url": "img/chicago_with_icons/label_id_2230.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361640930176,
+                    47.5524940490723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2231,
+                "username": "mikey",
+                "label_id": 2231,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5527267456055,
+                "lng": -122.361686706543,
+                "gsv_panorama_id": "IWrn0c-bH6Kw7MLl9p3ulA",
+                "time_created": "2022-06-30 14:31:05.726-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 32,
+                "img_url": "img/chicago_with_icons/label_id_2231.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361686706543,
+                    47.5527267456055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2232,
+                "username": "mikey",
+                "label_id": 2232,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5527000427246,
+                "lng": -122.361846923828,
+                "gsv_panorama_id": "IWrn0c-bH6Kw7MLl9p3ulA",
+                "time_created": "2022-06-30 14:31:07.145-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 31,
+                "img_url": "img/chicago_with_icons/label_id_2232.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361846923828,
+                    47.5527000427246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2233,
+                "username": "mikey",
+                "label_id": 2233,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5528869628906,
+                "lng": -122.361694335938,
+                "gsv_panorama_id": "QSBIg3MspOs6YPOT5Z3phA",
+                "time_created": "2022-06-30 14:31:11.223-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 30,
+                "img_url": "img/chicago_with_icons/label_id_2233.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361694335938,
+                    47.5528869628906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2234,
+                "username": "mikey",
+                "label_id": 2234,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5528717041016,
+                "lng": -122.361846923828,
+                "gsv_panorama_id": "QSBIg3MspOs6YPOT5Z3phA",
+                "time_created": "2022-06-30 14:31:12.757-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 29,
+                "img_url": "img/chicago_with_icons/label_id_2234.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361846923828,
+                    47.5528717041016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2235,
+                "username": "mikey",
+                "label_id": 2235,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5530738830566,
+                "lng": -122.361701965332,
+                "gsv_panorama_id": "5v1Jzba9P89gjot3U1AuuA",
+                "time_created": "2022-06-30 14:31:17.055-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 28,
+                "img_url": "img/chicago_with_icons/label_id_2235.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361701965332,
+                    47.5530738830566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2236,
+                "username": "mikey",
+                "label_id": 2236,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5530815124512,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "5v1Jzba9P89gjot3U1AuuA",
+                "time_created": "2022-06-30 14:31:18.436-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 27,
+                "img_url": "img/chicago_with_icons/label_id_2236.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.5530815124512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2237,
+                "username": "mikey",
+                "label_id": 2237,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5532341003418,
+                "lng": -122.361831665039,
+                "gsv_panorama_id": "WpdL_uPAV5yu3AkOwNkUqw",
+                "time_created": "2022-06-30 14:31:22.7-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 26,
+                "img_url": "img/chicago_with_icons/label_id_2237.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361831665039,
+                    47.5532341003418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2238,
+                "username": "mikey",
+                "label_id": 2238,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5532455444336,
+                "lng": -122.361701965332,
+                "gsv_panorama_id": "WpdL_uPAV5yu3AkOwNkUqw",
+                "time_created": "2022-06-30 14:31:24.16-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 25,
+                "img_url": "img/chicago_with_icons/label_id_2238.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361701965332,
+                    47.5532455444336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2239,
+                "username": "mikey",
+                "label_id": 2239,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5534286499024,
+                "lng": -122.361701965332,
+                "gsv_panorama_id": "BVBE9oood7_1VynWx0yipg",
+                "time_created": "2022-06-30 14:31:28.189-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 24,
+                "img_url": "img/chicago_with_icons/label_id_2239.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361701965332,
+                    47.5534286499024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2240,
+                "username": "mikey",
+                "label_id": 2240,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.553409576416,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "BVBE9oood7_1VynWx0yipg",
+                "time_created": "2022-06-30 14:31:29.774-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 23,
+                "img_url": "img/chicago_with_icons/label_id_2240.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.553409576416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2241,
+                "username": "mikey",
+                "label_id": 2241,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5536117553711,
+                "lng": -122.361808776855,
+                "gsv_panorama_id": "KPLR6cJTYt1Ykw5D7n9zgg",
+                "time_created": "2022-06-30 14:31:33.905-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 22,
+                "img_url": "img/chicago_with_icons/label_id_2241.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361808776855,
+                    47.5536117553711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2242,
+                "username": "mikey",
+                "label_id": 2242,
+                "street_edge_id": 497,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.553596496582,
+                "lng": -122.361686706543,
+                "gsv_panorama_id": "KPLR6cJTYt1Ykw5D7n9zgg",
+                "time_created": "2022-06-30 14:31:35.445-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 21,
+                "img_url": "img/chicago_with_icons/label_id_2242.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361686706543,
+                    47.553596496582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2243,
+                "username": "mikey",
+                "label_id": 2243,
+                "street_edge_id": 136,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5537528991699,
+                "lng": -122.361663818359,
+                "gsv_panorama_id": "dl4TaOwEVjGuFxz3_BICoA",
+                "time_created": "2022-06-30 14:31:40.328-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 20,
+                "img_url": "img/chicago_with_icons/label_id_2243.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361663818359,
+                    47.5537528991699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2244,
+                "username": "mikey",
+                "label_id": 2244,
+                "street_edge_id": 136,
+                "neighborhood": "Delridge",
+                "label_type": "NoSidewalk",
+                "lat": 47.5537719726563,
+                "lng": -122.361839294434,
+                "gsv_panorama_id": "dl4TaOwEVjGuFxz3_BICoA",
+                "time_created": "2022-06-30 14:31:43.096-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 19,
+                "img_url": "img/chicago_with_icons/label_id_2244.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361839294434,
+                    47.5537719726563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2326,
+                "username": "mikey",
+                "label_id": 2326,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6956176757813,
+                "lng": -122.350074768066,
+                "gsv_panorama_id": "PxBETYsJrnty_mTdlrEkqA",
+                "time_created": "2022-07-05 12:12:33.529-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 18,
+                "img_url": "img/chicago_with_icons/label_id_2326.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350074768066,
+                    47.6956176757813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2329,
+                "username": "mikey",
+                "label_id": 2329,
+                "street_edge_id": 505,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6955909729004,
+                "lng": -122.349876403809,
+                "gsv_panorama_id": "PxBETYsJrnty_mTdlrEkqA",
+                "time_created": "2022-07-05 12:13:25.087-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "ends abruptly,street has no sidewalks",
+                "description": null,
+                "cluster_id": 17,
+                "img_url": "img/chicago_with_icons/label_id_2329.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349876403809,
+                    47.6955909729004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2330,
+                "username": "mikey",
+                "label_id": 2330,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6954574584961,
+                "lng": -122.349906921387,
+                "gsv_panorama_id": "bmq9-gNpzKyTOhR1OLI5kA",
+                "time_created": "2022-07-05 12:13:43.03-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 16,
+                "img_url": "img/chicago_with_icons/label_id_2330.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349906921387,
+                    47.6954574584961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2331,
+                "username": "mikey",
+                "label_id": 2331,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6954650878906,
+                "lng": -122.350074768066,
+                "gsv_panorama_id": "bmq9-gNpzKyTOhR1OLI5kA",
+                "time_created": "2022-07-05 12:13:44.551-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 15,
+                "img_url": "img/chicago_with_icons/label_id_2331.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350074768066,
+                    47.6954650878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2332,
+                "username": "mikey",
+                "label_id": 2332,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6952743530273,
+                "lng": -122.350059509277,
+                "gsv_panorama_id": "344NwpWZx5HCed06JJ7PTg",
+                "time_created": "2022-07-05 12:13:49.873-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 14,
+                "img_url": "img/chicago_with_icons/label_id_2332.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350059509277,
+                    47.6952743530273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2333,
+                "username": "mikey",
+                "label_id": 2333,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6952705383301,
+                "lng": -122.349891662598,
+                "gsv_panorama_id": "344NwpWZx5HCed06JJ7PTg",
+                "time_created": "2022-07-05 12:13:51.558-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 13,
+                "img_url": "img/chicago_with_icons/label_id_2333.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349891662598,
+                    47.6952705383301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2334,
+                "username": "mikey",
+                "label_id": 2334,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6951141357422,
+                "lng": -122.350059509277,
+                "gsv_panorama_id": "lk3RlPuLs93S6qzLf433OQ",
+                "time_created": "2022-07-05 12:13:56.447-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 12,
+                "img_url": "img/chicago_with_icons/label_id_2334.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350059509277,
+                    47.6951141357422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2335,
+                "username": "mikey",
+                "label_id": 2335,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6950988769531,
+                "lng": -122.349899291992,
+                "gsv_panorama_id": "lk3RlPuLs93S6qzLf433OQ",
+                "time_created": "2022-07-05 12:13:57.885-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/chicago_with_icons/label_id_2335.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349899291992,
+                    47.6950988769531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2336,
+                "username": "mikey",
+                "label_id": 2336,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6949272155762,
+                "lng": -122.350051879883,
+                "gsv_panorama_id": "foUP8VU7YLbbOz_tglDHvQ",
+                "time_created": "2022-07-05 12:14:05.563-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks",
+                "description": null,
+                "cluster_id": 10,
+                "img_url": "img/chicago_with_icons/label_id_2336.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.350051879883,
+                    47.6949272155762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2337,
+                "username": "mikey",
+                "label_id": 2337,
+                "street_edge_id": 542,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6949920654297,
+                "lng": -122.349906921387,
+                "gsv_panorama_id": "foUP8VU7YLbbOz_tglDHvQ",
+                "time_created": "2022-07-05 12:14:09.617-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,ends abruptly",
+                "description": null,
+                "cluster_id": 9,
+                "img_url": "img/chicago_with_icons/label_id_2337.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349906921387,
+                    47.6949920654297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2339,
+                "username": "mikey",
+                "label_id": 2339,
+                "street_edge_id": 541,
+                "neighborhood": "Greenwood",
+                "label_type": "NoSidewalk",
+                "lat": 47.6948585510254,
+                "lng": -122.349899291992,
+                "gsv_panorama_id": "TYibH5wbuF7P6g2O3zuqiA",
+                "time_created": "2022-07-05 12:14:20.793-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,ends abruptly",
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/chicago_with_icons/label_id_2339.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.349899291992,
+                    47.6948585510254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2491,
+                "username": "mikey",
+                "label_id": 2491,
+                "street_edge_id": 851,
+                "neighborhood": "Windermere",
+                "label_type": "NoSidewalk",
+                "lat": 47.6722946166992,
+                "lng": -122.268089294434,
+                "gsv_panorama_id": "0Z8txi3E8Fg2UtsmtHCLVQ",
+                "time_created": "2022-07-06 14:12:23.995-07",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk",
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/chicago_with_icons/label_id_2491.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.268089294434,
+                    47.6722946166992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2492,
+                "username": "mikey",
+                "label_id": 2492,
+                "street_edge_id": 715,
+                "neighborhood": "Windermere",
+                "label_type": "NoSidewalk",
+                "lat": 47.6721534729004,
+                "lng": -122.26823425293,
+                "gsv_panorama_id": "Z6BJD4bSdDiMxwMdls5oNw",
+                "time_created": "2022-07-06 14:12:31.286-07",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk",
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/chicago_with_icons/label_id_2492.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.26823425293,
+                    47.6721534729004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2495,
+                "username": "mikey",
+                "label_id": 2495,
+                "street_edge_id": 715,
+                "neighborhood": "Windermere",
+                "label_type": "NoSidewalk",
+                "lat": 47.6720161437988,
+                "lng": -122.268432617188,
+                "gsv_panorama_id": "xbqjQfJSHA1O90JnBHQJGw",
+                "time_created": "2022-07-06 14:14:48.626-07",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk",
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/chicago_with_icons/label_id_2495.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.268432617188,
+                    47.6720161437988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2497,
+                "username": "mikey",
+                "label_id": 2497,
+                "street_edge_id": 715,
+                "neighborhood": "Windermere",
+                "label_type": "NoSidewalk",
+                "lat": 47.6719589233398,
+                "lng": -122.268524169922,
+                "gsv_panorama_id": "--T01_kkBkCv7PKVoDWHpg",
+                "time_created": "2022-07-06 14:15:11.639-07",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk",
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/chicago_with_icons/label_id_2497.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.268524169922,
+                    47.6719589233398
+                ]
+            }
+        }
+    ]
+}

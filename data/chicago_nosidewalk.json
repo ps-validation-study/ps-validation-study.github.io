@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 500,
+                "username": "Devon Snyder",
+                "label_id": 500,
+                "street_edge_id": 445,
+                "neighborhood": "Robbins",
+                "label_type": "NoSidewalk",
+                "lat": 41.6440467834473,
+                "lng": -87.7001419067383,
+                "gsv_panorama_id": "MpVkKx5iIEW8H1YMT3y6-A",
+                "time_created": "2022-05-13 08:31:14.223-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "street has no sidewalks,ends abruptly",
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/chicago_with_icons/label_id_500.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7001419067383,
+                    41.6440467834473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 853,
+                "username": "Devon Snyder",
+                "label_id": 853,
+                "street_edge_id": 381,
+                "neighborhood": "Riverdale",
+                "label_type": "NoSidewalk",
+                "lat": 41.6444320678711,
+                "lng": -87.6239624023438,
+                "gsv_panorama_id": "sGOC_qNLg4cvbj-hYYl3eQ",
+                "time_created": "2022-05-24 10:48:56.3-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk,ends abruptly",
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/chicago_with_icons/label_id_853.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6239624023438,
+                    41.6444320678711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 892,
+                "username": "Devon Snyder",
+                "label_id": 892,
+                "street_edge_id": 380,
+                "neighborhood": "Riverdale",
+                "label_type": "NoSidewalk",
+                "lat": 41.6446914672852,
+                "lng": -87.6216735839844,
+                "gsv_panorama_id": "inDdl8tcuankYFQkSoBSRw",
+                "time_created": "2022-05-24 11:03:23.188-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk,ends abruptly",
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/chicago_with_icons/label_id_892.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6216735839844,
+                    41.6446914672852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1448,
+                "username": "Devon Snyder",
+                "label_id": 1448,
+                "street_edge_id": 377,
+                "neighborhood": "Northbrook",
+                "label_type": "NoSidewalk",
+                "lat": 42.1246948242188,
+                "lng": -87.8789138793945,
+                "gsv_panorama_id": "cbhDyDQGgC4KPYVigFP92Q",
+                "time_created": "2022-05-25 14:18:19.177-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk,ends abruptly",
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/chicago_with_icons/label_id_1448.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8789138793945,
+                    42.1246948242188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1450,
+                "username": "Devon Snyder",
+                "label_id": 1450,
+                "street_edge_id": 377,
+                "neighborhood": "Northbrook",
+                "label_type": "NoSidewalk",
+                "lat": 42.1245574951172,
+                "lng": -87.8788833618164,
+                "gsv_panorama_id": "511McJ_OoIVzVnTQlQ__ZA",
+                "time_created": "2022-05-25 14:19:11.146-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk",
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/chicago_with_icons/label_id_1450.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8788833618164,
+                    42.1245574951172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1451,
+                "username": "Devon Snyder",
+                "label_id": 1451,
+                "street_edge_id": 377,
+                "neighborhood": "Northbrook",
+                "label_type": "NoSidewalk",
+                "lat": 42.1243209838867,
+                "lng": -87.8788528442383,
+                "gsv_panorama_id": "VcRgQ9wCtzTJAY-WLJjbVw",
+                "time_created": "2022-05-25 14:20:00.711-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk",
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/chicago_with_icons/label_id_1451.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8788528442383,
+                    42.1243209838867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1928,
+                "username": "mikey",
+                "label_id": 1928,
+                "street_edge_id": 377,
+                "neighborhood": "Northbrook",
+                "label_type": "NoSidewalk",
+                "lat": 42.124698638916,
+                "lng": -87.8788986206055,
+                "gsv_panorama_id": "5QrbR1LhaNz6NNrT0OnKbg",
+                "time_created": "2022-06-29 12:54:47.241-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk",
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/chicago_with_icons/label_id_1928.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8788986206055,
+                    42.124698638916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1930,
+                "username": "mikey",
+                "label_id": 1930,
+                "street_edge_id": 377,
+                "neighborhood": "Northbrook",
+                "label_type": "NoSidewalk",
+                "lat": 42.1245651245117,
+                "lng": -87.87890625,
+                "gsv_panorama_id": "r97fbPQGCaH3bgA1aJkqNw",
+                "time_created": "2022-06-29 12:55:21.843-07",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk",
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/chicago_with_icons/label_id_1930.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.87890625,
+                    42.1245651245117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1931,
+                "username": "mikey",
+                "label_id": 1931,
+                "street_edge_id": 377,
+                "neighborhood": "Northbrook",
+                "label_type": "NoSidewalk",
+                "lat": 42.1243629455566,
+                "lng": -87.8788833618164,
+                "gsv_panorama_id": "x-ppuD-SCEuq8or-InryDg",
+                "time_created": "2022-06-29 12:55:31.161-07",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "street has a sidewalk",
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/chicago_with_icons/label_id_1931.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8788833618164,
+                    42.1243629455566
+                ]
+            }
+        }
+    ]
+}
