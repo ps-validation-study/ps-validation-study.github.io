@@ -4,19 +4,76 @@
     <meta charset="UTF-8" />
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="navbar.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+    <script src="script/navbar.js"></script>
     <title>Validation Studies</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <style> @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); </style>
   </head>
   <body>
-    <nav>
+    <section class="navigation">
+      <div class="nav-container">
+        <div class="brand">
+          <a href="#!">Validation Studies</a>
+        </div>
+        <nav>
+          <div class="nav-mobile"><a id="nav-toggle" href="#!"><span></span></a></div>
+          <ul class="nav-list">
+            <li>
+              <a href="#!">Chicago</a>
+              <ul class="nav-dropdown">
+                <li>
+                  <a href="./chicago_curb_ramp.html">Curb Ramps</a>
+                </li>
+                <li>
+                  <a href="./chicago_problem.html">Problems</a>
+                </li>
+                <li>
+                  <a href="./chicago_nosidewalk.html">Missing Sidewalks</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#!">Seattle</a>
+              <ul class="nav-dropdown">
+                <li>
+                  <a href="./seattle_curb_ramp.html">Curb Ramps</a>
+                </li>
+                <li>
+                  <a href="./seattle_problem.html">Problems</a>
+                </li>
+                <li>
+                  <a href="./seattle_nocurb.html">Missing Curb Ramps</a>
+                </li>
+                <li>
+                  <a href="./seattle_nosidewalk.html">Missing Sidewalks</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </section>
+    
+    <article>
+      <p>Hehe... hope you guys enjoy the new look :)</p>
+    </article>
+
+    <!-- <nav>
       <a href="./index.html">Home</a>
+      <div>
       <a href="./chicago_curb_ramp.html">Chicago Curb Ramp Clusters</a>
       <a href="./chicago_problem.html">Chicago Problem Clusters</a>
       <a href="./chicago_nosidewalk.html">Chicago Missing Sidewalk Clusters</a>
+    </div>
+    <div>
       <a href="./seattle_curb_ramp.html">Seattle Curb Ramp Clusters</a>
       <a href="./seattle_problem.html">Seattle Problem Clusters</a>
       <a href="./seattle_nosidewalk.html">Seattle Missing Sidewalk Clusters</a>
       <a href="./seattle_nocurb.html">Seattle Missing Curb Ramp Clusters</a>
+    </div>
     </nav>
-    <div>Sorry this page is looking ugly right now...</div>
+    <div>Sorry this page is looking ugly right now...</div> -->
   </body>
 </html>

@@ -20,7 +20,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 78,
-                "img_url": "img/chicago_with_icons/label_id_205.jpg",
+                "img_url": "img/seattle_with_icons/label_id_205.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -50,7 +50,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 74,
-                "img_url": "img/chicago_with_icons/label_id_270.jpg",
+                "img_url": "img/seattle_with_icons/label_id_270.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -80,7 +80,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 75,
-                "img_url": "img/chicago_with_icons/label_id_272.jpg",
+                "img_url": "img/seattle_with_icons/label_id_272.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -110,7 +110,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 72,
-                "img_url": "img/chicago_with_icons/label_id_337.jpg",
+                "img_url": "img/seattle_with_icons/label_id_337.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -140,7 +140,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 73,
-                "img_url": "img/chicago_with_icons/label_id_338.jpg",
+                "img_url": "img/seattle_with_icons/label_id_338.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -170,7 +170,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 12,
-                "img_url": "img/chicago_with_icons/label_id_547.jpg",
+                "img_url": "img/seattle_with_icons/label_id_547.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -200,7 +200,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 15,
-                "img_url": "img/chicago_with_icons/label_id_548.jpg",
+                "img_url": "img/seattle_with_icons/label_id_548.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -230,7 +230,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 18,
-                "img_url": "img/chicago_with_icons/label_id_549.jpg",
+                "img_url": "img/seattle_with_icons/label_id_549.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -260,7 +260,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 9,
-                "img_url": "img/chicago_with_icons/label_id_550.jpg",
+                "img_url": "img/seattle_with_icons/label_id_550.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -290,7 +290,7 @@
                 "tag_list": "unclear if needed,alternate route present",
                 "description": "would better line up with curb ramp across intersection. Adjacent curb ramp faces directly into traffic",
                 "cluster_id": 8,
-                "img_url": "img/chicago_with_icons/label_id_645.jpg",
+                "img_url": "img/seattle_with_icons/label_id_645.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -320,7 +320,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 7,
-                "img_url": "img/chicago_with_icons/label_id_672.jpg",
+                "img_url": "img/seattle_with_icons/label_id_672.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -350,7 +350,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 2,
-                "img_url": "img/chicago_with_icons/label_id_673.jpg",
+                "img_url": "img/seattle_with_icons/label_id_673.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -380,7 +380,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 96,
-                "img_url": "img/chicago_with_icons/label_id_770.jpg",
+                "img_url": "img/seattle_with_icons/label_id_770.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -410,7 +410,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 95,
-                "img_url": "img/chicago_with_icons/label_id_771.jpg",
+                "img_url": "img/seattle_with_icons/label_id_771.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -440,7 +440,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 105,
-                "img_url": "img/chicago_with_icons/label_id_782.jpg",
+                "img_url": "img/seattle_with_icons/label_id_782.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -470,7 +470,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 106,
-                "img_url": "img/chicago_with_icons/label_id_783.jpg",
+                "img_url": "img/seattle_with_icons/label_id_783.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -500,7 +500,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 107,
-                "img_url": "img/chicago_with_icons/label_id_784.jpg",
+                "img_url": "img/seattle_with_icons/label_id_784.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -530,7 +530,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 108,
-                "img_url": "img/chicago_with_icons/label_id_785.jpg",
+                "img_url": "img/seattle_with_icons/label_id_785.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -560,7 +560,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 101,
-                "img_url": "img/chicago_with_icons/label_id_786.jpg",
+                "img_url": "img/seattle_with_icons/label_id_786.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -590,7 +590,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 102,
-                "img_url": "img/chicago_with_icons/label_id_787.jpg",
+                "img_url": "img/seattle_with_icons/label_id_787.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -620,7 +620,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 103,
-                "img_url": "img/chicago_with_icons/label_id_788.jpg",
+                "img_url": "img/seattle_with_icons/label_id_788.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -650,7 +650,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 104,
-                "img_url": "img/chicago_with_icons/label_id_789.jpg",
+                "img_url": "img/seattle_with_icons/label_id_789.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -680,7 +680,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 100,
-                "img_url": "img/chicago_with_icons/label_id_831.jpg",
+                "img_url": "img/seattle_with_icons/label_id_831.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -710,7 +710,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 99,
-                "img_url": "img/chicago_with_icons/label_id_832.jpg",
+                "img_url": "img/seattle_with_icons/label_id_832.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -740,7 +740,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 97,
-                "img_url": "img/chicago_with_icons/label_id_841.jpg",
+                "img_url": "img/seattle_with_icons/label_id_841.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -770,7 +770,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 98,
-                "img_url": "img/chicago_with_icons/label_id_843.jpg",
+                "img_url": "img/seattle_with_icons/label_id_843.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -800,7 +800,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 90,
-                "img_url": "img/chicago_with_icons/label_id_963.jpg",
+                "img_url": "img/seattle_with_icons/label_id_963.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -830,7 +830,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 89,
-                "img_url": "img/chicago_with_icons/label_id_964.jpg",
+                "img_url": "img/seattle_with_icons/label_id_964.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -860,7 +860,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 92,
-                "img_url": "img/chicago_with_icons/label_id_965.jpg",
+                "img_url": "img/seattle_with_icons/label_id_965.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -890,7 +890,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 91,
-                "img_url": "img/chicago_with_icons/label_id_967.jpg",
+                "img_url": "img/seattle_with_icons/label_id_967.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -920,7 +920,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 88,
-                "img_url": "img/chicago_with_icons/label_id_968.jpg",
+                "img_url": "img/seattle_with_icons/label_id_968.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -950,7 +950,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 87,
-                "img_url": "img/chicago_with_icons/label_id_969.jpg",
+                "img_url": "img/seattle_with_icons/label_id_969.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -980,7 +980,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 94,
-                "img_url": "img/chicago_with_icons/label_id_970.jpg",
+                "img_url": "img/seattle_with_icons/label_id_970.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1010,7 +1010,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 93,
-                "img_url": "img/chicago_with_icons/label_id_971.jpg",
+                "img_url": "img/seattle_with_icons/label_id_971.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1040,7 +1040,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 85,
-                "img_url": "img/chicago_with_icons/label_id_982.jpg",
+                "img_url": "img/seattle_with_icons/label_id_982.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1070,7 +1070,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 79,
-                "img_url": "img/chicago_with_icons/label_id_983.jpg",
+                "img_url": "img/seattle_with_icons/label_id_983.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1100,7 +1100,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 84,
-                "img_url": "img/chicago_with_icons/label_id_984.jpg",
+                "img_url": "img/seattle_with_icons/label_id_984.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1130,7 +1130,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 83,
-                "img_url": "img/chicago_with_icons/label_id_985.jpg",
+                "img_url": "img/seattle_with_icons/label_id_985.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1160,7 +1160,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 82,
-                "img_url": "img/chicago_with_icons/label_id_986.jpg",
+                "img_url": "img/seattle_with_icons/label_id_986.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1190,7 +1190,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 81,
-                "img_url": "img/chicago_with_icons/label_id_987.jpg",
+                "img_url": "img/seattle_with_icons/label_id_987.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1220,7 +1220,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 86,
-                "img_url": "img/chicago_with_icons/label_id_988.jpg",
+                "img_url": "img/seattle_with_icons/label_id_988.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1250,7 +1250,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 80,
-                "img_url": "img/chicago_with_icons/label_id_989.jpg",
+                "img_url": "img/seattle_with_icons/label_id_989.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1280,7 +1280,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 5,
-                "img_url": "img/chicago_with_icons/label_id_1082.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1082.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1310,7 +1310,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 47,
-                "img_url": "img/chicago_with_icons/label_id_1083.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1083.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1340,7 +1340,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 10,
-                "img_url": "img/chicago_with_icons/label_id_1084.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1084.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1370,7 +1370,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 71,
-                "img_url": "img/chicago_with_icons/label_id_1085.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1085.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1400,7 +1400,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 16,
-                "img_url": "img/chicago_with_icons/label_id_1086.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1086.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1430,7 +1430,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 3,
-                "img_url": "img/chicago_with_icons/label_id_1087.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1087.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1460,7 +1460,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 13,
-                "img_url": "img/chicago_with_icons/label_id_1088.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1088.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1490,7 +1490,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 19,
-                "img_url": "img/chicago_with_icons/label_id_1089.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1089.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1520,7 +1520,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 70,
-                "img_url": "img/chicago_with_icons/label_id_1103.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1103.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1550,7 +1550,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 68,
-                "img_url": "img/chicago_with_icons/label_id_1104.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1104.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1580,7 +1580,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 69,
-                "img_url": "img/chicago_with_icons/label_id_1105.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1105.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1610,7 +1610,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 67,
-                "img_url": "img/chicago_with_icons/label_id_1107.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1107.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1640,7 +1640,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 66,
-                "img_url": "img/chicago_with_icons/label_id_1108.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1108.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1670,7 +1670,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 65,
-                "img_url": "img/chicago_with_icons/label_id_1110.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1110.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1700,7 +1700,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 64,
-                "img_url": "img/chicago_with_icons/label_id_1111.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1111.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1730,7 +1730,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 58,
-                "img_url": "img/chicago_with_icons/label_id_1122.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1122.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1760,7 +1760,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 61,
-                "img_url": "img/chicago_with_icons/label_id_1123.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1123.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1790,7 +1790,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 63,
-                "img_url": "img/chicago_with_icons/label_id_1124.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1124.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1820,7 +1820,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 59,
-                "img_url": "img/chicago_with_icons/label_id_1125.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1125.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1850,7 +1850,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 57,
-                "img_url": "img/chicago_with_icons/label_id_1126.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1126.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1880,7 +1880,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 56,
-                "img_url": "img/chicago_with_icons/label_id_1127.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1127.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1910,7 +1910,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 62,
-                "img_url": "img/chicago_with_icons/label_id_1131.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1131.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1940,7 +1940,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 60,
-                "img_url": "img/chicago_with_icons/label_id_1132.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1132.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1970,7 +1970,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 55,
-                "img_url": "img/chicago_with_icons/label_id_1144.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1144.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2000,7 +2000,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 52,
-                "img_url": "img/chicago_with_icons/label_id_1145.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1145.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2030,7 +2030,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 53,
-                "img_url": "img/chicago_with_icons/label_id_1147.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1147.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2060,7 +2060,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 54,
-                "img_url": "img/chicago_with_icons/label_id_1148.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1148.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2090,7 +2090,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 51,
-                "img_url": "img/chicago_with_icons/label_id_1149.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1149.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2120,7 +2120,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 50,
-                "img_url": "img/chicago_with_icons/label_id_1150.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1150.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2150,7 +2150,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 49,
-                "img_url": "img/chicago_with_icons/label_id_1151.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1151.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2180,7 +2180,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 40,
-                "img_url": "img/chicago_with_icons/label_id_1159.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1159.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2210,7 +2210,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 39,
-                "img_url": "img/chicago_with_icons/label_id_1160.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1160.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2240,7 +2240,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 45,
-                "img_url": "img/chicago_with_icons/label_id_1161.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1161.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2270,7 +2270,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 46,
-                "img_url": "img/chicago_with_icons/label_id_1162.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1162.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2300,7 +2300,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 44,
-                "img_url": "img/chicago_with_icons/label_id_1163.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1163.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2330,7 +2330,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 43,
-                "img_url": "img/chicago_with_icons/label_id_1164.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1164.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2360,7 +2360,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 41,
-                "img_url": "img/chicago_with_icons/label_id_1167.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1167.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2390,7 +2390,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 42,
-                "img_url": "img/chicago_with_icons/label_id_1168.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1168.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2420,7 +2420,7 @@
                 "tag_list": "unclear if needed",
                 "description": null,
                 "cluster_id": 76,
-                "img_url": "img/chicago_with_icons/label_id_1299.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1299.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2450,7 +2450,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 30,
-                "img_url": "img/chicago_with_icons/label_id_1392.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1392.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2480,7 +2480,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 29,
-                "img_url": "img/chicago_with_icons/label_id_1393.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1393.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2510,7 +2510,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 27,
-                "img_url": "img/chicago_with_icons/label_id_1399.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1399.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2540,7 +2540,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 25,
-                "img_url": "img/chicago_with_icons/label_id_1400.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1400.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2570,7 +2570,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 21,
-                "img_url": "img/chicago_with_icons/label_id_1401.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1401.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2600,7 +2600,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 23,
-                "img_url": "img/chicago_with_icons/label_id_1402.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1402.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2630,7 +2630,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 31,
-                "img_url": "img/chicago_with_icons/label_id_1407.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1407.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2660,7 +2660,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 32,
-                "img_url": "img/chicago_with_icons/label_id_1408.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1408.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2690,7 +2690,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 33,
-                "img_url": "img/chicago_with_icons/label_id_1409.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1409.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2720,7 +2720,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 34,
-                "img_url": "img/chicago_with_icons/label_id_1410.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1410.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2750,7 +2750,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 38,
-                "img_url": "img/chicago_with_icons/label_id_1411.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1411.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2780,7 +2780,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 37,
-                "img_url": "img/chicago_with_icons/label_id_1412.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1412.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2810,7 +2810,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 36,
-                "img_url": "img/chicago_with_icons/label_id_1413.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1413.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2840,7 +2840,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 35,
-                "img_url": "img/chicago_with_icons/label_id_1414.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1414.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2870,7 +2870,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 108,
-                "img_url": "img/chicago_with_icons/label_id_1566.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1566.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2900,7 +2900,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 107,
-                "img_url": "img/chicago_with_icons/label_id_1567.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1567.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2930,7 +2930,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 106,
-                "img_url": "img/chicago_with_icons/label_id_1568.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1568.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2960,7 +2960,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 105,
-                "img_url": "img/chicago_with_icons/label_id_1569.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1569.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2990,7 +2990,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 104,
-                "img_url": "img/chicago_with_icons/label_id_1570.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1570.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3020,7 +3020,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 103,
-                "img_url": "img/chicago_with_icons/label_id_1571.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1571.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3050,7 +3050,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 102,
-                "img_url": "img/chicago_with_icons/label_id_1572.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1572.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3080,7 +3080,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 101,
-                "img_url": "img/chicago_with_icons/label_id_1573.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1573.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3110,7 +3110,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 100,
-                "img_url": "img/chicago_with_icons/label_id_1605.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1605.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3140,7 +3140,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 99,
-                "img_url": "img/chicago_with_icons/label_id_1606.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1606.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3170,7 +3170,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 98,
-                "img_url": "img/chicago_with_icons/label_id_1632.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1632.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3200,7 +3200,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 97,
-                "img_url": "img/chicago_with_icons/label_id_1633.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1633.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3230,7 +3230,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 96,
-                "img_url": "img/chicago_with_icons/label_id_1643.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1643.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3260,7 +3260,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 95,
-                "img_url": "img/chicago_with_icons/label_id_1644.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1644.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3290,7 +3290,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 94,
-                "img_url": "img/chicago_with_icons/label_id_1646.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1646.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3320,7 +3320,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 93,
-                "img_url": "img/chicago_with_icons/label_id_1647.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1647.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3350,7 +3350,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 92,
-                "img_url": "img/chicago_with_icons/label_id_1648.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1648.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3380,7 +3380,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 91,
-                "img_url": "img/chicago_with_icons/label_id_1649.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1649.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3410,7 +3410,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 90,
-                "img_url": "img/chicago_with_icons/label_id_1650.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1650.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3440,7 +3440,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 89,
-                "img_url": "img/chicago_with_icons/label_id_1651.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1651.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3470,7 +3470,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 88,
-                "img_url": "img/chicago_with_icons/label_id_1652.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1652.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3500,7 +3500,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 87,
-                "img_url": "img/chicago_with_icons/label_id_1653.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1653.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3530,7 +3530,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 86,
-                "img_url": "img/chicago_with_icons/label_id_1664.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1664.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3560,7 +3560,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 85,
-                "img_url": "img/chicago_with_icons/label_id_1665.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1665.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3590,7 +3590,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 84,
-                "img_url": "img/chicago_with_icons/label_id_1666.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1666.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3620,7 +3620,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 83,
-                "img_url": "img/chicago_with_icons/label_id_1667.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1667.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3650,7 +3650,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 82,
-                "img_url": "img/chicago_with_icons/label_id_1668.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1668.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3680,7 +3680,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 81,
-                "img_url": "img/chicago_with_icons/label_id_1669.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1669.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3710,7 +3710,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 80,
-                "img_url": "img/chicago_with_icons/label_id_1670.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1670.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3740,7 +3740,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 79,
-                "img_url": "img/chicago_with_icons/label_id_1671.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1671.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3770,7 +3770,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 78,
-                "img_url": "img/chicago_with_icons/label_id_1813.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1813.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3800,7 +3800,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 77,
-                "img_url": "img/chicago_with_icons/label_id_1817.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1817.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -3830,7 +3830,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 75,
-                "img_url": "img/chicago_with_icons/label_id_1818.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1818.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3860,7 +3860,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 74,
-                "img_url": "img/chicago_with_icons/label_id_1819.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1819.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3890,7 +3890,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 73,
-                "img_url": "img/chicago_with_icons/label_id_1840.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1840.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3920,7 +3920,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 72,
-                "img_url": "img/chicago_with_icons/label_id_1841.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1841.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3950,7 +3950,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 1,
-                "img_url": "img/chicago_with_icons/label_id_1891.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1891.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3980,7 +3980,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 71,
-                "img_url": "img/chicago_with_icons/label_id_1995.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1995.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4010,7 +4010,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 70,
-                "img_url": "img/chicago_with_icons/label_id_2016.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2016.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4040,7 +4040,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 69,
-                "img_url": "img/chicago_with_icons/label_id_2018.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2018.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4070,7 +4070,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 68,
-                "img_url": "img/chicago_with_icons/label_id_2021.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2021.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4100,7 +4100,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 67,
-                "img_url": "img/chicago_with_icons/label_id_2022.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2022.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4130,7 +4130,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 66,
-                "img_url": "img/chicago_with_icons/label_id_2023.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2023.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4160,7 +4160,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 65,
-                "img_url": "img/chicago_with_icons/label_id_2024.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2024.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4190,7 +4190,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 64,
-                "img_url": "img/chicago_with_icons/label_id_2025.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2025.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4220,7 +4220,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 63,
-                "img_url": "img/chicago_with_icons/label_id_2042.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2042.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4250,7 +4250,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 62,
-                "img_url": "img/chicago_with_icons/label_id_2043.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2043.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4280,7 +4280,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 61,
-                "img_url": "img/chicago_with_icons/label_id_2046.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2046.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4310,7 +4310,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 60,
-                "img_url": "img/chicago_with_icons/label_id_2047.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2047.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4340,7 +4340,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 59,
-                "img_url": "img/chicago_with_icons/label_id_2049.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2049.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4370,7 +4370,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 58,
-                "img_url": "img/chicago_with_icons/label_id_2050.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2050.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4400,7 +4400,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 57,
-                "img_url": "img/chicago_with_icons/label_id_2051.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2051.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4430,7 +4430,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 56,
-                "img_url": "img/chicago_with_icons/label_id_2052.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2052.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4460,7 +4460,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 55,
-                "img_url": "img/chicago_with_icons/label_id_2068.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2068.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4490,7 +4490,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 54,
-                "img_url": "img/chicago_with_icons/label_id_2069.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2069.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4520,7 +4520,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 53,
-                "img_url": "img/chicago_with_icons/label_id_2070.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2070.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4550,7 +4550,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 52,
-                "img_url": "img/chicago_with_icons/label_id_2071.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2071.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4580,7 +4580,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 51,
-                "img_url": "img/chicago_with_icons/label_id_2072.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2072.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4610,7 +4610,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 50,
-                "img_url": "img/chicago_with_icons/label_id_2073.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2073.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4640,7 +4640,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 49,
-                "img_url": "img/chicago_with_icons/label_id_2074.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2074.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4670,7 +4670,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 48,
-                "img_url": "img/chicago_with_icons/label_id_2075.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2075.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -4700,7 +4700,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 46,
-                "img_url": "img/chicago_with_icons/label_id_2089.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2089.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4730,7 +4730,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 45,
-                "img_url": "img/chicago_with_icons/label_id_2090.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2090.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4760,7 +4760,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 44,
-                "img_url": "img/chicago_with_icons/label_id_2091.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2091.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4790,7 +4790,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 43,
-                "img_url": "img/chicago_with_icons/label_id_2092.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2092.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4820,7 +4820,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 42,
-                "img_url": "img/chicago_with_icons/label_id_2094.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2094.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4850,7 +4850,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 41,
-                "img_url": "img/chicago_with_icons/label_id_2095.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2095.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4880,7 +4880,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 40,
-                "img_url": "img/chicago_with_icons/label_id_2096.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2096.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4910,7 +4910,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 39,
-                "img_url": "img/chicago_with_icons/label_id_2097.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2097.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4940,7 +4940,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 38,
-                "img_url": "img/chicago_with_icons/label_id_2246.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2246.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4970,7 +4970,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 37,
-                "img_url": "img/chicago_with_icons/label_id_2247.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2247.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5000,7 +5000,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 36,
-                "img_url": "img/chicago_with_icons/label_id_2248.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2248.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5030,7 +5030,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 35,
-                "img_url": "img/chicago_with_icons/label_id_2249.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2249.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5060,7 +5060,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 34,
-                "img_url": "img/chicago_with_icons/label_id_2250.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2250.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5090,7 +5090,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 33,
-                "img_url": "img/chicago_with_icons/label_id_2251.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2251.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5120,7 +5120,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 32,
-                "img_url": "img/chicago_with_icons/label_id_2252.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2252.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5150,7 +5150,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 31,
-                "img_url": "img/chicago_with_icons/label_id_2253.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2253.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5180,7 +5180,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 30,
-                "img_url": "img/chicago_with_icons/label_id_2277.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2277.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5210,7 +5210,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 29,
-                "img_url": "img/chicago_with_icons/label_id_2278.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2278.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5240,7 +5240,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 28,
-                "img_url": "img/chicago_with_icons/label_id_2279.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2279.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5270,7 +5270,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 26,
-                "img_url": "img/chicago_with_icons/label_id_2280.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2280.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5300,7 +5300,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 24,
-                "img_url": "img/chicago_with_icons/label_id_2327.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2327.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5330,7 +5330,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 22,
-                "img_url": "img/chicago_with_icons/label_id_2328.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2328.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5360,7 +5360,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 109,
-                "img_url": "img/chicago_with_icons/label_id_2338.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2338.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5390,7 +5390,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 110,
-                "img_url": "img/chicago_with_icons/label_id_2340.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2340.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5420,7 +5420,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 20,
-                "img_url": "img/chicago_with_icons/label_id_2391.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2391.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5450,7 +5450,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 18,
-                "img_url": "img/chicago_with_icons/label_id_2392.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2392.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5480,7 +5480,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 17,
-                "img_url": "img/chicago_with_icons/label_id_2393.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2393.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5510,7 +5510,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 15,
-                "img_url": "img/chicago_with_icons/label_id_2394.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2394.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5540,7 +5540,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 14,
-                "img_url": "img/chicago_with_icons/label_id_2395.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2395.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5570,7 +5570,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 12,
-                "img_url": "img/chicago_with_icons/label_id_2396.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2396.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5600,7 +5600,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 11,
-                "img_url": "img/chicago_with_icons/label_id_2397.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2397.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5630,7 +5630,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 9,
-                "img_url": "img/chicago_with_icons/label_id_2398.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2398.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5660,7 +5660,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 111,
-                "img_url": "img/chicago_with_icons/label_id_2454.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2454.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5690,7 +5690,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 8,
-                "img_url": "img/chicago_with_icons/label_id_2458.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2458.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5720,7 +5720,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 112,
-                "img_url": "img/chicago_with_icons/label_id_2465.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2465.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5750,7 +5750,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 7,
-                "img_url": "img/chicago_with_icons/label_id_2466.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2466.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5780,7 +5780,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 6,
-                "img_url": "img/chicago_with_icons/label_id_2467.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2467.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5810,7 +5810,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 4,
-                "img_url": "img/chicago_with_icons/label_id_2468.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2468.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5840,7 +5840,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 113,
-                "img_url": "img/chicago_with_icons/label_id_2469.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2469.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -5870,7 +5870,7 @@
                 "tag_list": "no alternate route",
                 "description": null,
                 "cluster_id": 2,
-                "img_url": "img/chicago_with_icons/label_id_2470.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2470.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -5900,7 +5900,7 @@
                 "tag_list": "alternate route present",
                 "description": null,
                 "cluster_id": 1,
-                "img_url": "img/chicago_with_icons/label_id_2531.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2531.jpg",
                 "clustered": true
             },
             "geometry": {

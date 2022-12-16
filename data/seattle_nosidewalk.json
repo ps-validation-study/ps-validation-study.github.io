@@ -20,7 +20,7 @@
                 "tag_list": null,
                 "description": "construction",
                 "cluster_id": 61,
-                "img_url": "img/chicago_with_icons/label_id_226.jpg",
+                "img_url": "img/seattle_with_icons/label_id_226.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -50,7 +50,7 @@
                 "tag_list": null,
                 "description": "construction, alternative route available",
                 "cluster_id": 62,
-                "img_url": "img/chicago_with_icons/label_id_248.jpg",
+                "img_url": "img/seattle_with_icons/label_id_248.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -80,7 +80,7 @@
                 "tag_list": null,
                 "description": "construction, alternative route available",
                 "cluster_id": 63,
-                "img_url": "img/chicago_with_icons/label_id_249.jpg",
+                "img_url": "img/seattle_with_icons/label_id_249.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -110,7 +110,7 @@
                 "tag_list": "street has a sidewalk",
                 "description": null,
                 "cluster_id": 7,
-                "img_url": "img/chicago_with_icons/label_id_694.jpg",
+                "img_url": "img/seattle_with_icons/label_id_694.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -140,7 +140,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 20,
-                "img_url": "img/chicago_with_icons/label_id_1214.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1214.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -170,7 +170,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 19,
-                "img_url": "img/chicago_with_icons/label_id_1215.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1215.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -200,7 +200,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 64,
-                "img_url": "img/chicago_with_icons/label_id_1216.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1216.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -230,7 +230,7 @@
                 "tag_list": "street has no sidewalks,shared pedestrian/car space",
                 "description": null,
                 "cluster_id": 21,
-                "img_url": "img/chicago_with_icons/label_id_1217.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1217.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -260,7 +260,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 22,
-                "img_url": "img/chicago_with_icons/label_id_1218.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1218.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -290,7 +290,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 24,
-                "img_url": "img/chicago_with_icons/label_id_1219.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1219.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -320,7 +320,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 65,
-                "img_url": "img/chicago_with_icons/label_id_1220.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1220.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -350,7 +350,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 23,
-                "img_url": "img/chicago_with_icons/label_id_1221.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1221.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -380,7 +380,7 @@
                 "tag_list": "street has no sidewalks,shared pedestrian/car space",
                 "description": null,
                 "cluster_id": 66,
-                "img_url": "img/chicago_with_icons/label_id_1222.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1222.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -410,7 +410,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 67,
-                "img_url": "img/chicago_with_icons/label_id_1223.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1223.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -440,7 +440,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 68,
-                "img_url": "img/chicago_with_icons/label_id_1224.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1224.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -470,7 +470,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 25,
-                "img_url": "img/chicago_with_icons/label_id_1225.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1225.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -500,7 +500,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 26,
-                "img_url": "img/chicago_with_icons/label_id_1226.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1226.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -530,7 +530,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 69,
-                "img_url": "img/chicago_with_icons/label_id_1227.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1227.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -560,7 +560,7 @@
                 "tag_list": "street has no sidewalks,shared pedestrian/car space",
                 "description": null,
                 "cluster_id": 70,
-                "img_url": "img/chicago_with_icons/label_id_1228.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1228.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -590,7 +590,7 @@
                 "tag_list": "street has no sidewalks,shared pedestrian/car space",
                 "description": null,
                 "cluster_id": 28,
-                "img_url": "img/chicago_with_icons/label_id_1229.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1229.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -620,7 +620,7 @@
                 "tag_list": "street has no sidewalks,shared pedestrian/car space",
                 "description": null,
                 "cluster_id": 27,
-                "img_url": "img/chicago_with_icons/label_id_1230.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1230.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -650,7 +650,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 71,
-                "img_url": "img/chicago_with_icons/label_id_1231.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1231.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -680,7 +680,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 72,
-                "img_url": "img/chicago_with_icons/label_id_1232.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1232.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -710,7 +710,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 30,
-                "img_url": "img/chicago_with_icons/label_id_1233.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1233.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -740,7 +740,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 29,
-                "img_url": "img/chicago_with_icons/label_id_1234.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1234.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -770,7 +770,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 73,
-                "img_url": "img/chicago_with_icons/label_id_1235.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1235.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -800,7 +800,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 74,
-                "img_url": "img/chicago_with_icons/label_id_1236.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1236.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -830,7 +830,7 @@
                 "tag_list": "street has no sidewalks,shared pedestrian/car space",
                 "description": null,
                 "cluster_id": 31,
-                "img_url": "img/chicago_with_icons/label_id_1237.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1237.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -860,7 +860,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 32,
-                "img_url": "img/chicago_with_icons/label_id_1238.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1238.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -890,7 +890,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 75,
-                "img_url": "img/chicago_with_icons/label_id_1239.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1239.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -920,7 +920,7 @@
                 "tag_list": "street has no sidewalks,shared pedestrian/car space",
                 "description": null,
                 "cluster_id": 76,
-                "img_url": "img/chicago_with_icons/label_id_1240.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1240.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -950,7 +950,7 @@
                 "tag_list": "street has no sidewalks,shared pedestrian/car space",
                 "description": null,
                 "cluster_id": 34,
-                "img_url": "img/chicago_with_icons/label_id_1241.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1241.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -980,7 +980,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 33,
-                "img_url": "img/chicago_with_icons/label_id_1242.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1242.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1010,7 +1010,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks,shared pedestrian/car space",
                 "description": null,
                 "cluster_id": 77,
-                "img_url": "img/chicago_with_icons/label_id_1243.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1243.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1040,7 +1040,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 78,
-                "img_url": "img/chicago_with_icons/label_id_1244.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1244.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1070,7 +1070,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 35,
-                "img_url": "img/chicago_with_icons/label_id_1245.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1245.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1100,7 +1100,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 36,
-                "img_url": "img/chicago_with_icons/label_id_1246.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1246.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1130,7 +1130,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 79,
-                "img_url": "img/chicago_with_icons/label_id_1247.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1247.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1160,7 +1160,7 @@
                 "tag_list": "street has no sidewalks,shared pedestrian/car space",
                 "description": null,
                 "cluster_id": 80,
-                "img_url": "img/chicago_with_icons/label_id_1248.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1248.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1190,7 +1190,7 @@
                 "tag_list": "shared pedestrian/car space,street has no sidewalks",
                 "description": null,
                 "cluster_id": 81,
-                "img_url": "img/chicago_with_icons/label_id_1249.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1249.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1220,7 +1220,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 38,
-                "img_url": "img/chicago_with_icons/label_id_1250.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1250.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1250,7 +1250,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 82,
-                "img_url": "img/chicago_with_icons/label_id_1251.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1251.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1280,7 +1280,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 37,
-                "img_url": "img/chicago_with_icons/label_id_1252.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1252.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1310,7 +1310,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 40,
-                "img_url": "img/chicago_with_icons/label_id_1253.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1253.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1340,7 +1340,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 39,
-                "img_url": "img/chicago_with_icons/label_id_1254.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1254.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1370,7 +1370,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 41,
-                "img_url": "img/chicago_with_icons/label_id_1256.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1256.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1400,7 +1400,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 83,
-                "img_url": "img/chicago_with_icons/label_id_1257.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1257.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1430,7 +1430,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 42,
-                "img_url": "img/chicago_with_icons/label_id_1258.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1258.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1460,7 +1460,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 84,
-                "img_url": "img/chicago_with_icons/label_id_1259.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1259.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1490,7 +1490,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 85,
-                "img_url": "img/chicago_with_icons/label_id_1260.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1260.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1520,7 +1520,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 43,
-                "img_url": "img/chicago_with_icons/label_id_1261.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1261.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1550,7 +1550,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 86,
-                "img_url": "img/chicago_with_icons/label_id_1262.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1262.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1580,7 +1580,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 44,
-                "img_url": "img/chicago_with_icons/label_id_1263.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1263.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1610,7 +1610,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 45,
-                "img_url": "img/chicago_with_icons/label_id_1265.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1265.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1640,7 +1640,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 87,
-                "img_url": "img/chicago_with_icons/label_id_1266.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1266.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1670,7 +1670,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 88,
-                "img_url": "img/chicago_with_icons/label_id_1267.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1267.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1700,7 +1700,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 46,
-                "img_url": "img/chicago_with_icons/label_id_1268.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1268.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1730,7 +1730,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 47,
-                "img_url": "img/chicago_with_icons/label_id_1269.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1269.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1760,7 +1760,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 48,
-                "img_url": "img/chicago_with_icons/label_id_1270.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1270.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1790,7 +1790,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 89,
-                "img_url": "img/chicago_with_icons/label_id_1271.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1271.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1820,7 +1820,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 90,
-                "img_url": "img/chicago_with_icons/label_id_1272.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1272.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1850,7 +1850,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 91,
-                "img_url": "img/chicago_with_icons/label_id_1273.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1273.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1880,7 +1880,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 49,
-                "img_url": "img/chicago_with_icons/label_id_1274.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1274.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1910,7 +1910,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 92,
-                "img_url": "img/chicago_with_icons/label_id_1275.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1275.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -1940,7 +1940,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 50,
-                "img_url": "img/chicago_with_icons/label_id_1276.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1276.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -1970,7 +1970,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 93,
-                "img_url": "img/chicago_with_icons/label_id_1277.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1277.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2000,7 +2000,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 94,
-                "img_url": "img/chicago_with_icons/label_id_1278.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1278.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2030,7 +2030,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 52,
-                "img_url": "img/chicago_with_icons/label_id_1279.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1279.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2060,7 +2060,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 51,
-                "img_url": "img/chicago_with_icons/label_id_1280.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1280.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2090,7 +2090,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 95,
-                "img_url": "img/chicago_with_icons/label_id_1281.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1281.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2120,7 +2120,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 96,
-                "img_url": "img/chicago_with_icons/label_id_1282.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1282.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2150,7 +2150,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 54,
-                "img_url": "img/chicago_with_icons/label_id_1283.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1283.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2180,7 +2180,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 53,
-                "img_url": "img/chicago_with_icons/label_id_1284.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1284.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2210,7 +2210,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 56,
-                "img_url": "img/chicago_with_icons/label_id_1285.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1285.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2240,7 +2240,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 97,
-                "img_url": "img/chicago_with_icons/label_id_1286.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1286.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2270,7 +2270,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 98,
-                "img_url": "img/chicago_with_icons/label_id_1287.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1287.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2300,7 +2300,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 55,
-                "img_url": "img/chicago_with_icons/label_id_1288.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1288.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2330,7 +2330,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 58,
-                "img_url": "img/chicago_with_icons/label_id_1289.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1289.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2360,7 +2360,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 99,
-                "img_url": "img/chicago_with_icons/label_id_1290.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1290.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2390,7 +2390,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 100,
-                "img_url": "img/chicago_with_icons/label_id_1291.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1291.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2420,7 +2420,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 57,
-                "img_url": "img/chicago_with_icons/label_id_1292.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1292.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2450,7 +2450,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 59,
-                "img_url": "img/chicago_with_icons/label_id_1293.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1293.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2480,7 +2480,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 60,
-                "img_url": "img/chicago_with_icons/label_id_1294.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1294.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2510,7 +2510,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 101,
-                "img_url": "img/chicago_with_icons/label_id_1295.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1295.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2540,7 +2540,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 102,
-                "img_url": "img/chicago_with_icons/label_id_1296.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1296.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2570,7 +2570,7 @@
                 "tag_list": "ends abruptly,street has a sidewalk,gravel/dirt road",
                 "description": null,
                 "cluster_id": 103,
-                "img_url": "img/chicago_with_icons/label_id_1308.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1308.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2600,7 +2600,7 @@
                 "tag_list": "ends abruptly,street has no sidewalks",
                 "description": null,
                 "cluster_id": 9,
-                "img_url": "img/chicago_with_icons/label_id_1368.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1368.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2630,7 +2630,7 @@
                 "tag_list": "street has no sidewalks,ends abruptly",
                 "description": null,
                 "cluster_id": 8,
-                "img_url": "img/chicago_with_icons/label_id_1369.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1369.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2660,7 +2660,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 10,
-                "img_url": "img/chicago_with_icons/label_id_1370.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1370.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2690,7 +2690,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 11,
-                "img_url": "img/chicago_with_icons/label_id_1371.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1371.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2720,7 +2720,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 1,
-                "img_url": "img/chicago_with_icons/label_id_1372.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1372.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2750,7 +2750,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 12,
-                "img_url": "img/chicago_with_icons/label_id_1373.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1373.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2780,7 +2780,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 14,
-                "img_url": "img/chicago_with_icons/label_id_1374.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1374.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2810,7 +2810,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 13,
-                "img_url": "img/chicago_with_icons/label_id_1375.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1375.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2840,7 +2840,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 3,
-                "img_url": "img/chicago_with_icons/label_id_1376.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1376.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2870,7 +2870,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 104,
-                "img_url": "img/chicago_with_icons/label_id_1377.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1377.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2900,7 +2900,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 16,
-                "img_url": "img/chicago_with_icons/label_id_1378.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1378.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -2930,7 +2930,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 105,
-                "img_url": "img/chicago_with_icons/label_id_1379.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1379.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2960,7 +2960,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 5,
-                "img_url": "img/chicago_with_icons/label_id_1380.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1380.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -2990,7 +2990,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 15,
-                "img_url": "img/chicago_with_icons/label_id_1381.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1381.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3020,7 +3020,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 106,
-                "img_url": "img/chicago_with_icons/label_id_1382.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1382.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -3050,7 +3050,7 @@
                 "tag_list": "street has no sidewalks,gravel/dirt road",
                 "description": null,
                 "cluster_id": 107,
-                "img_url": "img/chicago_with_icons/label_id_1383.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1383.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -3080,7 +3080,7 @@
                 "tag_list": "gravel/dirt road,street has no sidewalks",
                 "description": null,
                 "cluster_id": 18,
-                "img_url": "img/chicago_with_icons/label_id_1384.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1384.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3110,7 +3110,7 @@
                 "tag_list": "street has a sidewalk,ends abruptly",
                 "description": null,
                 "cluster_id": 17,
-                "img_url": "img/chicago_with_icons/label_id_1385.jpg",
+                "img_url": "img/seattle_with_icons/label_id_1385.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3140,7 +3140,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 60,
-                "img_url": "img/chicago_with_icons/label_id_2203.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2203.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3170,7 +3170,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 59,
-                "img_url": "img/chicago_with_icons/label_id_2204.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2204.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3200,7 +3200,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 58,
-                "img_url": "img/chicago_with_icons/label_id_2205.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2205.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3230,7 +3230,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 57,
-                "img_url": "img/chicago_with_icons/label_id_2206.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2206.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3260,7 +3260,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 56,
-                "img_url": "img/chicago_with_icons/label_id_2207.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2207.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3290,7 +3290,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 55,
-                "img_url": "img/chicago_with_icons/label_id_2208.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2208.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3320,7 +3320,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 54,
-                "img_url": "img/chicago_with_icons/label_id_2209.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2209.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3350,7 +3350,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 53,
-                "img_url": "img/chicago_with_icons/label_id_2210.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2210.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3380,7 +3380,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 52,
-                "img_url": "img/chicago_with_icons/label_id_2211.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2211.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3410,7 +3410,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 51,
-                "img_url": "img/chicago_with_icons/label_id_2212.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2212.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3440,7 +3440,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 50,
-                "img_url": "img/chicago_with_icons/label_id_2213.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2213.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3470,7 +3470,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 49,
-                "img_url": "img/chicago_with_icons/label_id_2214.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2214.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3500,7 +3500,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 48,
-                "img_url": "img/chicago_with_icons/label_id_2215.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2215.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3530,7 +3530,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 47,
-                "img_url": "img/chicago_with_icons/label_id_2216.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2216.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3560,7 +3560,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 46,
-                "img_url": "img/chicago_with_icons/label_id_2217.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2217.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3590,7 +3590,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 45,
-                "img_url": "img/chicago_with_icons/label_id_2218.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2218.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3620,7 +3620,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 44,
-                "img_url": "img/chicago_with_icons/label_id_2219.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2219.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3650,7 +3650,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 43,
-                "img_url": "img/chicago_with_icons/label_id_2220.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2220.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3680,7 +3680,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 42,
-                "img_url": "img/chicago_with_icons/label_id_2221.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2221.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3710,7 +3710,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 41,
-                "img_url": "img/chicago_with_icons/label_id_2222.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2222.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3740,7 +3740,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 40,
-                "img_url": "img/chicago_with_icons/label_id_2223.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2223.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3770,7 +3770,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 39,
-                "img_url": "img/chicago_with_icons/label_id_2224.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2224.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3800,7 +3800,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 38,
-                "img_url": "img/chicago_with_icons/label_id_2225.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2225.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3830,7 +3830,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 37,
-                "img_url": "img/chicago_with_icons/label_id_2226.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2226.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3860,7 +3860,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 36,
-                "img_url": "img/chicago_with_icons/label_id_2227.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2227.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3890,7 +3890,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 35,
-                "img_url": "img/chicago_with_icons/label_id_2228.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2228.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3920,7 +3920,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 34,
-                "img_url": "img/chicago_with_icons/label_id_2229.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2229.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3950,7 +3950,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 33,
-                "img_url": "img/chicago_with_icons/label_id_2230.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2230.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -3980,7 +3980,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 32,
-                "img_url": "img/chicago_with_icons/label_id_2231.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2231.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4010,7 +4010,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 31,
-                "img_url": "img/chicago_with_icons/label_id_2232.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2232.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4040,7 +4040,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 30,
-                "img_url": "img/chicago_with_icons/label_id_2233.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2233.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4070,7 +4070,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 29,
-                "img_url": "img/chicago_with_icons/label_id_2234.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2234.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4100,7 +4100,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 28,
-                "img_url": "img/chicago_with_icons/label_id_2235.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2235.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4130,7 +4130,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 27,
-                "img_url": "img/chicago_with_icons/label_id_2236.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2236.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4160,7 +4160,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 26,
-                "img_url": "img/chicago_with_icons/label_id_2237.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2237.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4190,7 +4190,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 25,
-                "img_url": "img/chicago_with_icons/label_id_2238.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2238.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4220,7 +4220,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 24,
-                "img_url": "img/chicago_with_icons/label_id_2239.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2239.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4250,7 +4250,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 23,
-                "img_url": "img/chicago_with_icons/label_id_2240.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2240.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4280,7 +4280,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 22,
-                "img_url": "img/chicago_with_icons/label_id_2241.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2241.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4310,7 +4310,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 21,
-                "img_url": "img/chicago_with_icons/label_id_2242.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2242.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4340,7 +4340,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 20,
-                "img_url": "img/chicago_with_icons/label_id_2243.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2243.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4370,7 +4370,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 19,
-                "img_url": "img/chicago_with_icons/label_id_2244.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2244.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4400,7 +4400,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 18,
-                "img_url": "img/chicago_with_icons/label_id_2326.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2326.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4430,7 +4430,7 @@
                 "tag_list": "ends abruptly,street has no sidewalks",
                 "description": null,
                 "cluster_id": 17,
-                "img_url": "img/chicago_with_icons/label_id_2329.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2329.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4460,7 +4460,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 16,
-                "img_url": "img/chicago_with_icons/label_id_2330.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2330.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4490,7 +4490,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 15,
-                "img_url": "img/chicago_with_icons/label_id_2331.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2331.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4520,7 +4520,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 14,
-                "img_url": "img/chicago_with_icons/label_id_2332.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2332.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4550,7 +4550,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 13,
-                "img_url": "img/chicago_with_icons/label_id_2333.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2333.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4580,7 +4580,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 12,
-                "img_url": "img/chicago_with_icons/label_id_2334.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2334.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4610,7 +4610,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 11,
-                "img_url": "img/chicago_with_icons/label_id_2335.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2335.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4640,7 +4640,7 @@
                 "tag_list": "street has no sidewalks",
                 "description": null,
                 "cluster_id": 10,
-                "img_url": "img/chicago_with_icons/label_id_2336.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2336.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4670,7 +4670,7 @@
                 "tag_list": "street has no sidewalks,ends abruptly",
                 "description": null,
                 "cluster_id": 9,
-                "img_url": "img/chicago_with_icons/label_id_2337.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2337.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4700,7 +4700,7 @@
                 "tag_list": "street has no sidewalks,ends abruptly",
                 "description": null,
                 "cluster_id": 8,
-                "img_url": "img/chicago_with_icons/label_id_2339.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2339.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4730,7 +4730,7 @@
                 "tag_list": "street has a sidewalk",
                 "description": null,
                 "cluster_id": 7,
-                "img_url": "img/chicago_with_icons/label_id_2491.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2491.jpg",
                 "clustered": true
             },
             "geometry": {
@@ -4760,7 +4760,7 @@
                 "tag_list": "street has a sidewalk",
                 "description": null,
                 "cluster_id": 6,
-                "img_url": "img/chicago_with_icons/label_id_2492.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2492.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -4790,7 +4790,7 @@
                 "tag_list": "street has a sidewalk",
                 "description": null,
                 "cluster_id": 4,
-                "img_url": "img/chicago_with_icons/label_id_2495.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2495.jpg",
                 "clustered": false
             },
             "geometry": {
@@ -4820,7 +4820,7 @@
                 "tag_list": "street has a sidewalk",
                 "description": null,
                 "cluster_id": 2,
-                "img_url": "img/chicago_with_icons/label_id_2497.jpg",
+                "img_url": "img/seattle_with_icons/label_id_2497.jpg",
                 "clustered": false
             },
             "geometry": {
