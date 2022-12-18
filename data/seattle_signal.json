@@ -1,0 +1,485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 10,
+                "username": "Devon Snyder",
+                "label_id": 10,
+                "street_edge_id": 481,
+                "neighborhood": "University District",
+                "label_type": "Signal",
+                "lat": 47.6612358093262,
+                "lng": -122.320930480957,
+                "gsv_panorama_id": "O0VZ-MF6Nrmjhkb2nCRhCw",
+                "time_created": "2022-05-10 14:03:18.775-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "button waist height,has button",
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/seattle_with_icons/label_id_10.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320930480957,
+                    47.6612358093262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 18,
+                "username": "Devon Snyder",
+                "label_id": 18,
+                "street_edge_id": 482,
+                "neighborhood": "University District",
+                "label_type": "Signal",
+                "lat": 47.6614379882813,
+                "lng": -122.320831298828,
+                "gsv_panorama_id": "j3GefSTHZmrn2LHTGg8SFA",
+                "time_created": "2022-05-10 14:08:04.76-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/seattle_with_icons/label_id_18.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320831298828,
+                    47.6614379882813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 23,
+                "username": "Devon Snyder",
+                "label_id": 23,
+                "street_edge_id": 481,
+                "neighborhood": "University District",
+                "label_type": "Signal",
+                "lat": 47.6614952087402,
+                "lng": -122.320953369141,
+                "gsv_panorama_id": "qCkbp2lszdGrR5s3hdSiTQ",
+                "time_created": "2022-05-10 14:10:08.143-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "button waist height,has button",
+                "description": null,
+                "cluster_id": 12,
+                "img_url": "img/seattle_with_icons/label_id_23.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320953369141,
+                    47.6614952087402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 258,
+                "username": "Devon Snyder",
+                "label_id": 258,
+                "street_edge_id": 244,
+                "neighborhood": "International District",
+                "label_type": "Signal",
+                "lat": 47.5998840332031,
+                "lng": -122.335556030273,
+                "gsv_panorama_id": "n1cMOes1ASyujsdkgArkSg",
+                "time_created": "2022-05-11 09:22:09.508-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "button waist height,has button",
+                "description": null,
+                "cluster_id": 9,
+                "img_url": "img/seattle_with_icons/label_id_258.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335556030273,
+                    47.5998840332031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 259,
+                "username": "Devon Snyder",
+                "label_id": 259,
+                "street_edge_id": 254,
+                "neighborhood": "International District",
+                "label_type": "Signal",
+                "lat": 47.6002082824707,
+                "lng": -122.335563659668,
+                "gsv_panorama_id": "n1cMOes1ASyujsdkgArkSg",
+                "time_created": "2022-05-11 09:22:18.945-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/seattle_with_icons/label_id_259.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335563659668,
+                    47.6002082824707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1332,
+                "username": "Devon Snyder",
+                "label_id": 1332,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Signal",
+                "lat": 47.5499877929687,
+                "lng": -122.362800598145,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-05-25 09:58:47.026-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/seattle_with_icons/label_id_1332.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362800598145,
+                    47.5499877929687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1336,
+                "username": "Devon Snyder",
+                "label_id": 1336,
+                "street_edge_id": 71,
+                "neighborhood": "Delridge",
+                "label_type": "Signal",
+                "lat": 47.549991607666,
+                "lng": -122.363174438477,
+                "gsv_panorama_id": "g2AwxVSKNZm-wEushLLhew",
+                "time_created": "2022-05-25 10:00:15.432-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/seattle_with_icons/label_id_1336.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.363174438477,
+                    47.549991607666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1340,
+                "username": "Devon Snyder",
+                "label_id": 1340,
+                "street_edge_id": 71,
+                "neighborhood": "Delridge",
+                "label_type": "Signal",
+                "lat": 47.5502433776856,
+                "lng": -122.363151550293,
+                "gsv_panorama_id": "g2AwxVSKNZm-wEushLLhew",
+                "time_created": "2022-05-25 10:00:56.322-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/seattle_with_icons/label_id_1340.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.363151550293,
+                    47.5502433776856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1345,
+                "username": "Devon Snyder",
+                "label_id": 1345,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Signal",
+                "lat": 47.550235748291,
+                "lng": -122.362800598145,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-05-25 10:02:20.886-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/seattle_with_icons/label_id_1345.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362800598145,
+                    47.550235748291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1763,
+                "username": "mikey",
+                "label_id": 1763,
+                "street_edge_id": 181,
+                "neighborhood": "International District",
+                "label_type": "Signal",
+                "lat": 47.6010055541992,
+                "lng": -122.335548400879,
+                "gsv_panorama_id": "sDa5h_ETvNOyeN_QLTWiVA",
+                "time_created": "2022-06-28 13:02:28.149-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 10,
+                "img_url": "img/seattle_with_icons/label_id_1763.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335548400879,
+                    47.6010055541992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1764,
+                "username": "mikey",
+                "label_id": 1764,
+                "street_edge_id": 254,
+                "neighborhood": "International District",
+                "label_type": "Signal",
+                "lat": 47.6007461547852,
+                "lng": -122.335502624512,
+                "gsv_panorama_id": "sDa5h_ETvNOyeN_QLTWiVA",
+                "time_created": "2022-06-28 13:02:45.342-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/seattle_with_icons/label_id_1764.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335502624512,
+                    47.6007461547852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1770,
+                "username": "mikey",
+                "label_id": 1770,
+                "street_edge_id": 179,
+                "neighborhood": "International District",
+                "label_type": "Signal",
+                "lat": 47.6010093688965,
+                "lng": -122.334320068359,
+                "gsv_panorama_id": "s1L-6L8hiTFI1BYHiUBoCA",
+                "time_created": "2022-06-28 13:05:54.137-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/seattle_with_icons/label_id_1770.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334320068359,
+                    47.6010093688965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2181,
+                "username": "mikey",
+                "label_id": 2181,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Signal",
+                "lat": 47.5500144958496,
+                "lng": -122.362831115723,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-06-30 14:24:22.71-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/seattle_with_icons/label_id_2181.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362831115723,
+                    47.5500144958496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2182,
+                "username": "mikey",
+                "label_id": 2182,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Signal",
+                "lat": 47.5502128601074,
+                "lng": -122.362831115723,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-06-30 14:24:31.108-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/seattle_with_icons/label_id_2182.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362831115723,
+                    47.5502128601074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2183,
+                "username": "mikey",
+                "label_id": 2183,
+                "street_edge_id": 71,
+                "neighborhood": "Delridge",
+                "label_type": "Signal",
+                "lat": 47.5501861572266,
+                "lng": -122.36319732666,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-06-30 14:24:37.456-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/seattle_with_icons/label_id_2183.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36319732666,
+                    47.5501861572266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2184,
+                "username": "mikey",
+                "label_id": 2184,
+                "street_edge_id": 71,
+                "neighborhood": "Delridge",
+                "label_type": "Signal",
+                "lat": 47.5500411987305,
+                "lng": -122.363189697266,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-06-30 14:24:42.967-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "button waist height,has button",
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/seattle_with_icons/label_id_2184.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.363189697266,
+                    47.5500411987305
+                ]
+            }
+        }
+    ]
+}

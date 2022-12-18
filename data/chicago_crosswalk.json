@@ -1,0 +1,1505 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 137,
+                "username": "Devon Snyder",
+                "label_id": 137,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Crosswalk",
+                "lat": 42.0261573791504,
+                "lng": -87.7281723022461,
+                "gsv_panorama_id": "l_joW17kVMrbCc-c0wgZOQ",
+                "time_created": "2022-05-10 15:20:17.331-07",
+                "correct": "t",
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "uneven surface,paint fading",
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/chicago_with_icons/label_id_137.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7281723022461,
+                    42.0261573791504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 145,
+                "username": "Devon Snyder",
+                "label_id": 145,
+                "street_edge_id": 405,
+                "neighborhood": "Skokie",
+                "label_type": "Crosswalk",
+                "lat": 42.0261993408203,
+                "lng": -87.7280349731445,
+                "gsv_panorama_id": "jduryxSb7BLpIXL5HaeGog",
+                "time_created": "2022-05-10 15:22:40.88-07",
+                "correct": "t",
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/chicago_with_icons/label_id_145.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280349731445,
+                    42.0261993408203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 146,
+                "username": "Devon Snyder",
+                "label_id": 146,
+                "street_edge_id": 413,
+                "neighborhood": "Skokie",
+                "label_type": "Crosswalk",
+                "lat": 42.0262260437012,
+                "lng": -87.7283706665039,
+                "gsv_panorama_id": "jduryxSb7BLpIXL5HaeGog",
+                "time_created": "2022-05-10 15:22:52.098-07",
+                "correct": "t",
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "uneven surface,paint fading,broken surface",
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/chicago_with_icons/label_id_146.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7283706665039,
+                    42.0262260437012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 152,
+                "username": "Devon Snyder",
+                "label_id": 152,
+                "street_edge_id": 438,
+                "neighborhood": "Skokie",
+                "label_type": "Crosswalk",
+                "lat": 42.0263557434082,
+                "lng": -87.7282333374023,
+                "gsv_panorama_id": "wxy58lr0IsL44sQE9B9UWg",
+                "time_created": "2022-05-10 15:25:09.512-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/chicago_with_icons/label_id_152.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7282333374023,
+                    42.0263557434082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 165,
+                "username": "Devon Snyder",
+                "label_id": 165,
+                "street_edge_id": 412,
+                "neighborhood": "Skokie",
+                "label_type": "Crosswalk",
+                "lat": 42.0261497497559,
+                "lng": -87.7294158935547,
+                "gsv_panorama_id": "ztmynHmdiMkTfNFKOxPu2A",
+                "time_created": "2022-05-11 08:07:55.833-07",
+                "correct": "t",
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/chicago_with_icons/label_id_165.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7294158935547,
+                    42.0261497497559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 468,
+                "username": "Devon Snyder",
+                "label_id": 468,
+                "street_edge_id": 421,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6406478881836,
+                "lng": -87.6988754272461,
+                "gsv_panorama_id": "JcgmHkU8P9wjZ3BkbKH8DA",
+                "time_created": "2022-05-13 08:13:33.727-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 12,
+                "img_url": "img/chicago_with_icons/label_id_468.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6988754272461,
+                    41.6406478881836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 474,
+                "username": "Devon Snyder",
+                "label_id": 474,
+                "street_edge_id": 421,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6404304504395,
+                "lng": -87.6989974975586,
+                "gsv_panorama_id": "u8XMieubaMS7bwP0XYKMXQ",
+                "time_created": "2022-05-13 08:16:09.095-07",
+                "correct": "t",
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "broken surface",
+                "description": null,
+                "cluster_id": 9,
+                "img_url": "img/chicago_with_icons/label_id_474.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6989974975586,
+                    41.6404304504395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 480,
+                "username": "Devon Snyder",
+                "label_id": 480,
+                "street_edge_id": 421,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6405448913574,
+                "lng": -87.6986389160156,
+                "gsv_panorama_id": "ZSQxlv5_hQbBy5JKXRrT-Q",
+                "time_created": "2022-05-13 08:17:57.192-07",
+                "correct": "t",
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "broken surface,paint fading",
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/chicago_with_icons/label_id_480.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6986389160156,
+                    41.6405448913574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 489,
+                "username": "Devon Snyder",
+                "label_id": 489,
+                "street_edge_id": 418,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6443138122559,
+                "lng": -87.6990127563477,
+                "gsv_panorama_id": "6Gqc83A_-XBHUcf2xLzNTw",
+                "time_created": "2022-05-13 08:27:06.331-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/chicago_with_icons/label_id_489.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6990127563477,
+                    41.6443138122559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 504,
+                "username": "Devon Snyder",
+                "label_id": 504,
+                "street_edge_id": 445,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6442108154297,
+                "lng": -87.7009353637695,
+                "gsv_panorama_id": "N2DwndmRhVhlbjf3pTZbZg",
+                "time_created": "2022-05-13 08:33:25.386-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/chicago_with_icons/label_id_504.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7009353637695,
+                    41.6442108154297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 513,
+                "username": "Devon Snyder",
+                "label_id": 513,
+                "street_edge_id": 386,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6442222595215,
+                "lng": -87.701171875,
+                "gsv_panorama_id": "i4Wh8g6e4iP7j5FlZeve3g",
+                "time_created": "2022-05-13 08:37:48.806-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/chicago_with_icons/label_id_513.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.701171875,
+                    41.6442222595215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1061,
+                "username": "Devon Snyder",
+                "label_id": 1061,
+                "street_edge_id": 439,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Crosswalk",
+                "lat": 42.0117645263672,
+                "lng": -87.7284393310547,
+                "gsv_panorama_id": "BuMm-k0pX1Xf2Y3PE3mtGw",
+                "time_created": "2022-05-24 12:58:59.181-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 24,
+                "img_url": "img/chicago_with_icons/label_id_1061.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7284393310547,
+                    42.0117645263672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1064,
+                "username": "Devon Snyder",
+                "label_id": 1064,
+                "street_edge_id": 383,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Crosswalk",
+                "lat": 42.0116424560547,
+                "lng": -87.728630065918,
+                "gsv_panorama_id": "97DALXUeqckVcQ9hWIi2AQ",
+                "time_created": "2022-05-24 12:59:34.277-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 23,
+                "img_url": "img/chicago_with_icons/label_id_1064.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.728630065918,
+                    42.0116424560547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1068,
+                "username": "Devon Snyder",
+                "label_id": 1068,
+                "street_edge_id": 403,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Crosswalk",
+                "lat": 42.0118598937988,
+                "lng": -87.728630065918,
+                "gsv_panorama_id": "sg0F_IluxwMGasPhPMY4jw",
+                "time_created": "2022-05-24 13:00:24.806-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 22,
+                "img_url": "img/chicago_with_icons/label_id_1068.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.728630065918,
+                    42.0118598937988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1201,
+                "username": "Devon Snyder",
+                "label_id": 1201,
+                "street_edge_id": 399,
+                "neighborhood": "Mount Prospect",
+                "label_type": "Crosswalk",
+                "lat": 42.0368614196777,
+                "lng": -87.960334777832,
+                "gsv_panorama_id": "7Rgw40CgABfioQlhawCUoQ",
+                "time_created": "2022-05-24 15:15:16.73-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 21,
+                "img_url": "img/chicago_with_icons/label_id_1201.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.960334777832,
+                    42.0368614196777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1417,
+                "username": "Devon Snyder",
+                "label_id": 1417,
+                "street_edge_id": 432,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.127628326416,
+                "lng": -87.8794708251953,
+                "gsv_panorama_id": "R6vjAzJ7paXI6Jdoi2itsQ",
+                "time_created": "2022-05-25 14:03:47.245-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 15,
+                "img_url": "img/chicago_with_icons/label_id_1417.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8794708251953,
+                    42.127628326416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1422,
+                "username": "Devon Snyder",
+                "label_id": 1422,
+                "street_edge_id": 432,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1275291442871,
+                "lng": -87.8795928955078,
+                "gsv_panorama_id": "ZscM7mXcm3GRv3TwxRu0Tw",
+                "time_created": "2022-05-25 14:04:40.866-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 17,
+                "img_url": "img/chicago_with_icons/label_id_1422.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8795928955078,
+                    42.1275291442871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1425,
+                "username": "Devon Snyder",
+                "label_id": 1425,
+                "street_edge_id": 435,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1275215148926,
+                "lng": -87.8792877197266,
+                "gsv_panorama_id": "SBSPyy6cir4L91ITn228pQ",
+                "time_created": "2022-05-25 14:06:00.796-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 16,
+                "img_url": "img/chicago_with_icons/label_id_1425.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8792877197266,
+                    42.1275215148926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1429,
+                "username": "Devon Snyder",
+                "label_id": 1429,
+                "street_edge_id": 433,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1273803710938,
+                "lng": -87.8794174194336,
+                "gsv_panorama_id": "mhiXMZthl3qQMpwBPB9R8w",
+                "time_created": "2022-05-25 14:06:46.189-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 18,
+                "img_url": "img/chicago_with_icons/label_id_1429.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8794174194336,
+                    42.1273803710938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1441,
+                "username": "Devon Snyder",
+                "label_id": 1441,
+                "street_edge_id": 434,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1253623962402,
+                "lng": -87.8792419433594,
+                "gsv_panorama_id": "4ZV7cKiVp4BERLsoKbXNHg",
+                "time_created": "2022-05-25 14:14:00.553-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 20,
+                "img_url": "img/chicago_with_icons/label_id_1441.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8792419433594,
+                    42.1253623962402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1452,
+                "username": "Devon Snyder",
+                "label_id": 1452,
+                "street_edge_id": 377,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1243133544922,
+                "lng": -87.8791580200195,
+                "gsv_panorama_id": "VcRgQ9wCtzTJAY-WLJjbVw",
+                "time_created": "2022-05-25 14:20:10.142-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 19,
+                "img_url": "img/chicago_with_icons/label_id_1452.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8791580200195,
+                    42.1243133544922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1465,
+                "username": "Devon Snyder",
+                "label_id": 1465,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1166114807129,
+                "lng": -87.8584442138672,
+                "gsv_panorama_id": "GtB8nq1x5fFvxF0t3i3H3Q",
+                "time_created": "2022-05-25 14:23:45.5-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 14,
+                "img_url": "img/chicago_with_icons/label_id_1465.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8584442138672,
+                    42.1166114807129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1469,
+                "username": "Devon Snyder",
+                "label_id": 1469,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1164703369141,
+                "lng": -87.8586273193359,
+                "gsv_panorama_id": "GtB8nq1x5fFvxF0t3i3H3Q",
+                "time_created": "2022-05-25 14:24:21.929-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 13,
+                "img_url": "img/chicago_with_icons/label_id_1469.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8586273193359,
+                    42.1164703369141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1544,
+                "username": "mikey",
+                "label_id": 1544,
+                "street_edge_id": 439,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Crosswalk",
+                "lat": 42.0117340087891,
+                "lng": -87.7284393310547,
+                "gsv_panorama_id": "sCOGFgsao_roOpDbYSrRJg",
+                "time_created": "2022-06-17 12:56:27.966-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 24,
+                "img_url": "img/chicago_with_icons/label_id_1544.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7284393310547,
+                    42.0117340087891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1545,
+                "username": "mikey",
+                "label_id": 1545,
+                "street_edge_id": 402,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Crosswalk",
+                "lat": 42.0116348266602,
+                "lng": -87.7285461425781,
+                "gsv_panorama_id": "GAbRwKYSWba_Wdie8aV3sg",
+                "time_created": "2022-06-17 13:00:38.028-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 25,
+                "img_url": "img/chicago_with_icons/label_id_1545.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7285461425781,
+                    42.0116348266602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1548,
+                "username": "mikey",
+                "label_id": 1548,
+                "street_edge_id": 383,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Crosswalk",
+                "lat": 42.0116348266602,
+                "lng": -87.7286148071289,
+                "gsv_panorama_id": "97DALXUeqckVcQ9hWIi2AQ",
+                "time_created": "2022-06-17 13:01:01.497-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 23,
+                "img_url": "img/chicago_with_icons/label_id_1548.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7286148071289,
+                    42.0116348266602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1549,
+                "username": "mikey",
+                "label_id": 1549,
+                "street_edge_id": 403,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Crosswalk",
+                "lat": 42.0118408203125,
+                "lng": -87.7285995483399,
+                "gsv_panorama_id": "sg0F_IluxwMGasPhPMY4jw",
+                "time_created": "2022-06-17 13:01:10.719-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 22,
+                "img_url": "img/chicago_with_icons/label_id_1549.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7285995483399,
+                    42.0118408203125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1551,
+                "username": "mikey",
+                "label_id": 1551,
+                "street_edge_id": 403,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Crosswalk",
+                "lat": 42.0117225646973,
+                "lng": -87.7287216186523,
+                "gsv_panorama_id": "97DALXUeqckVcQ9hWIi2AQ",
+                "time_created": "2022-06-17 13:01:22.334-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 26,
+                "img_url": "img/chicago_with_icons/label_id_1551.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7287216186523,
+                    42.0117225646973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1741,
+                "username": "mikey",
+                "label_id": 1741,
+                "street_edge_id": 399,
+                "neighborhood": "Mount Prospect",
+                "label_type": "Crosswalk",
+                "lat": 42.036865234375,
+                "lng": -87.9603652954102,
+                "gsv_panorama_id": "7NVctUrVqjylto3cqtXsPg",
+                "time_created": "2022-06-28 12:53:54.166-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 21,
+                "img_url": "img/chicago_with_icons/label_id_1741.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9603652954102,
+                    42.036865234375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1914,
+                "username": "mikey",
+                "label_id": 1914,
+                "street_edge_id": 434,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1260452270508,
+                "lng": -87.8790588378906,
+                "gsv_panorama_id": "w8lpNX_HKZbfMlcgt4Zp-A",
+                "time_created": "2022-06-29 12:50:44.962-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 27,
+                "img_url": "img/chicago_with_icons/label_id_1914.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8790588378906,
+                    42.1260452270508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1918,
+                "username": "mikey",
+                "label_id": 1918,
+                "street_edge_id": 434,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1253700256348,
+                "lng": -87.8792343139648,
+                "gsv_panorama_id": "63p42XmhTIuThwWmiqkG5Q",
+                "time_created": "2022-06-29 12:52:09.031-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": "broken surface",
+                "description": null,
+                "cluster_id": 20,
+                "img_url": "img/chicago_with_icons/label_id_1918.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8792343139648,
+                    42.1253700256348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1927,
+                "username": "mikey",
+                "label_id": 1927,
+                "street_edge_id": 377,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1247673034668,
+                "lng": -87.8788986206055,
+                "gsv_panorama_id": "5QrbR1LhaNz6NNrT0OnKbg",
+                "time_created": "2022-06-29 12:54:39.625-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 28,
+                "img_url": "img/chicago_with_icons/label_id_1927.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8788986206055,
+                    42.1247673034668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1933,
+                "username": "mikey",
+                "label_id": 1933,
+                "street_edge_id": 377,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1243133544922,
+                "lng": -87.8791427612305,
+                "gsv_panorama_id": "VcRgQ9wCtzTJAY-WLJjbVw",
+                "time_created": "2022-06-29 12:55:41.496-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 19,
+                "img_url": "img/chicago_with_icons/label_id_1933.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8791427612305,
+                    42.1243133544922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1940,
+                "username": "mikey",
+                "label_id": 1940,
+                "street_edge_id": 433,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1273956298828,
+                "lng": -87.8794174194336,
+                "gsv_panorama_id": "I9NZsMDh9riaaHZmjsOiyA",
+                "time_created": "2022-06-29 12:57:08.012-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 18,
+                "img_url": "img/chicago_with_icons/label_id_1940.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8794174194336,
+                    42.1273956298828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1945,
+                "username": "mikey",
+                "label_id": 1945,
+                "street_edge_id": 432,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1275138854981,
+                "lng": -87.8795700073242,
+                "gsv_panorama_id": "3i6Jm1mCk3n10Y2aOHL2ug",
+                "time_created": "2022-06-29 12:57:38.806-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": "broken surface",
+                "description": null,
+                "cluster_id": 17,
+                "img_url": "img/chicago_with_icons/label_id_1945.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8795700073242,
+                    42.1275138854981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1949,
+                "username": "mikey",
+                "label_id": 1949,
+                "street_edge_id": 435,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1275024414063,
+                "lng": -87.8792724609375,
+                "gsv_panorama_id": "6UeA45S5Xxz4JHXTmwbuVg",
+                "time_created": "2022-06-29 12:58:19.384-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 16,
+                "img_url": "img/chicago_with_icons/label_id_1949.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8792724609375,
+                    42.1275024414063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1953,
+                "username": "mikey",
+                "label_id": 1953,
+                "street_edge_id": 432,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1276588439941,
+                "lng": -87.8794555664063,
+                "gsv_panorama_id": "SBSPyy6cir4L91ITn228pQ",
+                "time_created": "2022-06-29 12:58:35.984-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 15,
+                "img_url": "img/chicago_with_icons/label_id_1953.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8794555664063,
+                    42.1276588439941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1974,
+                "username": "mikey",
+                "label_id": 1974,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1166114807129,
+                "lng": -87.8584289550781,
+                "gsv_panorama_id": "GtB8nq1x5fFvxF0t3i3H3Q",
+                "time_created": "2022-06-29 13:04:19.46-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 14,
+                "img_url": "img/chicago_with_icons/label_id_1974.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8584289550781,
+                    42.1166114807129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1976,
+                "username": "mikey",
+                "label_id": 1976,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Crosswalk",
+                "lat": 42.1164741516113,
+                "lng": -87.8586196899414,
+                "gsv_panorama_id": "GtB8nq1x5fFvxF0t3i3H3Q",
+                "time_created": "2022-06-29 13:04:37.389-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 13,
+                "img_url": "img/chicago_with_icons/label_id_1976.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8586196899414,
+                    42.1164741516113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2117,
+                "username": "mikey",
+                "label_id": 2117,
+                "street_edge_id": 421,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6406364440918,
+                "lng": -87.6988983154297,
+                "gsv_panorama_id": "Gvef5Hz-5jZRb5RbVuA4CQ",
+                "time_created": "2022-06-29 15:37:11.705-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 12,
+                "img_url": "img/chicago_with_icons/label_id_2117.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6988983154297,
+                    41.6406364440918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2119,
+                "username": "mikey",
+                "label_id": 2119,
+                "street_edge_id": 421,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6405715942383,
+                "lng": -87.6986618041992,
+                "gsv_panorama_id": "RgnsV-98xLfzluQuKufejw",
+                "time_created": "2022-06-29 15:37:33.134-07",
+                "correct": null,
+                "severity": 5,
+                "temporary": "f",
+                "tag_list": "paint fading,broken surface",
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/chicago_with_icons/label_id_2119.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6986618041992,
+                    41.6405715942383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2121,
+                "username": "mikey",
+                "label_id": 2121,
+                "street_edge_id": 421,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6404190063477,
+                "lng": -87.698844909668,
+                "gsv_panorama_id": "ZSQxlv5_hQbBy5JKXRrT-Q",
+                "time_created": "2022-06-29 15:37:59.661-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "broken surface",
+                "description": null,
+                "cluster_id": 10,
+                "img_url": "img/chicago_with_icons/label_id_2121.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.698844909668,
+                    41.6404190063477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2127,
+                "username": "mikey",
+                "label_id": 2127,
+                "street_edge_id": 418,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6443023681641,
+                "lng": -87.6989822387695,
+                "gsv_panorama_id": "tiDTfjEoRrKbqYtzEIzVkw",
+                "time_created": "2022-06-29 15:39:25.619-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/chicago_with_icons/label_id_2127.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6989822387695,
+                    41.6443023681641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2151,
+                "username": "mikey",
+                "label_id": 2151,
+                "street_edge_id": 445,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6441650390625,
+                "lng": -87.7009353637695,
+                "gsv_panorama_id": "Uk7BCjnsbtPGf9Dtfr4puw",
+                "time_created": "2022-06-30 14:17:56.547-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/chicago_with_icons/label_id_2151.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7009353637695,
+                    41.6441650390625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2155,
+                "username": "mikey",
+                "label_id": 2155,
+                "street_edge_id": 386,
+                "neighborhood": "Robbins",
+                "label_type": "Crosswalk",
+                "lat": 41.6442222595215,
+                "lng": -87.7012100219727,
+                "gsv_panorama_id": "oX2G2-kTdfo0t7sK4NJ9Ug",
+                "time_created": "2022-06-30 14:18:42.682-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/chicago_with_icons/label_id_2155.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7012100219727,
+                    41.6442222595215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2341,
+                "username": "mikey",
+                "label_id": 2341,
+                "street_edge_id": 437,
+                "neighborhood": "Skokie",
+                "label_type": "Crosswalk",
+                "lat": 42.0261306762695,
+                "lng": -87.7282180786133,
+                "gsv_panorama_id": "zeG5x1Yc8wKqwus5yMYOJw",
+                "time_created": "2022-07-05 12:15:44.594-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "broken surface",
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/chicago_with_icons/label_id_2341.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7282180786133,
+                    42.0261306762695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2346,
+                "username": "mikey",
+                "label_id": 2346,
+                "street_edge_id": 413,
+                "neighborhood": "Skokie",
+                "label_type": "Crosswalk",
+                "lat": 42.0262641906738,
+                "lng": -87.7283630371094,
+                "gsv_panorama_id": "wxy58lr0IsL44sQE9B9UWg",
+                "time_created": "2022-07-05 12:16:34.805-07",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "broken surface,paint fading",
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/chicago_with_icons/label_id_2346.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7283630371094,
+                    42.0262641906738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2356,
+                "username": "mikey",
+                "label_id": 2356,
+                "street_edge_id": 438,
+                "neighborhood": "Skokie",
+                "label_type": "Crosswalk",
+                "lat": 42.0263633728027,
+                "lng": -87.7282104492187,
+                "gsv_panorama_id": "wxy58lr0IsL44sQE9B9UWg",
+                "time_created": "2022-07-05 12:17:52.982-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "broken surface,paint fading",
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/chicago_with_icons/label_id_2356.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7282104492187,
+                    42.0263633728027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2357,
+                "username": "mikey",
+                "label_id": 2357,
+                "street_edge_id": 405,
+                "neighborhood": "Skokie",
+                "label_type": "Crosswalk",
+                "lat": 42.0262680053711,
+                "lng": -87.72802734375,
+                "gsv_panorama_id": "wxy58lr0IsL44sQE9B9UWg",
+                "time_created": "2022-07-05 12:18:07.281-07",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "paint fading,broken surface",
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/chicago_with_icons/label_id_2357.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.72802734375,
+                    42.0262680053711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2374,
+                "username": "mikey",
+                "label_id": 2374,
+                "street_edge_id": 412,
+                "neighborhood": "Skokie",
+                "label_type": "Crosswalk",
+                "lat": 42.0261611938477,
+                "lng": -87.7293930053711,
+                "gsv_panorama_id": "-JDJbtfZjYlaTg2cO2qFOw",
+                "time_created": "2022-07-05 12:27:38.235-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/chicago_with_icons/label_id_2374.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7293930053711,
+                    42.0261611938477
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,485 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 125,
+                "username": "Devon Snyder",
+                "label_id": 125,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.0257339477539,
+                "lng": -87.7280426025391,
+                "gsv_panorama_id": "dlv0HVOAwKimKu6ukF2_9Q",
+                "time_created": "2022-05-10 15:17:03.745-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/chicago_with_icons/label_id_125.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280426025391,
+                    42.0257339477539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 126,
+                "username": "Devon Snyder",
+                "label_id": 126,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.0258255004883,
+                "lng": -87.7280502319336,
+                "gsv_panorama_id": "dlv0HVOAwKimKu6ukF2_9Q",
+                "time_created": "2022-05-10 15:17:06.842-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/chicago_with_icons/label_id_126.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280502319336,
+                    42.0258255004883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 127,
+                "username": "Devon Snyder",
+                "label_id": 127,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.025806427002,
+                "lng": -87.7280426025391,
+                "gsv_panorama_id": "40qnTlab3GmscWzN8Ro8hQ",
+                "time_created": "2022-05-10 15:17:46.151-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/chicago_with_icons/label_id_127.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280426025391,
+                    42.025806427002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 128,
+                "username": "Devon Snyder",
+                "label_id": 128,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.02587890625,
+                "lng": -87.7280654907227,
+                "gsv_panorama_id": "40qnTlab3GmscWzN8Ro8hQ",
+                "time_created": "2022-05-10 15:17:50.723-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/chicago_with_icons/label_id_128.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280654907227,
+                    42.02587890625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 131,
+                "username": "Devon Snyder",
+                "label_id": 131,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.0259704589844,
+                "lng": -87.7280502319336,
+                "gsv_panorama_id": "YVzVXofwGFkmSjzwZDR-xQ",
+                "time_created": "2022-05-10 15:19:14.238-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/chicago_with_icons/label_id_131.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280502319336,
+                    42.0259704589844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 132,
+                "username": "Devon Snyder",
+                "label_id": 132,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.0260391235352,
+                "lng": -87.7280960083008,
+                "gsv_panorama_id": "YVzVXofwGFkmSjzwZDR-xQ",
+                "time_created": "2022-05-10 15:19:17.962-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/chicago_with_icons/label_id_132.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280960083008,
+                    42.0260391235352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 133,
+                "username": "Devon Snyder",
+                "label_id": 133,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.0260047912598,
+                "lng": -87.7280578613281,
+                "gsv_panorama_id": "YVzVXofwGFkmSjzwZDR-xQ",
+                "time_created": "2022-05-10 15:19:20.504-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/chicago_with_icons/label_id_133.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280578613281,
+                    42.0260047912598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 134,
+                "username": "Devon Snyder",
+                "label_id": 134,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.0258483886719,
+                "lng": -87.7281036376953,
+                "gsv_panorama_id": "l_joW17kVMrbCc-c0wgZOQ",
+                "time_created": "2022-05-10 15:19:45.966-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/chicago_with_icons/label_id_134.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7281036376953,
+                    42.0258483886719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 135,
+                "username": "Devon Snyder",
+                "label_id": 135,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.0259246826172,
+                "lng": -87.72802734375,
+                "gsv_panorama_id": "l_joW17kVMrbCc-c0wgZOQ",
+                "time_created": "2022-05-10 15:19:49.654-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 9,
+                "img_url": "img/chicago_with_icons/label_id_135.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.72802734375,
+                    42.0259246826172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 140,
+                "username": "Devon Snyder",
+                "label_id": 140,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.0260162353516,
+                "lng": -87.7280960083008,
+                "gsv_panorama_id": "nG8zZVxy9NoJ2koyn3UHrg",
+                "time_created": "2022-05-10 15:21:50.748-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 10,
+                "img_url": "img/chicago_with_icons/label_id_140.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280960083008,
+                    42.0260162353516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 141,
+                "username": "Devon Snyder",
+                "label_id": 141,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.0260429382324,
+                "lng": -87.7280883789063,
+                "gsv_panorama_id": "nG8zZVxy9NoJ2koyn3UHrg",
+                "time_created": "2022-05-10 15:21:53.895-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/chicago_with_icons/label_id_141.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280883789063,
+                    42.0260429382324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 142,
+                "username": "Devon Snyder",
+                "label_id": 142,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Occlusion",
+                "lat": 42.0260887145996,
+                "lng": -87.7280960083008,
+                "gsv_panorama_id": "nG8zZVxy9NoJ2koyn3UHrg",
+                "time_created": "2022-05-10 15:21:56.913-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 12,
+                "img_url": "img/chicago_with_icons/label_id_142.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280960083008,
+                    42.0260887145996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 887,
+                "username": "Devon Snyder",
+                "label_id": 887,
+                "street_edge_id": 381,
+                "neighborhood": "Riverdale",
+                "label_type": "Occlusion",
+                "lat": 41.6444625854492,
+                "lng": -87.6218872070313,
+                "gsv_panorama_id": "l-K3h6IPo4XUjf1mGy0nxQ",
+                "time_created": "2022-05-24 11:02:22.577-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 13,
+                "img_url": "img/chicago_with_icons/label_id_887.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6218872070313,
+                    41.6444625854492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1048,
+                "username": "Devon Snyder",
+                "label_id": 1048,
+                "street_edge_id": 439,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Occlusion",
+                "lat": 42.0137786865234,
+                "lng": -87.7284088134766,
+                "gsv_panorama_id": "mfMUDV8qc4WRqLDvdN81tw",
+                "time_created": "2022-05-24 12:50:50.071-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 14,
+                "img_url": "img/chicago_with_icons/label_id_1048.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7284088134766,
+                    42.0137786865234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1433,
+                "username": "Devon Snyder",
+                "label_id": 1433,
+                "street_edge_id": 433,
+                "neighborhood": "Northbrook",
+                "label_type": "Occlusion",
+                "lat": 42.1272583007813,
+                "lng": -87.8792953491211,
+                "gsv_panorama_id": "Q2aVebRfzZaAdmwPYfvYUQ",
+                "time_created": "2022-05-25 14:08:05.953-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 15,
+                "img_url": "img/chicago_with_icons/label_id_1433.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8792953491211,
+                    42.1272583007813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1437,
+                "username": "Devon Snyder",
+                "label_id": 1437,
+                "street_edge_id": 434,
+                "neighborhood": "Northbrook",
+                "label_type": "Occlusion",
+                "lat": 42.1263313293457,
+                "lng": -87.8791580200195,
+                "gsv_panorama_id": "3AouKG9LpJCYrHyK1d4dpw",
+                "time_created": "2022-05-25 14:11:44.624-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 16,
+                "img_url": "img/chicago_with_icons/label_id_1437.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8791580200195,
+                    42.1263313293457
+                ]
+            }
+        }
+    ]
+}

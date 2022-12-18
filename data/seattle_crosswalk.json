@@ -1,0 +1,1355 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 14,
+                "username": "Devon Snyder",
+                "label_id": 14,
+                "street_edge_id": 482,
+                "neighborhood": "University District",
+                "label_type": "Crosswalk",
+                "lat": 47.6613159179688,
+                "lng": -122.320869445801,
+                "gsv_panorama_id": "O0VZ-MF6Nrmjhkb2nCRhCw",
+                "time_created": "2022-05-10 14:04:24.805-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 9,
+                "img_url": "img/seattle_with_icons/label_id_14.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320869445801,
+                    47.6613159179688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 15,
+                "username": "Devon Snyder",
+                "label_id": 15,
+                "street_edge_id": 480,
+                "neighborhood": "University District",
+                "label_type": "Crosswalk",
+                "lat": 47.661205291748,
+                "lng": -122.320777893066,
+                "gsv_panorama_id": "O0VZ-MF6Nrmjhkb2nCRhCw",
+                "time_created": "2022-05-10 14:04:36.076-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/seattle_with_icons/label_id_15.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320777893066,
+                    47.661205291748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 28,
+                "username": "Devon Snyder",
+                "label_id": 28,
+                "street_edge_id": 483,
+                "neighborhood": "University District",
+                "label_type": "Crosswalk",
+                "lat": 47.6614608764649,
+                "lng": -122.320739746094,
+                "gsv_panorama_id": "qCkbp2lszdGrR5s3hdSiTQ",
+                "time_created": "2022-05-10 14:11:19.541-07",
+                "correct": "t",
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/seattle_with_icons/label_id_28.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320739746094,
+                    47.6614608764649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 198,
+                "username": "Devon Snyder",
+                "label_id": 198,
+                "street_edge_id": 179,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6009635925293,
+                "lng": -122.334213256836,
+                "gsv_panorama_id": "1mcZ_CqLAp3r4RPkBcqWYg",
+                "time_created": "2022-05-11 08:50:38.818-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 16,
+                "img_url": "img/seattle_with_icons/label_id_198.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334213256836,
+                    47.6009635925293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 200,
+                "username": "Devon Snyder",
+                "label_id": 200,
+                "street_edge_id": 208,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6008949279785,
+                "lng": -122.334083557129,
+                "gsv_panorama_id": "BsqrOdDSbJWA6WB0NVJeiA",
+                "time_created": "2022-05-11 08:51:17.737-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 17,
+                "img_url": "img/seattle_with_icons/label_id_200.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334083557129,
+                    47.6008949279785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 202,
+                "username": "Devon Snyder",
+                "label_id": 202,
+                "street_edge_id": 203,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6008071899414,
+                "lng": -122.334205627441,
+                "gsv_panorama_id": "BsqrOdDSbJWA6WB0NVJeiA",
+                "time_created": "2022-05-11 08:52:05.205-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 18,
+                "img_url": "img/seattle_with_icons/label_id_202.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334205627441,
+                    47.6008071899414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 212,
+                "username": "Devon Snyder",
+                "label_id": 212,
+                "street_edge_id": 190,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6008834838867,
+                "lng": -122.334365844727,
+                "gsv_panorama_id": "1mcZ_CqLAp3r4RPkBcqWYg",
+                "time_created": "2022-05-11 08:54:55.282-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 15,
+                "img_url": "img/seattle_with_icons/label_id_212.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334365844727,
+                    47.6008834838867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 227,
+                "username": "Devon Snyder",
+                "label_id": 227,
+                "street_edge_id": 243,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6008911132813,
+                "lng": -122.335479736328,
+                "gsv_panorama_id": "f4p1g4gBWGcBH_vl47_A8Q",
+                "time_created": "2022-05-11 09:04:31.89-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 19,
+                "img_url": "img/seattle_with_icons/label_id_227.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335479736328,
+                    47.6008911132813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 239,
+                "username": "Devon Snyder",
+                "label_id": 239,
+                "street_edge_id": 184,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6000480651855,
+                "lng": -122.335510253906,
+                "gsv_panorama_id": "ZMVFCSQHaz1q8y3LB_IyOw",
+                "time_created": "2022-05-11 09:11:05.597-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 24,
+                "img_url": "img/seattle_with_icons/label_id_239.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335510253906,
+                    47.6000480651855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 251,
+                "username": "Devon Snyder",
+                "label_id": 251,
+                "street_edge_id": 249,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6004180908203,
+                "lng": -122.335998535156,
+                "gsv_panorama_id": "4Q1kZf3mWO6o4XKS-k88Vw",
+                "time_created": "2022-05-11 09:18:52.964-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 22,
+                "img_url": "img/seattle_with_icons/label_id_251.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335998535156,
+                    47.6004180908203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 275,
+                "username": "Devon Snyder",
+                "label_id": 275,
+                "street_edge_id": 258,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6000595092773,
+                "lng": -122.33430480957,
+                "gsv_panorama_id": "INMdYPF8xUfI6ejYr4FJSg",
+                "time_created": "2022-05-11 09:27:35.033-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 13,
+                "img_url": "img/seattle_with_icons/label_id_275.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33430480957,
+                    47.6000595092773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 277,
+                "username": "Devon Snyder",
+                "label_id": 277,
+                "street_edge_id": 203,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6001319885254,
+                "lng": -122.334213256836,
+                "gsv_panorama_id": "OWNgD8J2GJshv4aKP60Cyg",
+                "time_created": "2022-05-11 09:28:42.892-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 12,
+                "img_url": "img/seattle_with_icons/label_id_277.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334213256836,
+                    47.6001319885254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 280,
+                "username": "Devon Snyder",
+                "label_id": 280,
+                "street_edge_id": 205,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.5999488830566,
+                "lng": -122.334228515625,
+                "gsv_panorama_id": "OWNgD8J2GJshv4aKP60Cyg",
+                "time_created": "2022-05-11 09:29:21.023-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 14,
+                "img_url": "img/seattle_with_icons/label_id_280.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334228515625,
+                    47.5999488830566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 281,
+                "username": "Devon Snyder",
+                "label_id": 281,
+                "street_edge_id": 206,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6000518798828,
+                "lng": -122.334037780762,
+                "gsv_panorama_id": "b3dGUff4tPdUnnRGTmERBQ",
+                "time_created": "2022-05-11 09:29:33.366-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/seattle_with_icons/label_id_281.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334037780762,
+                    47.6000518798828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 374,
+                "username": "Devon Snyder",
+                "label_id": 374,
+                "street_edge_id": 283,
+                "neighborhood": "Queen Anne",
+                "label_type": "Crosswalk",
+                "lat": 47.6457366943359,
+                "lng": -122.360931396484,
+                "gsv_panorama_id": "-7HQzRQAxp2tbIY2xp2sRg",
+                "time_created": "2022-05-12 08:34:21.654-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "uneven surface",
+                "description": "some cracks",
+                "cluster_id": 10,
+                "img_url": "img/seattle_with_icons/label_id_374.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.360931396484,
+                    47.6457366943359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1022,
+                "username": "Devon Snyder",
+                "label_id": 1022,
+                "street_edge_id": 44,
+                "neighborhood": "Ballard",
+                "label_type": "Crosswalk",
+                "lat": 47.6779403686524,
+                "lng": -122.398391723633,
+                "gsv_panorama_id": "YJtUz5AEW107uT-RH39V7Q",
+                "time_created": "2022-05-24 12:04:39.604-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "broken surface",
+                "description": null,
+                "cluster_id": 20,
+                "img_url": "img/seattle_with_icons/label_id_1022.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.398391723633,
+                    47.6779403686524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1186,
+                "username": "Devon Snyder",
+                "label_id": 1186,
+                "street_edge_id": 601,
+                "neighborhood": "Highland Park",
+                "label_type": "Crosswalk",
+                "lat": 47.5211219787598,
+                "lng": -122.355155944824,
+                "gsv_panorama_id": "_uNAA6ty6HsPf-_XWwkLvg",
+                "time_created": "2022-05-24 15:03:52.235-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading,broken surface",
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/seattle_with_icons/label_id_1186.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.355155944824,
+                    47.5211219787598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1298,
+                "username": "Devon Snyder",
+                "label_id": 1298,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "Crosswalk",
+                "lat": 47.5501136779785,
+                "lng": -122.361686706543,
+                "gsv_panorama_id": "GXmubWpUv9Adwm-xU2dXyA",
+                "time_created": "2022-05-25 09:51:15.853-07",
+                "correct": "t",
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/seattle_with_icons/label_id_1298.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361686706543,
+                    47.5501136779785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1331,
+                "username": "Devon Snyder",
+                "label_id": 1331,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Crosswalk",
+                "lat": 47.5501136779785,
+                "lng": -122.362892150879,
+                "gsv_panorama_id": "XzYxlBOKsVVLigVmYLNdZw",
+                "time_created": "2022-05-25 09:58:35.054-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/seattle_with_icons/label_id_1331.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362892150879,
+                    47.5501136779785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1335,
+                "username": "Devon Snyder",
+                "label_id": 1335,
+                "street_edge_id": 71,
+                "neighborhood": "Delridge",
+                "label_type": "Crosswalk",
+                "lat": 47.5501098632813,
+                "lng": -122.363182067871,
+                "gsv_panorama_id": "wsBIBUeHFITn9E_c516ysw",
+                "time_created": "2022-05-25 10:00:09.129-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/seattle_with_icons/label_id_1335.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.363182067871,
+                    47.5501098632813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1342,
+                "username": "Devon Snyder",
+                "label_id": 1342,
+                "street_edge_id": 117,
+                "neighborhood": "Delridge",
+                "label_type": "Crosswalk",
+                "lat": 47.5500144958496,
+                "lng": -122.36304473877,
+                "gsv_panorama_id": "wsBIBUeHFITn9E_c516ysw",
+                "time_created": "2022-05-25 10:01:43.371-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/seattle_with_icons/label_id_1342.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36304473877,
+                    47.5500144958496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1344,
+                "username": "Devon Snyder",
+                "label_id": 1344,
+                "street_edge_id": 111,
+                "neighborhood": "Delridge",
+                "label_type": "Crosswalk",
+                "lat": 47.5502052307129,
+                "lng": -122.363021850586,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-05-25 10:02:14.562-07",
+                "correct": "t",
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/seattle_with_icons/label_id_1344.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.363021850586,
+                    47.5502052307129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1747,
+                "username": "mikey",
+                "label_id": 1747,
+                "street_edge_id": 184,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6000480651855,
+                "lng": -122.335456848145,
+                "gsv_panorama_id": "drtv7al1bzc-NdQy8ZNqYg",
+                "time_created": "2022-06-28 12:56:04.105-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 24,
+                "img_url": "img/seattle_with_icons/label_id_1747.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335456848145,
+                    47.6000480651855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1750,
+                "username": "mikey",
+                "label_id": 1750,
+                "street_edge_id": 244,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.5999717712402,
+                "lng": -122.335655212402,
+                "gsv_panorama_id": "VPJ7B65MI4FcyjBLZw5sMQ",
+                "time_created": "2022-06-28 12:58:42.636-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 25,
+                "img_url": "img/seattle_with_icons/label_id_1750.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335655212402,
+                    47.5999717712402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1753,
+                "username": "mikey",
+                "label_id": 1753,
+                "street_edge_id": 254,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6001014709473,
+                "lng": -122.335639953613,
+                "gsv_panorama_id": "VPJ7B65MI4FcyjBLZw5sMQ",
+                "time_created": "2022-06-28 12:58:54.162-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 23,
+                "img_url": "img/seattle_with_icons/label_id_1753.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335639953613,
+                    47.6001014709473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1756,
+                "username": "mikey",
+                "label_id": 1756,
+                "street_edge_id": 242,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6008071899414,
+                "lng": -122.335670471191,
+                "gsv_panorama_id": "mxtNzVrYy81dM6yZCmScvg",
+                "time_created": "2022-06-28 12:59:58.052-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 21,
+                "img_url": "img/seattle_with_icons/label_id_1756.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335670471191,
+                    47.6008071899414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1761,
+                "username": "mikey",
+                "label_id": 1761,
+                "street_edge_id": 243,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6008911132813,
+                "lng": -122.335464477539,
+                "gsv_panorama_id": "kTkiUSCpa3xjRTPKAWLzYA",
+                "time_created": "2022-06-28 13:00:41.582-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 19,
+                "img_url": "img/seattle_with_icons/label_id_1761.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335464477539,
+                    47.6008911132813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1807,
+                "username": "mikey",
+                "label_id": 1807,
+                "street_edge_id": 203,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6007957458496,
+                "lng": -122.334205627441,
+                "gsv_panorama_id": "P-v591_0D98yQOAP9xjFEQ",
+                "time_created": "2022-06-29 11:19:06.724-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "broken surface",
+                "description": null,
+                "cluster_id": 18,
+                "img_url": "img/seattle_with_icons/label_id_1807.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334205627441,
+                    47.6007957458496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1811,
+                "username": "mikey",
+                "label_id": 1811,
+                "street_edge_id": 208,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6008911132813,
+                "lng": -122.334060668945,
+                "gsv_panorama_id": "P-v591_0D98yQOAP9xjFEQ",
+                "time_created": "2022-06-29 11:19:45.385-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 17,
+                "img_url": "img/seattle_with_icons/label_id_1811.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334060668945,
+                    47.6008911132813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1812,
+                "username": "mikey",
+                "label_id": 1812,
+                "street_edge_id": 179,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6009750366211,
+                "lng": -122.334190368652,
+                "gsv_panorama_id": "P-v591_0D98yQOAP9xjFEQ",
+                "time_created": "2022-06-29 11:19:49.572-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 16,
+                "img_url": "img/seattle_with_icons/label_id_1812.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334190368652,
+                    47.6009750366211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1814,
+                "username": "mikey",
+                "label_id": 1814,
+                "street_edge_id": 190,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6008911132813,
+                "lng": -122.334365844727,
+                "gsv_panorama_id": "P-v591_0D98yQOAP9xjFEQ",
+                "time_created": "2022-06-29 11:20:01.17-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 15,
+                "img_url": "img/seattle_with_icons/label_id_1814.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334365844727,
+                    47.6008911132813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1821,
+                "username": "mikey",
+                "label_id": 1821,
+                "street_edge_id": 205,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.5999641418457,
+                "lng": -122.33422088623,
+                "gsv_panorama_id": "hEeDLi1QvzGthFzBc-cCjQ",
+                "time_created": "2022-06-29 11:23:18.729-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 14,
+                "img_url": "img/seattle_with_icons/label_id_1821.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33422088623,
+                    47.5999641418457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1822,
+                "username": "mikey",
+                "label_id": 1822,
+                "street_edge_id": 258,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6000442504883,
+                "lng": -122.334365844727,
+                "gsv_panorama_id": "hEeDLi1QvzGthFzBc-cCjQ",
+                "time_created": "2022-06-29 11:23:22.813-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 13,
+                "img_url": "img/seattle_with_icons/label_id_1822.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334365844727,
+                    47.6000442504883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1824,
+                "username": "mikey",
+                "label_id": 1824,
+                "street_edge_id": 203,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6001358032227,
+                "lng": -122.334190368652,
+                "gsv_panorama_id": "hEeDLi1QvzGthFzBc-cCjQ",
+                "time_created": "2022-06-29 11:23:50.595-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 12,
+                "img_url": "img/seattle_with_icons/label_id_1824.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334190368652,
+                    47.6001358032227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1826,
+                "username": "mikey",
+                "label_id": 1826,
+                "street_edge_id": 206,
+                "neighborhood": "International District",
+                "label_type": "Crosswalk",
+                "lat": 47.6000480651855,
+                "lng": -122.334045410156,
+                "gsv_panorama_id": "pNGxHosB3qimkjxfRQ1mpA",
+                "time_created": "2022-06-29 11:24:07.573-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/seattle_with_icons/label_id_1826.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334045410156,
+                    47.6000480651855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1831,
+                "username": "mikey",
+                "label_id": 1831,
+                "street_edge_id": 283,
+                "neighborhood": "Queen Anne",
+                "label_type": "Crosswalk",
+                "lat": 47.6456832885742,
+                "lng": -122.360916137695,
+                "gsv_panorama_id": "NNMXQE7IVesfoNlpllcWpA",
+                "time_created": "2022-06-29 11:26:28.704-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 10,
+                "img_url": "img/seattle_with_icons/label_id_1831.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.360916137695,
+                    47.6456832885742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1897,
+                "username": "mikey",
+                "label_id": 1897,
+                "street_edge_id": 482,
+                "neighborhood": "University District",
+                "label_type": "Crosswalk",
+                "lat": 47.6613311767578,
+                "lng": -122.320838928223,
+                "gsv_panorama_id": "YFf5aHrB0DbjwI00YDfZiw",
+                "time_created": "2022-06-29 12:43:47.932-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 9,
+                "img_url": "img/seattle_with_icons/label_id_1897.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320838928223,
+                    47.6613311767578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1898,
+                "username": "mikey",
+                "label_id": 1898,
+                "street_edge_id": 480,
+                "neighborhood": "University District",
+                "label_type": "Crosswalk",
+                "lat": 47.661190032959,
+                "lng": -122.320777893066,
+                "gsv_panorama_id": "YFf5aHrB0DbjwI00YDfZiw",
+                "time_created": "2022-06-29 12:43:51.219-07",
+                "correct": null,
+                "severity": 2,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/seattle_with_icons/label_id_1898.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320777893066,
+                    47.661190032959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1905,
+                "username": "mikey",
+                "label_id": 1905,
+                "street_edge_id": 483,
+                "neighborhood": "University District",
+                "label_type": "Crosswalk",
+                "lat": 47.6614723205566,
+                "lng": -122.320755004883,
+                "gsv_panorama_id": "qCkbp2lszdGrR5s3hdSiTQ",
+                "time_created": "2022-06-29 12:44:43.477-07",
+                "correct": null,
+                "severity": 3,
+                "temporary": "f",
+                "tag_list": "paint fading",
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/seattle_with_icons/label_id_1905.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320755004883,
+                    47.6614723205566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2114,
+                "username": "mikey",
+                "label_id": 2114,
+                "street_edge_id": 601,
+                "neighborhood": "Highland Park",
+                "label_type": "Crosswalk",
+                "lat": 47.5211143493652,
+                "lng": -122.355163574219,
+                "gsv_panorama_id": "mVwXsZPWewcVr1skuRnnOQ",
+                "time_created": "2022-06-29 15:31:54.12-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/seattle_with_icons/label_id_2114.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.355163574219,
+                    47.5211143493652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2169,
+                "username": "mikey",
+                "label_id": 2169,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Crosswalk",
+                "lat": 47.5501098632813,
+                "lng": -122.362854003906,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-06-30 14:23:52.753-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/seattle_with_icons/label_id_2169.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362854003906,
+                    47.5501098632813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2173,
+                "username": "mikey",
+                "label_id": 2173,
+                "street_edge_id": 111,
+                "neighborhood": "Delridge",
+                "label_type": "Crosswalk",
+                "lat": 47.5501976013184,
+                "lng": -122.362991333008,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-06-30 14:24:00.989-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/seattle_with_icons/label_id_2173.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362991333008,
+                    47.5501976013184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2176,
+                "username": "mikey",
+                "label_id": 2176,
+                "street_edge_id": 71,
+                "neighborhood": "Delridge",
+                "label_type": "Crosswalk",
+                "lat": 47.5501098632813,
+                "lng": -122.363174438477,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-06-30 14:24:07.504-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/seattle_with_icons/label_id_2176.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.363174438477,
+                    47.5501098632813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2179,
+                "username": "mikey",
+                "label_id": 2179,
+                "street_edge_id": 117,
+                "neighborhood": "Delridge",
+                "label_type": "Crosswalk",
+                "lat": 47.5500144958496,
+                "lng": -122.36304473877,
+                "gsv_panorama_id": "JKwxl4dFPf2JLummqWctIg",
+                "time_created": "2022-06-30 14:24:15.682-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/seattle_with_icons/label_id_2179.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36304473877,
+                    47.5500144958496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2199,
+                "username": "mikey",
+                "label_id": 2199,
+                "street_edge_id": 498,
+                "neighborhood": "Delridge",
+                "label_type": "Crosswalk",
+                "lat": 47.5500564575195,
+                "lng": -122.361671447754,
+                "gsv_panorama_id": "Zl0vM_twML0Pbfwv7Fg8Ww",
+                "time_created": "2022-06-30 14:27:42.086-07",
+                "correct": null,
+                "severity": 1,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/seattle_with_icons/label_id_2199.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361671447754,
+                    47.5500564575195
+                ]
+            }
+        }
+    ]
+}

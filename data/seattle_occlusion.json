@@ -1,0 +1,3515 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 8,
+                "username": "Devon Snyder",
+                "label_id": 8,
+                "street_edge_id": 480,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6611061096191,
+                "lng": -122.320724487305,
+                "gsv_panorama_id": "OH4yKYW98UY1aMK_b68Etw",
+                "time_created": "2022-05-10 14:02:15.133-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/seattle_with_icons/label_id_8.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320724487305,
+                    47.6611061096191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 20,
+                "username": "Devon Snyder",
+                "label_id": 20,
+                "street_edge_id": 480,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6611976623535,
+                "lng": -122.32071685791,
+                "gsv_panorama_id": "YFf5aHrB0DbjwI00YDfZiw",
+                "time_created": "2022-05-10 14:09:07.462-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/seattle_with_icons/label_id_20.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.32071685791,
+                    47.6611976623535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 29,
+                "username": "Devon Snyder",
+                "label_id": 29,
+                "street_edge_id": 480,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6611709594727,
+                "lng": -122.320709228516,
+                "gsv_panorama_id": "j3GefSTHZmrn2LHTGg8SFA",
+                "time_created": "2022-05-10 14:12:03.873-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/seattle_with_icons/label_id_29.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320709228516,
+                    47.6611709594727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 36,
+                "username": "Devon Snyder",
+                "label_id": 36,
+                "street_edge_id": 486,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6612091064453,
+                "lng": -122.320243835449,
+                "gsv_panorama_id": "l9zMoY0tPEhjtAftJ-XzYg",
+                "time_created": "2022-05-10 14:16:00.723-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/seattle_with_icons/label_id_36.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.320243835449,
+                    47.6612091064453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 57,
+                "username": "Devon Snyder",
+                "label_id": 57,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6609230041504,
+                "lng": -122.319877624512,
+                "gsv_panorama_id": "qY3nCKr-ACA7suPZuH5Kqg",
+                "time_created": "2022-05-10 14:25:45.438-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/seattle_with_icons/label_id_57.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319877624512,
+                    47.6609230041504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 58,
+                "username": "Devon Snyder",
+                "label_id": 58,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6609153747559,
+                "lng": -122.319725036621,
+                "gsv_panorama_id": "qY3nCKr-ACA7suPZuH5Kqg",
+                "time_created": "2022-05-10 14:25:48.492-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 9,
+                "img_url": "img/seattle_with_icons/label_id_58.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319725036621,
+                    47.6609153747559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 60,
+                "username": "Devon Snyder",
+                "label_id": 60,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6609115600586,
+                "lng": -122.319869995117,
+                "gsv_panorama_id": "rbo18kc9t4RhNcZx4AgfQw",
+                "time_created": "2022-05-10 14:45:46.032-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 10,
+                "img_url": "img/seattle_with_icons/label_id_60.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319869995117,
+                    47.6609115600586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 61,
+                "username": "Devon Snyder",
+                "label_id": 61,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6608734130859,
+                "lng": -122.319854736328,
+                "gsv_panorama_id": "rbo18kc9t4RhNcZx4AgfQw",
+                "time_created": "2022-05-10 14:45:47.021-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/seattle_with_icons/label_id_61.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319854736328,
+                    47.6608734130859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 62,
+                "username": "Devon Snyder",
+                "label_id": 62,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.660888671875,
+                "lng": -122.319709777832,
+                "gsv_panorama_id": "rbo18kc9t4RhNcZx4AgfQw",
+                "time_created": "2022-05-10 14:45:52.1-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 12,
+                "img_url": "img/seattle_with_icons/label_id_62.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319709777832,
+                    47.660888671875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 63,
+                "username": "Devon Snyder",
+                "label_id": 63,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.660945892334,
+                "lng": -122.319633483887,
+                "gsv_panorama_id": "DXMLDiGd2qCRgq2LW_VFmA",
+                "time_created": "2022-05-10 14:46:03.312-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 13,
+                "img_url": "img/seattle_with_icons/label_id_63.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319633483887,
+                    47.660945892334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 64,
+                "username": "Devon Snyder",
+                "label_id": 64,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.660888671875,
+                "lng": -122.319641113281,
+                "gsv_panorama_id": "DXMLDiGd2qCRgq2LW_VFmA",
+                "time_created": "2022-05-10 14:46:04.593-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 14,
+                "img_url": "img/seattle_with_icons/label_id_64.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319641113281,
+                    47.660888671875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 65,
+                "username": "Devon Snyder",
+                "label_id": 65,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6608085632324,
+                "lng": -122.319686889648,
+                "gsv_panorama_id": "DXMLDiGd2qCRgq2LW_VFmA",
+                "time_created": "2022-05-10 14:46:11.247-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 15,
+                "img_url": "img/seattle_with_icons/label_id_65.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319686889648,
+                    47.6608085632324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 67,
+                "username": "Devon Snyder",
+                "label_id": 67,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6607933044434,
+                "lng": -122.319900512695,
+                "gsv_panorama_id": "DXMLDiGd2qCRgq2LW_VFmA",
+                "time_created": "2022-05-10 14:46:31.173-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 16,
+                "img_url": "img/seattle_with_icons/label_id_67.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319900512695,
+                    47.6607933044434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 68,
+                "username": "Devon Snyder",
+                "label_id": 68,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6607971191406,
+                "lng": -122.319953918457,
+                "gsv_panorama_id": "WCpm75W6FnvmpxfMlv0yqA",
+                "time_created": "2022-05-10 14:46:43.724-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 17,
+                "img_url": "img/seattle_with_icons/label_id_68.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319953918457,
+                    47.6607971191406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 69,
+                "username": "Devon Snyder",
+                "label_id": 69,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6608657836914,
+                "lng": -122.319946289063,
+                "gsv_panorama_id": "N6P-7ZILnPbmpZwTMxtPpg",
+                "time_created": "2022-05-10 14:46:57.029-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 18,
+                "img_url": "img/seattle_with_icons/label_id_69.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319946289063,
+                    47.6608657836914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 70,
+                "username": "Devon Snyder",
+                "label_id": 70,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6606750488281,
+                "lng": -122.319931030273,
+                "gsv_panorama_id": "N6P-7ZILnPbmpZwTMxtPpg",
+                "time_created": "2022-05-10 14:47:06.392-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 19,
+                "img_url": "img/seattle_with_icons/label_id_70.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319931030273,
+                    47.6606750488281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 72,
+                "username": "Devon Snyder",
+                "label_id": 72,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6606674194336,
+                "lng": -122.319923400879,
+                "gsv_panorama_id": "-ws6WagXOEmcA-uRYKaM3Q",
+                "time_created": "2022-05-10 14:48:00.09-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 20,
+                "img_url": "img/seattle_with_icons/label_id_72.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319923400879,
+                    47.6606674194336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 74,
+                "username": "Devon Snyder",
+                "label_id": 74,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6604766845703,
+                "lng": -122.319877624512,
+                "gsv_panorama_id": "I3rbUMamT_C9zkaJmWJguw",
+                "time_created": "2022-05-10 14:48:43.541-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 21,
+                "img_url": "img/seattle_with_icons/label_id_74.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319877624512,
+                    47.6604766845703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 75,
+                "username": "Devon Snyder",
+                "label_id": 75,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6603775024414,
+                "lng": -122.319862365723,
+                "gsv_panorama_id": "I3rbUMamT_C9zkaJmWJguw",
+                "time_created": "2022-05-10 14:48:46.999-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 22,
+                "img_url": "img/seattle_with_icons/label_id_75.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319862365723,
+                    47.6603775024414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 76,
+                "username": "Devon Snyder",
+                "label_id": 76,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6603927612305,
+                "lng": -122.319664001465,
+                "gsv_panorama_id": "ZYahymOYgVHo--54hBUfnw",
+                "time_created": "2022-05-10 14:48:53.86-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 23,
+                "img_url": "img/seattle_with_icons/label_id_76.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319664001465,
+                    47.6603927612305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 77,
+                "username": "Devon Snyder",
+                "label_id": 77,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6603240966797,
+                "lng": -122.319686889648,
+                "gsv_panorama_id": "ZYahymOYgVHo--54hBUfnw",
+                "time_created": "2022-05-10 14:48:56.851-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 24,
+                "img_url": "img/seattle_with_icons/label_id_77.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319686889648,
+                    47.6603240966797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 78,
+                "username": "Devon Snyder",
+                "label_id": 78,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6602935791016,
+                "lng": -122.319709777832,
+                "gsv_panorama_id": "ZYahymOYgVHo--54hBUfnw",
+                "time_created": "2022-05-10 14:48:59.463-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 25,
+                "img_url": "img/seattle_with_icons/label_id_78.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319709777832,
+                    47.6602935791016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 79,
+                "username": "Devon Snyder",
+                "label_id": 79,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6603546142578,
+                "lng": -122.319869995117,
+                "gsv_panorama_id": "ZYahymOYgVHo--54hBUfnw",
+                "time_created": "2022-05-10 14:49:05.714-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 26,
+                "img_url": "img/seattle_with_icons/label_id_79.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319869995117,
+                    47.6603546142578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 80,
+                "username": "Devon Snyder",
+                "label_id": 80,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6602668762207,
+                "lng": -122.319709777832,
+                "gsv_panorama_id": "h7a4H4tl_eJRPFoHmTNm6w",
+                "time_created": "2022-05-10 14:49:18.026-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 27,
+                "img_url": "img/seattle_with_icons/label_id_80.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319709777832,
+                    47.6602668762207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 81,
+                "username": "Devon Snyder",
+                "label_id": 81,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6602210998535,
+                "lng": -122.319709777832,
+                "gsv_panorama_id": "h7a4H4tl_eJRPFoHmTNm6w",
+                "time_created": "2022-05-10 14:49:21.522-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 28,
+                "img_url": "img/seattle_with_icons/label_id_81.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319709777832,
+                    47.6602210998535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 88,
+                "username": "Devon Snyder",
+                "label_id": 88,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6599235534668,
+                "lng": -122.319892883301,
+                "gsv_panorama_id": "wpafLpF13OqrnEB-lLlUgA",
+                "time_created": "2022-05-10 14:52:09.572-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 29,
+                "img_url": "img/seattle_with_icons/label_id_88.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319892883301,
+                    47.6599235534668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 90,
+                "username": "Devon Snyder",
+                "label_id": 90,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6598358154297,
+                "lng": -122.319709777832,
+                "gsv_panorama_id": "phTXXBTHmaLXMX2mRCWQLQ",
+                "time_created": "2022-05-10 14:52:48.342-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 30,
+                "img_url": "img/seattle_with_icons/label_id_90.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319709777832,
+                    47.6598358154297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 91,
+                "username": "Devon Snyder",
+                "label_id": 91,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.659839630127,
+                "lng": -122.319686889648,
+                "gsv_panorama_id": "je7VX7kyDl38pe4K1TgbYA",
+                "time_created": "2022-05-10 14:53:09.476-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 31,
+                "img_url": "img/seattle_with_icons/label_id_91.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319686889648,
+                    47.659839630127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 92,
+                "username": "Devon Snyder",
+                "label_id": 92,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.659797668457,
+                "lng": -122.319892883301,
+                "gsv_panorama_id": "je7VX7kyDl38pe4K1TgbYA",
+                "time_created": "2022-05-10 14:53:31.71-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 32,
+                "img_url": "img/seattle_with_icons/label_id_92.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319892883301,
+                    47.659797668457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 93,
+                "username": "Devon Snyder",
+                "label_id": 93,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6597213745117,
+                "lng": -122.31990814209,
+                "gsv_panorama_id": "je7VX7kyDl38pe4K1TgbYA",
+                "time_created": "2022-05-10 14:53:36.59-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 33,
+                "img_url": "img/seattle_with_icons/label_id_93.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.31990814209,
+                    47.6597213745117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 217,
+                "username": "Devon Snyder",
+                "label_id": 217,
+                "street_edge_id": 190,
+                "neighborhood": "International District",
+                "label_type": "Occlusion",
+                "lat": 47.6009521484375,
+                "lng": -122.334487915039,
+                "gsv_panorama_id": "3wDyiEosTqqCVsYSeRccDw",
+                "time_created": "2022-05-11 08:57:25.585-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 34,
+                "img_url": "img/seattle_with_icons/label_id_217.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.334487915039,
+                    47.6009521484375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 235,
+                "username": "Devon Snyder",
+                "label_id": 235,
+                "street_edge_id": 254,
+                "neighborhood": "International District",
+                "label_type": "Occlusion",
+                "lat": 47.6004600524902,
+                "lng": -122.335456848145,
+                "gsv_panorama_id": "4Q1kZf3mWO6o4XKS-k88Vw",
+                "time_created": "2022-05-11 09:07:55.983-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 35,
+                "img_url": "img/seattle_with_icons/label_id_235.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335456848145,
+                    47.6004600524902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 236,
+                "username": "Devon Snyder",
+                "label_id": 236,
+                "street_edge_id": 254,
+                "neighborhood": "International District",
+                "label_type": "Occlusion",
+                "lat": 47.6003456115723,
+                "lng": -122.335464477539,
+                "gsv_panorama_id": "dHuwQ1H-YNtmV9qNzo2AcA",
+                "time_created": "2022-05-11 09:07:59.994-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 36,
+                "img_url": "img/seattle_with_icons/label_id_236.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335464477539,
+                    47.6003456115723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 262,
+                "username": "Devon Snyder",
+                "label_id": 262,
+                "street_edge_id": 184,
+                "neighborhood": "International District",
+                "label_type": "Occlusion",
+                "lat": 47.5999526977539,
+                "lng": -122.335311889648,
+                "gsv_panorama_id": "JJaIAkWP7SI1wSgmmVrWUg",
+                "time_created": "2022-05-11 09:23:44.538-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 37,
+                "img_url": "img/seattle_with_icons/label_id_262.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335311889648,
+                    47.5999526977539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 267,
+                "username": "Devon Snyder",
+                "label_id": 267,
+                "street_edge_id": 184,
+                "neighborhood": "International District",
+                "label_type": "Occlusion",
+                "lat": 47.5999526977539,
+                "lng": -122.335166931152,
+                "gsv_panorama_id": "iD4e6A8bw7gAyWuwRLrCng",
+                "time_created": "2022-05-11 09:24:29.408-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 38,
+                "img_url": "img/seattle_with_icons/label_id_267.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.335166931152,
+                    47.5999526977539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 291,
+                "username": "Devon Snyder",
+                "label_id": 291,
+                "street_edge_id": 271,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6469421386719,
+                "lng": -122.358123779297,
+                "gsv_panorama_id": "ikmaRmAjX-_gjtJ8hzwvEA",
+                "time_created": "2022-05-12 08:13:49.418-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 39,
+                "img_url": "img/seattle_with_icons/label_id_291.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.358123779297,
+                    47.6469421386719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 294,
+                "username": "Devon Snyder",
+                "label_id": 294,
+                "street_edge_id": 271,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6469268798828,
+                "lng": -122.358139038086,
+                "gsv_panorama_id": "2YWqSY0D956KxP_oVCJ1Gw",
+                "time_created": "2022-05-12 08:14:56.981-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 40,
+                "img_url": "img/seattle_with_icons/label_id_294.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.358139038086,
+                    47.6469268798828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 310,
+                "username": "Devon Snyder",
+                "label_id": 310,
+                "street_edge_id": 272,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6469497680664,
+                "lng": -122.359672546387,
+                "gsv_panorama_id": "cH39oQJZ_Q962MVtn9GRVQ",
+                "time_created": "2022-05-12 08:20:11.05-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 41,
+                "img_url": "img/seattle_with_icons/label_id_310.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.359672546387,
+                    47.6469497680664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 311,
+                "username": "Devon Snyder",
+                "label_id": 311,
+                "street_edge_id": 272,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6469459533691,
+                "lng": -122.359558105469,
+                "gsv_panorama_id": "cH39oQJZ_Q962MVtn9GRVQ",
+                "time_created": "2022-05-12 08:20:12.192-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 42,
+                "img_url": "img/seattle_with_icons/label_id_311.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.359558105469,
+                    47.6469459533691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 312,
+                "username": "Devon Snyder",
+                "label_id": 312,
+                "street_edge_id": 272,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6469879150391,
+                "lng": -122.359817504883,
+                "gsv_panorama_id": "cH39oQJZ_Q962MVtn9GRVQ",
+                "time_created": "2022-05-12 08:20:15.579-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 43,
+                "img_url": "img/seattle_with_icons/label_id_312.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.359817504883,
+                    47.6469879150391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 323,
+                "username": "Devon Snyder",
+                "label_id": 323,
+                "street_edge_id": 272,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6469764709473,
+                "lng": -122.360076904297,
+                "gsv_panorama_id": "rqG3GOchCI85_ZDO9JHynQ",
+                "time_created": "2022-05-12 08:22:21.786-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 44,
+                "img_url": "img/seattle_with_icons/label_id_323.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.360076904297,
+                    47.6469764709473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 324,
+                "username": "Devon Snyder",
+                "label_id": 324,
+                "street_edge_id": 272,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6469764709473,
+                "lng": -122.360252380371,
+                "gsv_panorama_id": "rqG3GOchCI85_ZDO9JHynQ",
+                "time_created": "2022-05-12 08:22:26.03-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 45,
+                "img_url": "img/seattle_with_icons/label_id_324.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.360252380371,
+                    47.6469764709473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 328,
+                "username": "Devon Snyder",
+                "label_id": 328,
+                "street_edge_id": 272,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.64697265625,
+                "lng": -122.360313415527,
+                "gsv_panorama_id": "EE1E40ZIIoPfiQ5txhsbIA",
+                "time_created": "2022-05-12 08:23:17.37-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 46,
+                "img_url": "img/seattle_with_icons/label_id_328.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.360313415527,
+                    47.64697265625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 329,
+                "username": "Devon Snyder",
+                "label_id": 329,
+                "street_edge_id": 272,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6469650268555,
+                "lng": -122.360420227051,
+                "gsv_panorama_id": "EE1E40ZIIoPfiQ5txhsbIA",
+                "time_created": "2022-05-12 08:23:20.694-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 47,
+                "img_url": "img/seattle_with_icons/label_id_329.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.360420227051,
+                    47.6469650268555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 330,
+                "username": "Devon Snyder",
+                "label_id": 330,
+                "street_edge_id": 272,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6468124389649,
+                "lng": -122.360458374023,
+                "gsv_panorama_id": "fIPOB4e8mK8K64hExx7npw",
+                "time_created": "2022-05-12 08:23:29.143-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 48,
+                "img_url": "img/seattle_with_icons/label_id_330.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.360458374023,
+                    47.6468124389649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 349,
+                "username": "Devon Snyder",
+                "label_id": 349,
+                "street_edge_id": 296,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6464729309082,
+                "lng": -122.360656738281,
+                "gsv_panorama_id": "oWngERV2n4NFsYgwMCSCcA",
+                "time_created": "2022-05-12 08:28:27.151-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 49,
+                "img_url": "img/seattle_with_icons/label_id_349.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.360656738281,
+                    47.6464729309082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 350,
+                "username": "Devon Snyder",
+                "label_id": 350,
+                "street_edge_id": 296,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6463813781738,
+                "lng": -122.36067199707,
+                "gsv_panorama_id": "oWngERV2n4NFsYgwMCSCcA",
+                "time_created": "2022-05-12 08:28:28.393-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 50,
+                "img_url": "img/seattle_with_icons/label_id_350.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36067199707,
+                    47.6463813781738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 352,
+                "username": "Devon Snyder",
+                "label_id": 352,
+                "street_edge_id": 296,
+                "neighborhood": "Queen Anne",
+                "label_type": "Occlusion",
+                "lat": 47.6462631225586,
+                "lng": -122.36067199707,
+                "gsv_panorama_id": "X-ZZVS4RFKGSPVAwZK5HCQ",
+                "time_created": "2022-05-12 08:28:54.688-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 51,
+                "img_url": "img/seattle_with_icons/label_id_352.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36067199707,
+                    47.6462631225586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 569,
+                "username": "Devon Snyder",
+                "label_id": 569,
+                "street_edge_id": 751,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.6690368652344,
+                "lng": -122.263488769531,
+                "gsv_panorama_id": "GHS9hKw_FjDuAT3rk9e_dw",
+                "time_created": "2022-05-13 09:29:44.101-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 52,
+                "img_url": "img/seattle_with_icons/label_id_569.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.263488769531,
+                    47.6690368652344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 572,
+                "username": "Devon Snyder",
+                "label_id": 572,
+                "street_edge_id": 751,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.6692390441895,
+                "lng": -122.263519287109,
+                "gsv_panorama_id": "0Nltoi25QAvBRRhjHnbwYQ",
+                "time_created": "2022-05-13 09:30:35.995-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 53,
+                "img_url": "img/seattle_with_icons/label_id_572.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.263519287109,
+                    47.6692390441895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 578,
+                "username": "Devon Snyder",
+                "label_id": 578,
+                "street_edge_id": 751,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.6699142456055,
+                "lng": -122.263519287109,
+                "gsv_panorama_id": "HCUALQotf0OqXXQf5Nm-hw",
+                "time_created": "2022-05-13 09:33:09.227-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 54,
+                "img_url": "img/seattle_with_icons/label_id_578.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.263519287109,
+                    47.6699142456055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 606,
+                "username": "Devon Snyder",
+                "label_id": 606,
+                "street_edge_id": 751,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.6711540222168,
+                "lng": -122.263366699219,
+                "gsv_panorama_id": "ke2nh-3q4DnhZPUFV8s5XQ",
+                "time_created": "2022-05-13 09:40:27.153-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 55,
+                "img_url": "img/seattle_with_icons/label_id_606.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.263366699219,
+                    47.6711540222168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 610,
+                "username": "Devon Snyder",
+                "label_id": 610,
+                "street_edge_id": 751,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.6713714599609,
+                "lng": -122.263374328613,
+                "gsv_panorama_id": "AJJKfPNO2Rm3XUGnQ-q6vQ",
+                "time_created": "2022-05-13 09:46:03.589-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 56,
+                "img_url": "img/seattle_with_icons/label_id_610.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.263374328613,
+                    47.6713714599609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 614,
+                "username": "Devon Snyder",
+                "label_id": 614,
+                "street_edge_id": 751,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.6716156005859,
+                "lng": -122.263374328613,
+                "gsv_panorama_id": "cT_9b1MpH6t1zXRvbXLkfQ",
+                "time_created": "2022-05-13 09:46:46.595-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 57,
+                "img_url": "img/seattle_with_icons/label_id_614.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.263374328613,
+                    47.6716156005859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 615,
+                "username": "Devon Snyder",
+                "label_id": 615,
+                "street_edge_id": 751,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.6714744567871,
+                "lng": -122.263366699219,
+                "gsv_panorama_id": "cT_9b1MpH6t1zXRvbXLkfQ",
+                "time_created": "2022-05-13 09:46:49.327-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 58,
+                "img_url": "img/seattle_with_icons/label_id_615.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.263366699219,
+                    47.6714744567871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 638,
+                "username": "Devon Snyder",
+                "label_id": 638,
+                "street_edge_id": 811,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.6720390319824,
+                "lng": -122.26432800293,
+                "gsv_panorama_id": "RH55276u_B2nHk1lMp-K-w",
+                "time_created": "2022-05-13 09:53:31.735-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 59,
+                "img_url": "img/seattle_with_icons/label_id_638.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.26432800293,
+                    47.6720390319824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 657,
+                "username": "Devon Snyder",
+                "label_id": 657,
+                "street_edge_id": 810,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.6721687316895,
+                "lng": -122.265029907227,
+                "gsv_panorama_id": "HE_v2gEHKYuRu7lP033zLQ",
+                "time_created": "2022-05-13 09:59:45.206-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 60,
+                "img_url": "img/seattle_with_icons/label_id_657.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265029907227,
+                    47.6721687316895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 659,
+                "username": "Devon Snyder",
+                "label_id": 659,
+                "street_edge_id": 810,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.6721725463867,
+                "lng": -122.265090942383,
+                "gsv_panorama_id": "RA9EewT1kPlhKh1DcwZQzA",
+                "time_created": "2022-05-13 10:00:18.668-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 61,
+                "img_url": "img/seattle_with_icons/label_id_659.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265090942383,
+                    47.6721725463867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 660,
+                "username": "Devon Snyder",
+                "label_id": 660,
+                "street_edge_id": 810,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.672191619873,
+                "lng": -122.265266418457,
+                "gsv_panorama_id": "RA9EewT1kPlhKh1DcwZQzA",
+                "time_created": "2022-05-13 10:00:22.818-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 62,
+                "img_url": "img/seattle_with_icons/label_id_660.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265266418457,
+                    47.672191619873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 669,
+                "username": "Devon Snyder",
+                "label_id": 669,
+                "street_edge_id": 810,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.672046661377,
+                "lng": -122.26594543457,
+                "gsv_panorama_id": "xAmrJOYlShOEy0u61KeQXw",
+                "time_created": "2022-05-13 10:02:54.394-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 63,
+                "img_url": "img/seattle_with_icons/label_id_669.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.26594543457,
+                    47.672046661377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 676,
+                "username": "Devon Snyder",
+                "label_id": 676,
+                "street_edge_id": 810,
+                "neighborhood": "Windermere",
+                "label_type": "Occlusion",
+                "lat": 47.672191619873,
+                "lng": -122.266593933105,
+                "gsv_panorama_id": "cBYDYsGmv6T0KssvyCJvmQ",
+                "time_created": "2022-05-13 10:05:12.103-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 64,
+                "img_url": "img/seattle_with_icons/label_id_676.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.266593933105,
+                    47.672191619873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 777,
+                "username": "Devon Snyder",
+                "label_id": 777,
+                "street_edge_id": 693,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5419044494629,
+                "lng": -122.267105102539,
+                "gsv_panorama_id": "D3CrPvvuGSzESkjJBBrcFw",
+                "time_created": "2022-05-20 10:47:42.457-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 65,
+                "img_url": "img/seattle_with_icons/label_id_777.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.267105102539,
+                    47.5419044494629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 778,
+                "username": "Devon Snyder",
+                "label_id": 778,
+                "street_edge_id": 693,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5419578552246,
+                "lng": -122.267044067383,
+                "gsv_panorama_id": "Eky0TazpXZ-tjynIgpznDA",
+                "time_created": "2022-05-20 10:47:53.282-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 66,
+                "img_url": "img/seattle_with_icons/label_id_778.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.267044067383,
+                    47.5419578552246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 793,
+                "username": "Devon Snyder",
+                "label_id": 793,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5416793823242,
+                "lng": -122.266845703125,
+                "gsv_panorama_id": "RR09gtgX75wSs_euulCK8w",
+                "time_created": "2022-05-20 10:53:02.673-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 67,
+                "img_url": "img/seattle_with_icons/label_id_793.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.266845703125,
+                    47.5416793823242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 794,
+                "username": "Devon Snyder",
+                "label_id": 794,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5415458679199,
+                "lng": -122.26685333252,
+                "gsv_panorama_id": "RR09gtgX75wSs_euulCK8w",
+                "time_created": "2022-05-20 10:53:08.727-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 68,
+                "img_url": "img/seattle_with_icons/label_id_794.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.26685333252,
+                    47.5415458679199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 797,
+                "username": "Devon Snyder",
+                "label_id": 797,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5417098999023,
+                "lng": -122.267021179199,
+                "gsv_panorama_id": "BuNyC9aOCyUBW6RJIiEnNg",
+                "time_created": "2022-05-20 10:54:25.509-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 69,
+                "img_url": "img/seattle_with_icons/label_id_797.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.267021179199,
+                    47.5417098999023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 799,
+                "username": "Devon Snyder",
+                "label_id": 799,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5416870117188,
+                "lng": -122.2666015625,
+                "gsv_panorama_id": "BuNyC9aOCyUBW6RJIiEnNg",
+                "time_created": "2022-05-20 10:54:40.898-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 70,
+                "img_url": "img/seattle_with_icons/label_id_799.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2666015625,
+                    47.5416870117188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 802,
+                "username": "Devon Snyder",
+                "label_id": 802,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5415344238281,
+                "lng": -122.266555786133,
+                "gsv_panorama_id": "hX0W4SnCVmY22dWU2rHzVw",
+                "time_created": "2022-05-20 10:55:28.012-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 71,
+                "img_url": "img/seattle_with_icons/label_id_802.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.266555786133,
+                    47.5415344238281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 803,
+                "username": "Devon Snyder",
+                "label_id": 803,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5417289733887,
+                "lng": -122.266761779785,
+                "gsv_panorama_id": "hX0W4SnCVmY22dWU2rHzVw",
+                "time_created": "2022-05-20 10:55:38.565-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 72,
+                "img_url": "img/seattle_with_icons/label_id_803.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.266761779785,
+                    47.5417289733887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 808,
+                "username": "Devon Snyder",
+                "label_id": 808,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5416564941406,
+                "lng": -122.266479492188,
+                "gsv_panorama_id": "ZcztMMvpGzZYS96wCVRtpQ",
+                "time_created": "2022-05-20 10:56:50.973-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 73,
+                "img_url": "img/seattle_with_icons/label_id_808.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.266479492188,
+                    47.5416564941406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 809,
+                "username": "Devon Snyder",
+                "label_id": 809,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5416679382324,
+                "lng": -122.266136169434,
+                "gsv_panorama_id": "JzrPJr3SxYA15P8EXoOzqg",
+                "time_created": "2022-05-20 11:00:34.696-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 74,
+                "img_url": "img/seattle_with_icons/label_id_809.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.266136169434,
+                    47.5416679382324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 810,
+                "username": "Devon Snyder",
+                "label_id": 810,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5415115356445,
+                "lng": -122.266143798828,
+                "gsv_panorama_id": "JzrPJr3SxYA15P8EXoOzqg",
+                "time_created": "2022-05-20 11:00:44.388-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 75,
+                "img_url": "img/seattle_with_icons/label_id_810.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.266143798828,
+                    47.5415115356445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 811,
+                "username": "Devon Snyder",
+                "label_id": 811,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5415229797363,
+                "lng": -122.265914916992,
+                "gsv_panorama_id": "LFXDnP2rMH3Hvebii1clrQ",
+                "time_created": "2022-05-20 11:01:03.19-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 76,
+                "img_url": "img/seattle_with_icons/label_id_811.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265914916992,
+                    47.5415229797363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 812,
+                "username": "Devon Snyder",
+                "label_id": 812,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5415153503418,
+                "lng": -122.265960693359,
+                "gsv_panorama_id": "LFXDnP2rMH3Hvebii1clrQ",
+                "time_created": "2022-05-20 11:01:05.985-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 77,
+                "img_url": "img/seattle_with_icons/label_id_812.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265960693359,
+                    47.5415153503418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 813,
+                "username": "Devon Snyder",
+                "label_id": 813,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5414886474609,
+                "lng": -122.266212463379,
+                "gsv_panorama_id": "LFXDnP2rMH3Hvebii1clrQ",
+                "time_created": "2022-05-20 11:01:16.289-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 78,
+                "img_url": "img/seattle_with_icons/label_id_813.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.266212463379,
+                    47.5414886474609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 814,
+                "username": "Devon Snyder",
+                "label_id": 814,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5417022705078,
+                "lng": -122.266227722168,
+                "gsv_panorama_id": "LFXDnP2rMH3Hvebii1clrQ",
+                "time_created": "2022-05-20 11:01:21.787-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 79,
+                "img_url": "img/seattle_with_icons/label_id_814.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.266227722168,
+                    47.5417022705078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 816,
+                "username": "Devon Snyder",
+                "label_id": 816,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5416450500488,
+                "lng": -122.265846252441,
+                "gsv_panorama_id": "LFXDnP2rMH3Hvebii1clrQ",
+                "time_created": "2022-05-20 11:01:36.475-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/seattle_with_icons/label_id_816.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265846252441,
+                    47.5416450500488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 817,
+                "username": "Devon Snyder",
+                "label_id": 817,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5416870117188,
+                "lng": -122.265754699707,
+                "gsv_panorama_id": "5i7Bu7qD38COcKwys77uYg",
+                "time_created": "2022-05-20 11:01:49.748-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 80,
+                "img_url": "img/seattle_with_icons/label_id_817.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265754699707,
+                    47.5416870117188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 822,
+                "username": "Devon Snyder",
+                "label_id": 822,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5415153503418,
+                "lng": -122.265518188477,
+                "gsv_panorama_id": "iEq8A82cexcZ9uVdz5nGZA",
+                "time_created": "2022-05-20 11:03:33.025-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 81,
+                "img_url": "img/seattle_with_icons/label_id_822.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265518188477,
+                    47.5415153503418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 836,
+                "username": "Devon Snyder",
+                "label_id": 836,
+                "street_edge_id": 666,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5412940979004,
+                "lng": -122.265556335449,
+                "gsv_panorama_id": "EnAO04IhjrWKXO3mYVjoKg",
+                "time_created": "2022-05-20 11:09:41.107-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 82,
+                "img_url": "img/seattle_with_icons/label_id_836.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265556335449,
+                    47.5412940979004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 837,
+                "username": "Devon Snyder",
+                "label_id": 837,
+                "street_edge_id": 666,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.541187286377,
+                "lng": -122.265663146973,
+                "gsv_panorama_id": "ybvNl_2n7kWEQgKeCU_aIg",
+                "time_created": "2022-05-20 11:09:57.815-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 83,
+                "img_url": "img/seattle_with_icons/label_id_837.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265663146973,
+                    47.541187286377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 962,
+                "username": "Devon Snyder",
+                "label_id": 962,
+                "street_edge_id": 11,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6765403747559,
+                "lng": -122.395866394043,
+                "gsv_panorama_id": "FYD9TCG8EeCMMGJ_z2oYSg",
+                "time_created": "2022-05-24 11:44:18.334-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 84,
+                "img_url": "img/seattle_with_icons/label_id_962.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.395866394043,
+                    47.6765403747559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 975,
+                "username": "Devon Snyder",
+                "label_id": 975,
+                "street_edge_id": 11,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6767311096191,
+                "lng": -122.395851135254,
+                "gsv_panorama_id": "J20sLogH3ptTcqsRJ177Aw",
+                "time_created": "2022-05-24 11:46:39.285-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 85,
+                "img_url": "img/seattle_with_icons/label_id_975.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.395851135254,
+                    47.6767311096191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 980,
+                "username": "Devon Snyder",
+                "label_id": 980,
+                "street_edge_id": 35,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6770401000977,
+                "lng": -122.395622253418,
+                "gsv_panorama_id": "jt4MtiQhc4NbsQhfMqfYcw",
+                "time_created": "2022-05-24 11:49:04.899-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 86,
+                "img_url": "img/seattle_with_icons/label_id_980.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.395622253418,
+                    47.6770401000977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 995,
+                "username": "Devon Snyder",
+                "label_id": 995,
+                "street_edge_id": 13,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.67724609375,
+                "lng": -122.396202087402,
+                "gsv_panorama_id": "EZYIv9LA0dhh6cBhKA4ofA",
+                "time_created": "2022-05-24 11:53:16.391-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/seattle_with_icons/label_id_995.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.396202087402,
+                    47.67724609375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 996,
+                "username": "Devon Snyder",
+                "label_id": 996,
+                "street_edge_id": 13,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6772499084473,
+                "lng": -122.396385192871,
+                "gsv_panorama_id": "EZYIv9LA0dhh6cBhKA4ofA",
+                "time_created": "2022-05-24 11:53:19.568-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 87,
+                "img_url": "img/seattle_with_icons/label_id_996.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.396385192871,
+                    47.6772499084473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 997,
+                "username": "Devon Snyder",
+                "label_id": 997,
+                "street_edge_id": 13,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6772346496582,
+                "lng": -122.396774291992,
+                "gsv_panorama_id": "y96oxpNBLzSIIPOuJ7IHNQ",
+                "time_created": "2022-05-24 11:54:20.86-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 88,
+                "img_url": "img/seattle_with_icons/label_id_997.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.396774291992,
+                    47.6772346496582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1002,
+                "username": "Devon Snyder",
+                "label_id": 1002,
+                "street_edge_id": 13,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6773643493652,
+                "lng": -122.397399902344,
+                "gsv_panorama_id": "VWovCr6c1JCkxKD-t1KuzA",
+                "time_created": "2022-05-24 11:56:25.487-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 89,
+                "img_url": "img/seattle_with_icons/label_id_1002.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.397399902344,
+                    47.6773643493652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1010,
+                "username": "Devon Snyder",
+                "label_id": 1010,
+                "street_edge_id": 44,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6773872375488,
+                "lng": -122.398307800293,
+                "gsv_panorama_id": "OZF_xsz-QCFd74PchY9adg",
+                "time_created": "2022-05-24 12:00:23.477-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 90,
+                "img_url": "img/seattle_with_icons/label_id_1010.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.398307800293,
+                    47.6773872375488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1011,
+                "username": "Devon Snyder",
+                "label_id": 1011,
+                "street_edge_id": 44,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6773529052734,
+                "lng": -122.398498535156,
+                "gsv_panorama_id": "5q84e79zMP96lw8ZXyogmQ",
+                "time_created": "2022-05-24 12:00:47.25-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 91,
+                "img_url": "img/seattle_with_icons/label_id_1011.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.398498535156,
+                    47.6773529052734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1015,
+                "username": "Devon Snyder",
+                "label_id": 1015,
+                "street_edge_id": 44,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.677734375,
+                "lng": -122.398567199707,
+                "gsv_panorama_id": "p7C-RSfY5Ihmu-624kpZCw",
+                "time_created": "2022-05-24 12:02:19.199-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 92,
+                "img_url": "img/seattle_with_icons/label_id_1015.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.398567199707,
+                    47.677734375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1017,
+                "username": "Devon Snyder",
+                "label_id": 1017,
+                "street_edge_id": 44,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6778182983398,
+                "lng": -122.398529052734,
+                "gsv_panorama_id": "FZdzxhPPqmBS2YJTTGITYw",
+                "time_created": "2022-05-24 12:03:15.721-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 93,
+                "img_url": "img/seattle_with_icons/label_id_1017.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.398529052734,
+                    47.6778182983398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1035,
+                "username": "Devon Snyder",
+                "label_id": 1035,
+                "street_edge_id": 61,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6779479980469,
+                "lng": -122.398170471191,
+                "gsv_panorama_id": "q5HxEnP4nyTZnBQ_w-JTYA",
+                "time_created": "2022-05-24 12:08:58.526-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 94,
+                "img_url": "img/seattle_with_icons/label_id_1035.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.398170471191,
+                    47.6779479980469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1130,
+                "username": "Devon Snyder",
+                "label_id": 1130,
+                "street_edge_id": 631,
+                "neighborhood": "Highland Park",
+                "label_type": "Occlusion",
+                "lat": 47.5209617614746,
+                "lng": -122.351654052734,
+                "gsv_panorama_id": "YJCwLeqikuXlowmUOn6x5g",
+                "time_created": "2022-05-24 14:45:55.345-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 95,
+                "img_url": "img/seattle_with_icons/label_id_1130.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.351654052734,
+                    47.5209617614746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1153,
+                "username": "Devon Snyder",
+                "label_id": 1153,
+                "street_edge_id": 599,
+                "neighborhood": "Highland Park",
+                "label_type": "Occlusion",
+                "lat": 47.5209808349609,
+                "lng": -122.353225708008,
+                "gsv_panorama_id": "ttWLJAikjrjF83xQvC9rxw",
+                "time_created": "2022-05-24 14:51:30.351-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 96,
+                "img_url": "img/seattle_with_icons/label_id_1153.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.353225708008,
+                    47.5209808349609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1155,
+                "username": "Devon Snyder",
+                "label_id": 1155,
+                "street_edge_id": 599,
+                "neighborhood": "Highland Park",
+                "label_type": "Occlusion",
+                "lat": 47.5209083557129,
+                "lng": -122.353378295898,
+                "gsv_panorama_id": "n7xi1KBeAwBUk0eWId2IqQ",
+                "time_created": "2022-05-24 14:52:07.431-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 97,
+                "img_url": "img/seattle_with_icons/label_id_1155.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.353378295898,
+                    47.5209083557129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1170,
+                "username": "Devon Snyder",
+                "label_id": 1170,
+                "street_edge_id": 600,
+                "neighborhood": "Highland Park",
+                "label_type": "Occlusion",
+                "lat": 47.5209312438965,
+                "lng": -122.35425567627,
+                "gsv_panorama_id": "T3pVQxuo4vaShYV3H0jErA",
+                "time_created": "2022-05-24 14:59:51.01-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 98,
+                "img_url": "img/seattle_with_icons/label_id_1170.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.35425567627,
+                    47.5209312438965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1171,
+                "username": "Devon Snyder",
+                "label_id": 1171,
+                "street_edge_id": 600,
+                "neighborhood": "Highland Park",
+                "label_type": "Occlusion",
+                "lat": 47.5209350585938,
+                "lng": -122.354438781738,
+                "gsv_panorama_id": "T3pVQxuo4vaShYV3H0jErA",
+                "time_created": "2022-05-24 14:59:53.74-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 99,
+                "img_url": "img/seattle_with_icons/label_id_1171.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.354438781738,
+                    47.5209350585938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1172,
+                "username": "Devon Snyder",
+                "label_id": 1172,
+                "street_edge_id": 600,
+                "neighborhood": "Highland Park",
+                "label_type": "Occlusion",
+                "lat": 47.5211143493652,
+                "lng": -122.354423522949,
+                "gsv_panorama_id": "T3pVQxuo4vaShYV3H0jErA",
+                "time_created": "2022-05-24 14:59:58.383-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 100,
+                "img_url": "img/seattle_with_icons/label_id_1172.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.354423522949,
+                    47.5211143493652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1175,
+                "username": "Devon Snyder",
+                "label_id": 1175,
+                "street_edge_id": 600,
+                "neighborhood": "Highland Park",
+                "label_type": "Occlusion",
+                "lat": 47.5209197998047,
+                "lng": -122.354667663574,
+                "gsv_panorama_id": "PtqtJKA4UuoyzKwNQx2iUA",
+                "time_created": "2022-05-24 15:00:34.401-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/seattle_with_icons/label_id_1175.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.354667663574,
+                    47.5209197998047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1300,
+                "username": "Devon Snyder",
+                "label_id": 1300,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Occlusion",
+                "lat": 47.5501594543457,
+                "lng": -122.361930847168,
+                "gsv_panorama_id": "yOBO1muDlRvfQMdbsxYJjg",
+                "time_created": "2022-05-25 09:52:16.429-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 101,
+                "img_url": "img/seattle_with_icons/label_id_1300.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361930847168,
+                    47.5501594543457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1311,
+                "username": "Devon Snyder",
+                "label_id": 1311,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Occlusion",
+                "lat": 47.5501899719238,
+                "lng": -122.361923217773,
+                "gsv_panorama_id": "49FnOlrqZOFS3m9yjbwC9Q",
+                "time_created": "2022-05-25 09:54:37.695-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 102,
+                "img_url": "img/seattle_with_icons/label_id_1311.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.361923217773,
+                    47.5501899719238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1316,
+                "username": "Devon Snyder",
+                "label_id": 1316,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Occlusion",
+                "lat": 47.5502052307129,
+                "lng": -122.362174987793,
+                "gsv_panorama_id": "0cdTbZSxPL-00omJHkRyyw",
+                "time_created": "2022-05-25 09:55:21.031-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 103,
+                "img_url": "img/seattle_with_icons/label_id_1316.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362174987793,
+                    47.5502052307129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1319,
+                "username": "Devon Snyder",
+                "label_id": 1319,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Occlusion",
+                "lat": 47.5501708984375,
+                "lng": -122.362442016602,
+                "gsv_panorama_id": "hA2eJhdsOTRhVb6QLitcZg",
+                "time_created": "2022-05-25 09:56:06.072-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 104,
+                "img_url": "img/seattle_with_icons/label_id_1319.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362442016602,
+                    47.5501708984375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1322,
+                "username": "Devon Snyder",
+                "label_id": 1322,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Occlusion",
+                "lat": 47.5501899719238,
+                "lng": -122.36247253418,
+                "gsv_panorama_id": "fIvSY08YweXmS3oC2xvYzQ",
+                "time_created": "2022-05-25 09:56:29.467-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 105,
+                "img_url": "img/seattle_with_icons/label_id_1322.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.36247253418,
+                    47.5501899719238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1323,
+                "username": "Devon Snyder",
+                "label_id": 1323,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Occlusion",
+                "lat": 47.5502319335938,
+                "lng": -122.362571716309,
+                "gsv_panorama_id": "fIvSY08YweXmS3oC2xvYzQ",
+                "time_created": "2022-05-25 09:56:30.995-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 106,
+                "img_url": "img/seattle_with_icons/label_id_1323.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362571716309,
+                    47.5502319335938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1326,
+                "username": "Devon Snyder",
+                "label_id": 1326,
+                "street_edge_id": 72,
+                "neighborhood": "Delridge",
+                "label_type": "Occlusion",
+                "lat": 47.5502014160156,
+                "lng": -122.362510681152,
+                "gsv_panorama_id": "urc6vR3WfzDRaWIYn5g34g",
+                "time_created": "2022-05-25 09:57:42.152-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 107,
+                "img_url": "img/seattle_with_icons/label_id_1326.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.362510681152,
+                    47.5502014160156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1395,
+                "username": "Devon Snyder",
+                "label_id": 1395,
+                "street_edge_id": 532,
+                "neighborhood": "Greenwood",
+                "label_type": "Occlusion",
+                "lat": 47.6968269348145,
+                "lng": -122.347236633301,
+                "gsv_panorama_id": "Ce9cGxYhhjebb8XXQwAjfQ",
+                "time_created": "2022-05-25 13:50:24.37-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 108,
+                "img_url": "img/seattle_with_icons/label_id_1395.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.347236633301,
+                    47.6968269348145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1396,
+                "username": "Devon Snyder",
+                "label_id": 1396,
+                "street_edge_id": 532,
+                "neighborhood": "Greenwood",
+                "label_type": "Occlusion",
+                "lat": 47.69677734375,
+                "lng": -122.347221374512,
+                "gsv_panorama_id": "dB770AfMwF9qiKhu76Bciw",
+                "time_created": "2022-05-25 13:51:03.312-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 109,
+                "img_url": "img/seattle_with_icons/label_id_1396.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.347221374512,
+                    47.69677734375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1398,
+                "username": "Devon Snyder",
+                "label_id": 1398,
+                "street_edge_id": 532,
+                "neighborhood": "Greenwood",
+                "label_type": "Occlusion",
+                "lat": 47.6965103149414,
+                "lng": -122.347206115723,
+                "gsv_panorama_id": "0SAt6Gc_VFlqYgFoQVefCg",
+                "time_created": "2022-05-25 13:52:13.412-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 110,
+                "img_url": "img/seattle_with_icons/label_id_1398.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.347206115723,
+                    47.6965103149414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1403,
+                "username": "Devon Snyder",
+                "label_id": 1403,
+                "street_edge_id": 531,
+                "neighborhood": "Greenwood",
+                "label_type": "Occlusion",
+                "lat": 47.6963386535645,
+                "lng": -122.34741973877,
+                "gsv_panorama_id": "EGeXZ2798oHg7E18qi2Npw",
+                "time_created": "2022-05-25 13:53:32.131-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 111,
+                "img_url": "img/seattle_with_icons/label_id_1403.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.34741973877,
+                    47.6963386535645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1594,
+                "username": "mikey",
+                "label_id": 1594,
+                "street_edge_id": 842,
+                "neighborhood": "Rainier Valley",
+                "label_type": "Occlusion",
+                "lat": 47.5416603088379,
+                "lng": -122.265830993652,
+                "gsv_panorama_id": "_F9WSUnXxE_l_aSzb2N4kQ",
+                "time_created": "2022-06-22 16:00:17.281-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/seattle_with_icons/label_id_1594.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.265830993652,
+                    47.5416603088379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1680,
+                "username": "mikey",
+                "label_id": 1680,
+                "street_edge_id": 13,
+                "neighborhood": "Ballard",
+                "label_type": "Occlusion",
+                "lat": 47.6772537231445,
+                "lng": -122.396240234375,
+                "gsv_panorama_id": "DlCuC-sukcp1gs1qa1tgtw",
+                "time_created": "2022-06-27 12:51:53.515-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/seattle_with_icons/label_id_1680.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.396240234375,
+                    47.6772537231445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2104,
+                "username": "mikey",
+                "label_id": 2104,
+                "street_edge_id": 600,
+                "neighborhood": "Highland Park",
+                "label_type": "Occlusion",
+                "lat": 47.5209579467773,
+                "lng": -122.354644775391,
+                "gsv_panorama_id": "PtqtJKA4UuoyzKwNQx2iUA",
+                "time_created": "2022-06-29 15:30:52.289-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/seattle_with_icons/label_id_2104.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.354644775391,
+                    47.5209579467773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2533,
+                "username": "Devon Snyder",
+                "label_id": 2533,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6597099304199,
+                "lng": -122.319854736328,
+                "gsv_panorama_id": "bWNcSsunJ_MyQcFwru1edg",
+                "time_created": "2022-11-09 08:08:14.709-08",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 112,
+                "img_url": "img/seattle_with_icons/label_id_2533.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319854736328,
+                    47.6597099304199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2535,
+                "username": "Devon Snyder",
+                "label_id": 2535,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6596527099609,
+                "lng": -122.31990814209,
+                "gsv_panorama_id": "SRZ-Py452sb8rEJfkHzHWw",
+                "time_created": "2022-11-09 08:08:36.919-08",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 113,
+                "img_url": "img/seattle_with_icons/label_id_2535.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.31990814209,
+                    47.6596527099609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2537,
+                "username": "Devon Snyder",
+                "label_id": 2537,
+                "street_edge_id": 479,
+                "neighborhood": "University District",
+                "label_type": "Occlusion",
+                "lat": 47.6597671508789,
+                "lng": -122.319969177246,
+                "gsv_panorama_id": "SRZ-Py452sb8rEJfkHzHWw",
+                "time_created": "2022-11-09 08:09:00.991-08",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": null,
+                "description": null,
+                "cluster_id": 114,
+                "img_url": "img/seattle_with_icons/label_id_2537.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.319969177246,
+                    47.6597671508789
+                ]
+            }
+        }
+    ]
+}

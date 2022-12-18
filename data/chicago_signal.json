@@ -1,0 +1,1295 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 136,
+                "username": "Devon Snyder",
+                "label_id": 136,
+                "street_edge_id": 413,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0260963439941,
+                "lng": -87.7284164428711,
+                "gsv_panorama_id": "l_joW17kVMrbCc-c0wgZOQ",
+                "time_created": "2022-05-10 15:20:08.992-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/chicago_with_icons/label_id_136.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7284164428711,
+                    42.0260963439941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 139,
+                "username": "Devon Snyder",
+                "label_id": 139,
+                "street_edge_id": 413,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0261917114258,
+                "lng": -87.7284622192383,
+                "gsv_panorama_id": "nG8zZVxy9NoJ2koyn3UHrg",
+                "time_created": "2022-05-10 15:21:23.276-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 1,
+                "img_url": "img/chicago_with_icons/label_id_139.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7284622192383,
+                    42.0261917114258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 143,
+                "username": "Devon Snyder",
+                "label_id": 143,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0261001586914,
+                "lng": -87.7279968261719,
+                "gsv_panorama_id": "jduryxSb7BLpIXL5HaeGog",
+                "time_created": "2022-05-10 15:22:15.718-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/chicago_with_icons/label_id_143.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7279968261719,
+                    42.0261001586914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 147,
+                "username": "Devon Snyder",
+                "label_id": 147,
+                "street_edge_id": 413,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0263671875,
+                "lng": -87.728401184082,
+                "gsv_panorama_id": "ysZ2ATJKeGS2idQpiyp1gA",
+                "time_created": "2022-05-10 15:23:40.32-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/chicago_with_icons/label_id_147.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.728401184082,
+                    42.0263671875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 150,
+                "username": "Devon Snyder",
+                "label_id": 150,
+                "street_edge_id": 413,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0264434814453,
+                "lng": -87.728385925293,
+                "gsv_panorama_id": "wxy58lr0IsL44sQE9B9UWg",
+                "time_created": "2022-05-10 15:24:49.83-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/chicago_with_icons/label_id_150.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.728385925293,
+                    42.0264434814453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 154,
+                "username": "Devon Snyder",
+                "label_id": 154,
+                "street_edge_id": 405,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0264282226563,
+                "lng": -87.7279968261719,
+                "gsv_panorama_id": "wxy58lr0IsL44sQE9B9UWg",
+                "time_created": "2022-05-10 15:25:29.523-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/chicago_with_icons/label_id_154.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7279968261719,
+                    42.0264282226563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1070,
+                "username": "Devon Snyder",
+                "label_id": 1070,
+                "street_edge_id": 403,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Signal",
+                "lat": 42.011833190918,
+                "lng": -87.7288208007812,
+                "gsv_panorama_id": "sg0F_IluxwMGasPhPMY4jw",
+                "time_created": "2022-05-24 13:00:51.423-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 19,
+                "img_url": "img/chicago_with_icons/label_id_1070.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7288208007812,
+                    42.011833190918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1071,
+                "username": "Devon Snyder",
+                "label_id": 1071,
+                "street_edge_id": 383,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Signal",
+                "lat": 42.0116386413574,
+                "lng": -87.7288131713867,
+                "gsv_panorama_id": "97DALXUeqckVcQ9hWIi2AQ",
+                "time_created": "2022-05-24 13:01:02.602-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 20,
+                "img_url": "img/chicago_with_icons/label_id_1071.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7288131713867,
+                    42.0116386413574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1072,
+                "username": "Devon Snyder",
+                "label_id": 1072,
+                "street_edge_id": 439,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Signal",
+                "lat": 42.0118408203125,
+                "lng": -87.7283554077149,
+                "gsv_panorama_id": "BuMm-k0pX1Xf2Y3PE3mtGw",
+                "time_created": "2022-05-24 13:01:15.459-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 21,
+                "img_url": "img/chicago_with_icons/label_id_1072.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7283554077149,
+                    42.0118408203125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1073,
+                "username": "Devon Snyder",
+                "label_id": 1073,
+                "street_edge_id": 402,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Signal",
+                "lat": 42.0115852355957,
+                "lng": -87.7284240722656,
+                "gsv_panorama_id": "GAbRwKYSWba_Wdie8aV3sg",
+                "time_created": "2022-05-24 13:01:23.612-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 22,
+                "img_url": "img/chicago_with_icons/label_id_1073.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7284240722656,
+                    42.0115852355957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1203,
+                "username": "Devon Snyder",
+                "label_id": 1203,
+                "street_edge_id": 399,
+                "neighborhood": "Mount Prospect",
+                "label_type": "Signal",
+                "lat": 42.0367698669434,
+                "lng": -87.9603424072266,
+                "gsv_panorama_id": "7NVctUrVqjylto3cqtXsPg",
+                "time_created": "2022-05-24 15:15:44.416-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 12,
+                "img_url": "img/chicago_with_icons/label_id_1203.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9603424072266,
+                    42.0367698669434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1419,
+                "username": "Devon Snyder",
+                "label_id": 1419,
+                "street_edge_id": 435,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1276626586914,
+                "lng": -87.8792572021484,
+                "gsv_panorama_id": "622w2B6SOQbsngPb4TWpCg",
+                "time_created": "2022-05-25 14:04:12.389-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "button waist height,has button",
+                "description": null,
+                "cluster_id": 14,
+                "img_url": "img/chicago_with_icons/label_id_1419.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8792572021484,
+                    42.1276626586914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1421,
+                "username": "Devon Snyder",
+                "label_id": 1421,
+                "street_edge_id": 432,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1276054382324,
+                "lng": -87.8796234130859,
+                "gsv_panorama_id": "622w2B6SOQbsngPb4TWpCg",
+                "time_created": "2022-05-25 14:04:27.837-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 17,
+                "img_url": "img/chicago_with_icons/label_id_1421.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8796234130859,
+                    42.1276054382324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1426,
+                "username": "Devon Snyder",
+                "label_id": 1426,
+                "street_edge_id": 435,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1273765563965,
+                "lng": -87.8791961669922,
+                "gsv_panorama_id": "Vydg5ao_M9JCnjXfeDcJbQ",
+                "time_created": "2022-05-25 14:06:12.235-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "button waist height,has button",
+                "description": "kind of far away from the sidewalk",
+                "cluster_id": 15,
+                "img_url": "img/chicago_with_icons/label_id_1426.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8791961669922,
+                    42.1273765563965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1430,
+                "username": "Devon Snyder",
+                "label_id": 1430,
+                "street_edge_id": 433,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1274566650391,
+                "lng": -87.879638671875,
+                "gsv_panorama_id": "mhiXMZthl3qQMpwBPB9R8w",
+                "time_created": "2022-05-25 14:06:55.529-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "button waist height,has button",
+                "description": null,
+                "cluster_id": 16,
+                "img_url": "img/chicago_with_icons/label_id_1430.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.879638671875,
+                    42.1274566650391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1460,
+                "username": "Devon Snyder",
+                "label_id": 1460,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1167488098145,
+                "lng": -87.8584060668945,
+                "gsv_panorama_id": "yl5gye-Nwx-4O5zPg3S9cg",
+                "time_created": "2022-05-25 14:22:44.609-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 10,
+                "img_url": "img/chicago_with_icons/label_id_1460.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8584060668945,
+                    42.1167488098145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1462,
+                "username": "Devon Snyder",
+                "label_id": 1462,
+                "street_edge_id": 427,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1167182922363,
+                "lng": -87.8587875366211,
+                "gsv_panorama_id": "yl5gye-Nwx-4O5zPg3S9cg",
+                "time_created": "2022-05-25 14:23:02.147-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/chicago_with_icons/label_id_1462.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8587875366211,
+                    42.1167182922363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1467,
+                "username": "Devon Snyder",
+                "label_id": 1467,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1165008544922,
+                "lng": -87.8583602905274,
+                "gsv_panorama_id": "GtB8nq1x5fFvxF0t3i3H3Q",
+                "time_created": "2022-05-25 14:24:07.499-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button",
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/chicago_with_icons/label_id_1467.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8583602905274,
+                    42.1165008544922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1470,
+                "username": "Devon Snyder",
+                "label_id": 1470,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1165504455566,
+                "lng": -87.8588256835937,
+                "gsv_panorama_id": "GtB8nq1x5fFvxF0t3i3H3Q",
+                "time_created": "2022-05-25 14:24:30.598-07",
+                "correct": "t",
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 9,
+                "img_url": "img/chicago_with_icons/label_id_1470.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8588256835937,
+                    42.1165504455566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1555,
+                "username": "mikey",
+                "label_id": 1555,
+                "street_edge_id": 402,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Signal",
+                "lat": 42.011604309082,
+                "lng": -87.7284393310547,
+                "gsv_panorama_id": "GAbRwKYSWba_Wdie8aV3sg",
+                "time_created": "2022-06-17 13:02:39.773-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 22,
+                "img_url": "img/chicago_with_icons/label_id_1555.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7284393310547,
+                    42.011604309082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1556,
+                "username": "mikey",
+                "label_id": 1556,
+                "street_edge_id": 439,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Signal",
+                "lat": 42.0118370056152,
+                "lng": -87.7283782958984,
+                "gsv_panorama_id": "sCOGFgsao_roOpDbYSrRJg",
+                "time_created": "2022-06-17 13:03:11.276-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 21,
+                "img_url": "img/chicago_with_icons/label_id_1556.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7283782958984,
+                    42.0118370056152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1557,
+                "username": "mikey",
+                "label_id": 1557,
+                "street_edge_id": 383,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Signal",
+                "lat": 42.0116310119629,
+                "lng": -87.7287750244141,
+                "gsv_panorama_id": "97DALXUeqckVcQ9hWIi2AQ",
+                "time_created": "2022-06-17 13:06:05.343-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 20,
+                "img_url": "img/chicago_with_icons/label_id_1557.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7287750244141,
+                    42.0116310119629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1558,
+                "username": "mikey",
+                "label_id": 1558,
+                "street_edge_id": 403,
+                "neighborhood": "Lincolnwood",
+                "label_type": "Signal",
+                "lat": 42.011833190918,
+                "lng": -87.7287521362305,
+                "gsv_panorama_id": "jvN7QQz9i81ZeFBzxUurKg",
+                "time_created": "2022-06-17 13:06:59.679-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 19,
+                "img_url": "img/chicago_with_icons/label_id_1558.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7287521362305,
+                    42.011833190918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1943,
+                "username": "mikey",
+                "label_id": 1943,
+                "street_edge_id": 433,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1274108886719,
+                "lng": -87.8795471191406,
+                "gsv_panorama_id": "I9NZsMDh9riaaHZmjsOiyA",
+                "time_created": "2022-06-29 12:57:21.93-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 18,
+                "img_url": "img/chicago_with_icons/label_id_1943.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8795471191406,
+                    42.1274108886719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1944,
+                "username": "mikey",
+                "label_id": 1944,
+                "street_edge_id": 433,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1274452209473,
+                "lng": -87.8795928955078,
+                "gsv_panorama_id": "3i6Jm1mCk3n10Y2aOHL2ug",
+                "time_created": "2022-06-29 12:57:33.299-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 16,
+                "img_url": "img/chicago_with_icons/label_id_1944.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8795928955078,
+                    42.1274452209473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1948,
+                "username": "mikey",
+                "label_id": 1948,
+                "street_edge_id": 435,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1274108886719,
+                "lng": -87.8792266845703,
+                "gsv_panorama_id": "6UeA45S5Xxz4JHXTmwbuVg",
+                "time_created": "2022-06-29 12:58:06.188-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 15,
+                "img_url": "img/chicago_with_icons/label_id_1948.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8792266845703,
+                    42.1274108886719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1952,
+                "username": "mikey",
+                "label_id": 1952,
+                "street_edge_id": 435,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1276817321777,
+                "lng": -87.879280090332,
+                "gsv_panorama_id": "SBSPyy6cir4L91ITn228pQ",
+                "time_created": "2022-06-29 12:58:31.657-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height",
+                "description": null,
+                "cluster_id": 14,
+                "img_url": "img/chicago_with_icons/label_id_1952.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.879280090332,
+                    42.1276817321777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1969,
+                "username": "mikey",
+                "label_id": 1969,
+                "street_edge_id": 427,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1167030334473,
+                "lng": -87.8588562011719,
+                "gsv_panorama_id": "RGZKtyAsgg2COjt7FB3n1w",
+                "time_created": "2022-06-29 13:03:43.863-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 13,
+                "img_url": "img/chicago_with_icons/label_id_1969.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8588562011719,
+                    42.1167030334473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1970,
+                "username": "mikey",
+                "label_id": 1970,
+                "street_edge_id": 427,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.116771697998,
+                "lng": -87.8587112426758,
+                "gsv_panorama_id": "RGZKtyAsgg2COjt7FB3n1w",
+                "time_created": "2022-06-29 13:03:49.259-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 23,
+                "img_url": "img/chicago_with_icons/label_id_1970.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8587112426758,
+                    42.116771697998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1972,
+                "username": "mikey",
+                "label_id": 1972,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1165199279785,
+                "lng": -87.8584213256836,
+                "gsv_panorama_id": "GtB8nq1x5fFvxF0t3i3H3Q",
+                "time_created": "2022-06-29 13:04:12.812-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 11,
+                "img_url": "img/chicago_with_icons/label_id_1972.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8584213256836,
+                    42.1165199279785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1978,
+                "username": "mikey",
+                "label_id": 1978,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1164855957031,
+                "lng": -87.8584747314453,
+                "gsv_panorama_id": "8LkXZfBG47O3FvzEZlPubw",
+                "time_created": "2022-06-29 13:04:54.722-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 24,
+                "img_url": "img/chicago_with_icons/label_id_1978.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8584747314453,
+                    42.1164855957031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1980,
+                "username": "mikey",
+                "label_id": 1980,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1167068481445,
+                "lng": -87.8584213256836,
+                "gsv_panorama_id": "SM7uW3jklms3mNlBtFEssg",
+                "time_created": "2022-06-29 13:05:27.038-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "button waist height,has button,APS",
+                "description": null,
+                "cluster_id": 25,
+                "img_url": "img/chicago_with_icons/label_id_1980.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8584213256836,
+                    42.1167068481445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1984,
+                "username": "mikey",
+                "label_id": 1984,
+                "street_edge_id": 427,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1167755126953,
+                "lng": -87.8584518432617,
+                "gsv_panorama_id": "SM7uW3jklms3mNlBtFEssg",
+                "time_created": "2022-06-29 13:05:37.936-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,button waist height,has button",
+                "description": null,
+                "cluster_id": 10,
+                "img_url": "img/chicago_with_icons/label_id_1984.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8584518432617,
+                    42.1167755126953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1986,
+                "username": "mikey",
+                "label_id": 1986,
+                "street_edge_id": 428,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1165313720703,
+                "lng": -87.8588256835937,
+                "gsv_panorama_id": "EnonUT2dqpq-b6qezKJk1Q",
+                "time_created": "2022-06-29 13:06:14.819-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 9,
+                "img_url": "img/chicago_with_icons/label_id_1986.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8588256835937,
+                    42.1165313720703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 1988,
+                "username": "mikey",
+                "label_id": 1988,
+                "street_edge_id": 427,
+                "neighborhood": "Northbrook",
+                "label_type": "Signal",
+                "lat": 42.1167106628418,
+                "lng": -87.8588485717773,
+                "gsv_panorama_id": "EnonUT2dqpq-b6qezKJk1Q",
+                "time_created": "2022-06-29 13:06:28.879-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "has button,button waist height,APS",
+                "description": null,
+                "cluster_id": 8,
+                "img_url": "img/chicago_with_icons/label_id_1988.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.8588485717773,
+                    42.1167106628418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2343,
+                "username": "mikey",
+                "label_id": 2343,
+                "street_edge_id": 413,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0261459350586,
+                "lng": -87.728385925293,
+                "gsv_panorama_id": "zeG5x1Yc8wKqwus5yMYOJw",
+                "time_created": "2022-07-05 12:15:57.109-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,button waist height,has button",
+                "description": null,
+                "cluster_id": 7,
+                "img_url": "img/chicago_with_icons/label_id_2343.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.728385925293,
+                    42.0261459350586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2347,
+                "username": "mikey",
+                "label_id": 2347,
+                "street_edge_id": 413,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0263595581055,
+                "lng": -87.728401184082,
+                "gsv_panorama_id": "wxy58lr0IsL44sQE9B9UWg",
+                "time_created": "2022-07-05 12:16:40.005-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 6,
+                "img_url": "img/chicago_with_icons/label_id_2347.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.728401184082,
+                    42.0263595581055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2348,
+                "username": "mikey",
+                "label_id": 2348,
+                "street_edge_id": 413,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0264091491699,
+                "lng": -87.7283401489258,
+                "gsv_panorama_id": "wxy58lr0IsL44sQE9B9UWg",
+                "time_created": "2022-07-05 12:16:44.408-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 5,
+                "img_url": "img/chicago_with_icons/label_id_2348.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7283401489258,
+                    42.0264091491699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2351,
+                "username": "mikey",
+                "label_id": 2351,
+                "street_edge_id": 405,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0264129638672,
+                "lng": -87.7280349731445,
+                "gsv_panorama_id": "e0bgPnJ4YAZTtajBTPCeXQ",
+                "time_created": "2022-07-05 12:17:15.835-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 4,
+                "img_url": "img/chicago_with_icons/label_id_2351.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280349731445,
+                    42.0264129638672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2352,
+                "username": "mikey",
+                "label_id": 2352,
+                "street_edge_id": 405,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0263519287109,
+                "lng": -87.7279510498047,
+                "gsv_panorama_id": "e0bgPnJ4YAZTtajBTPCeXQ",
+                "time_created": "2022-07-05 12:17:18.823-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 26,
+                "img_url": "img/chicago_with_icons/label_id_2352.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7279510498047,
+                    42.0263519287109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2354,
+                "username": "mikey",
+                "label_id": 2354,
+                "street_edge_id": 405,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0261459350586,
+                "lng": -87.7279434204102,
+                "gsv_panorama_id": "IqJPlhAnHM3Jq6U9OygSmw",
+                "time_created": "2022-07-05 12:17:30.65-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 27,
+                "img_url": "img/chicago_with_icons/label_id_2354.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7279434204102,
+                    42.0261459350586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2355,
+                "username": "mikey",
+                "label_id": 2355,
+                "street_edge_id": 404,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0260887145996,
+                "lng": -87.7280426025391,
+                "gsv_panorama_id": "IqJPlhAnHM3Jq6U9OygSmw",
+                "time_created": "2022-07-05 12:17:33.498-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 3,
+                "img_url": "img/chicago_with_icons/label_id_2355.jpg",
+                "clustered": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7280426025391,
+                    42.0260887145996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unnamed: 0": 2359,
+                "username": "mikey",
+                "label_id": 2359,
+                "street_edge_id": 437,
+                "neighborhood": "Skokie",
+                "label_type": "Signal",
+                "lat": 42.0260391235352,
+                "lng": -87.7283477783203,
+                "gsv_panorama_id": "nG8zZVxy9NoJ2koyn3UHrg",
+                "time_created": "2022-07-05 12:18:56.638-07",
+                "correct": null,
+                "severity": null,
+                "temporary": "f",
+                "tag_list": "APS,has button,button waist height",
+                "description": null,
+                "cluster_id": 2,
+                "img_url": "img/chicago_with_icons/label_id_2359.jpg",
+                "clustered": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7283477783203,
+                    42.0260391235352
+                ]
+            }
+        }
+    ]
+}
